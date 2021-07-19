@@ -124,16 +124,67 @@ def readAllLineTime(filein , fileout):
             cla, input, output = str(line[0]) , str(line[1]) , str(line[2])
             if cla == 'TIME':
                 f_out.write(input +"\t"+output+"\n")
-# insertTagToOOV(filein='src.txt' , fileout='src_oov.txt')
-# insertTagToOOV(filein='tgt.txt' , fileout='tgt_oov.txt')
-# getRawSourceAndTarget('data_craw/data_english_tts/output_1.csv' , 'data_process/input_raw/src_raw.txt', \
-#     'data_process/input_raw/tgt_raw.txt')
-# readAllLineMeasure('data_craw/data_english_tts/output_1.csv','data_process/all_line_measure.txt')
 
-# readAllLineTime('data_craw/data_english_tts/output_1.csv','data_process/all_line_time.txt')
-# with open('data_process/all_line_ordinary.txt','r') as f_r, \
-#     open('test_ordinal.txt','w') as f_w:
-#     for line in f_r:
-#         line = line.strip()
-#         true , input = line.split('\t')[0] , line.split('\t')[1]
-#         f_w.write(true+"\t"+input+"\t"+readOdinal(input)+"\n")
+def findPairCurrencyFromFile(filein , fileout):
+	with open(filein , 'r') as f_r , open(fileout , 'w') as f_w:
+		c = 0
+		result , currency  = [] , []
+		for line in f_r:
+			c += 1
+			print(c)
+			line = line.strip()
+			if ' point ' not in line:
+				output , input = line.split('\t')[0] , line.split('\t')[1]
+				try:
+					pair = findPairCurrency(output , input)
+					result.append("\t".join(pair))
+					currency.append(pair[0])
+				except:
+					continue
+		f_w.write("\n".join(set(result)))
+	with open('currecy.txt' , 'w') as f_w:
+		f_w.write("\n".join(set(currency)))
+
+def readAllLineMoney(filein , fileout):
+	data = pd.read_csv(filein, header=None).values
+	with  open(fileout , 'w') as f_out:
+		for line in data :
+			cla, input, output = str(line[0]) , str(line[1]) , str(line[2])
+			if cla == 'MONEY':
+				f_out.write(input +"\t"+output+"\n")
+
+def readAllLineAdDress(filein , fileout):
+	data = pd.read_csv(filein, header=None).values
+	with  open(fileout , 'w') as f_out:
+		for line in data :
+			cla, input, output = str(line[0]) , str(line[1]) , str(line[2])
+			if cla == 'ADDRESS':
+				f_out.write(input +"\t"+output+"\n")
+
+def readAllLineTelephone(filein , fileout):
+	data = pd.read_csv(filein, header=None).values
+	with  open(fileout , 'w') as f_out:
+		for line in data :
+			cla, input, output = str(line[0]) , str(line[1]) , str(line[2])
+			if cla == 'TELEPHONE':
+				f_out.write(input +"\t"+output+"\n")
+
+def readAllLineLetter(filein , fileout):
+	data = pd.read_csv(filein, header=None).values
+	with  open(fileout , 'w') as f_out:
+		for line in data :
+			cla, input, output = str(line[0]) , str(line[1]) , str(line[2])
+			if cla == 'LETTERS':
+				f_out.write(input +"\t"+output+"\n")
+
+def readAllLineVERBATIM(filein , fileout):
+	data = pd.read_csv(filein, header=None).values
+	with  open(fileout , 'w') as f_out:
+		for line in data :
+			cla, input, output = str(line[0]) , str(line[1]) , str(line[2])
+			if cla == 'VERBATIM':
+				f_out.write(input +"\t"+output+"\n")
+
+# findPairCurrencyFromFile('data_process/all_line_money.txt','tail_money.txt')
+# readAllLineMoney('data_craw/data_english_tts/output_1.csv','data_process/all_line_money.txt')
+readAllLineVERBATIM('data_craw/data_english_tts/output_1.csv','data_process/all_line_VERBATIM.txt')
