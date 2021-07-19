@@ -1,0 +1,118 @@
+rupees 
+finnish markkas FIM
+united arab emirates dirhams    AED
+groschen 
+euro €
+philippine pesos PHP
+won won
+singapore dollars SGD
+danish kroner DKK
+ugandan shillings UGX
+israeli new sheqels ILS
+avos MOP
+lithuanian litass LTL
+croatian kunas HRK
+netherlands guilders NLG
+dollar $
+monegasque francs MCF
+south sudanese pounds SSP
+united states cent USD
+nepalese rupees NPR
+icelandic kronur ISK
+patacas MOP 
+papua new guinean kinas PGK
+pesewa 
+iranian rials IRR
+gambian dalasis GMD
+netherlands antillean guilders ANG
+samoan talas WST
+pakistani rupees PKR
+argentine pesos ARS
+barbados dollars BBD
+pounds £
+pence £
+united states dollars USD
+mauritanian ouguiyas MRO
+united states dollars USD
+zlotys ZL
+austrian schillings ATS
+norwegian kroner NOK
+saint helena pounds SHP
+south african rands ZAR
+swedish krona SEK
+ukrainian hryvnias UAH
+lakh rupees lakh rs
+lebanese pound LBP
+swiss francs CHF
+bangladeshi takas BDT
+papua new guinean kina PGK
+pound £
+united states dollar USD
+solomon islands dollars SBD
+namibian dollars NAD
+yuan yuan
+hungarian forints HUF
+costa rican colons CRC
+platinum ounce XPT
+crore takas CR
+syrian pounds SYP
+tanzanian shillings TZS
+german pfennigs german pfennigs
+real R
+cypriot pounds CYP
+ethiopian birr ETB
+indian rupees  INR
+azerbaijani manats AZN
+hong kong dollars HKD
+crore rupees    specical
+canadian dollar CAD
+pesos PHP
+seychelles rupee SCR
+yen ¥
+lakh indian rupees INR
+macanese patacas MOP
+serbian dinars RSD
+guinean franc GNF
+east caribbean dollars XCD
+german mark DM
+aruban florins AWG
+greek drachmas GRD
+thai bahts THB
+united states cents USD
+bermudian dollars BMD
+egyptian pounds EGP
+crore indian rupees specical
+kenyan shillings KES
+vietnamese dongs VND
+vatican liras VAL
+belarusian rubles BYR
+malaysian ringgit MYR
+saudi riyals SAR
+sri lanka rupees LKR
+swedish kronor SEK
+afghan afghanis AFN
+maldivian rufiyaas MVR
+guinean francs GNF
+pfennigs DM
+yuan yuan 
+czech korunas CZK
+indonesian rupiahs IDR 
+botswana pulas BWP
+slovak korunas SKK
+rupee Rs
+sudanese pounds SSP
+sierra leonean leones SLL
+german marks DM
+portuguese escudos PTE
+silver ounces XAG
+polish zlotys PLN
+british pounds GBP
+new zealand dollars NZD
+japanese yen JPY
+bahamian dollars BSD
+won won
+chilean pesos CLP
+belgian francs BEF
+korean won KRW
+seychelles rupees SCR
+cape verde escudos CVE
