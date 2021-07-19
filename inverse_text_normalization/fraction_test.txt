@@ -1,0 +1,13 @@
+two thousand eight hundred eighty firsts
+four hundred fifty one four hundred fifty seconds
+text = 'two thousand eight hundred eighty firsts'
+text ='four hundred fifty one'
+text = 'four hundred fifty seconds'
+text = 'two thousand eight hundred eighty'
+text ='seventy one two thousand ninths'
+text ='two thousand nine'
+text ='seventy one two'
+text ='four hundred fifty one two'
+t ='two thousand ninths'
+text ='seventy one two'
+text ='the thirtieth of december two thousand eight'

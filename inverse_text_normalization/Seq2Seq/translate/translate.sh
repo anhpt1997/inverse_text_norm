@@ -1,0 +1,1 @@
+python ../OpenNMT-py/translate.py --replace_unk --verbose -model ../model/model_itn_purpose_step_25000.pt --max_length 500 -src test.txt -output pred50k.txt --beam_size 1 -replace_unk  --batch_size 10 -gpu 0  
