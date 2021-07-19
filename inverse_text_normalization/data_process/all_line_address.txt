@@ -1,0 +1,2410 @@
+A1	a one
+I00 	i zero
+M3	m three
+B3	b three
+C2	c two
+A728	a seven two eight
+A78	a seventy eight
+A76	a seventy six
+M16	m sixteen
+A29091	a two nine o nine one
+I 001	i o o one
+SR 19	s r nineteen
+A15	a fifteen
+SR 266	s r two sixty six
+SR 787	s r seven eighty seven
+A1	a one
+SR 490	s r four ninety
+US 95	u s ninety five
+B7	b seven
+B71	b seventy one
+C23	c twenty three
+C1	c one
+C64	c sixty four
+A1	a one
+B23762 	b two three seven six two
+I-5	i five
+A310	a three ten
+C3 	c three
+C8	c eight
+C6	c six
+B01003	b o one o o three
+B0007	b o o o seven
+U.S. 12	u s twelve
+M3	m three
+SR-113	s r one thirteen
+C1	c one
+C4 	c four
+C23 	c twenty three
+M86	m eighty six
+B3	b three
+M0 	m o
+A4	a four
+B19	b nineteen
+US 1	u s one
+M14	m fourteen
+I-180	i one eighty
+I-180	i one eighty
+C6	c six
+C1	c one
+C2 	c two
+C21	c twenty one
+B000	b o o o
+B1	b one
+C16	c sixteen
+C5400	c fifty four hundred
+C5	c five
+A330	a three thirty
+A330	a three thirty
+A330	a three thirty
+A380	a three eighty
+C1 	c one
+M9	m nine
+A74	a seventy four
+C72	c seventy two
+A1	a one
+CR 595	c r five ninety five
+CR 610	c r six ten
+C1	c one
+M4	m four
+CR 26	c r twenty six
+C4	c four
+C9 	c nine
+C1 	c one
+C2 	c two
+C9	c nine
+C2 	c two
+M2	m two
+C2	c two
+C4	c four
+M235	m two three five
+A10048	a one o o four eight
+C18 	c eighteen
+M3	m three
+CR 192	c r one ninety two
+CR 503	c r five o three
+C2	c two
+C9	c nine
+M3	m three
+C215 	c two one five
+A001597 	a o o one five nine seven
+A046758 	a o four six seven five eight
+C6	c six
+C9	c nine
+B3	b three
+C3,	c three
+C2	c two
+C1	c one
+C1 	c one
+C2	c two
+M51	m fifty one
+US 30	u s thirty
+US 6	u s six
+SR 931	s r nine thirty one
+I-57	i fifty seven
+C6	c six
+M3	m three
+C4	c four
+SR 103	s r one o three
+SR 133	s r one thirty three
+SR 237	s r two thirty seven
+SR 251	s r two fifty one
+SR 57	s r fifty seven
+C4 	c four
+C3 	c three
+I-897	i eight ninety seven
+C1	c one
+C3 	c three
+C1	c one
+C594	c five nine four
+A2	a two
+C3	c three
+C3	c three
+C3 	c three
+A1	a one
+A17	a seventeen
+C3	c three
+M4	m four
+C4 	c four
+C89	c eighty nine
+B1	b one
+I-71	i seventy one
+I2	i two
+M0 	m o
+A420	a four twenty
+SR4	s r four
+C35 	c thirty five
+A1	a one
+M85	m eighty five
+M87	m eighty seven
+C3047 	c three o four seven
+B12	b twelve
+C2	c two
+C4 	c four
+C2 	c two
+C9	c nine
+C3	c three
+C3	c three
+C1	c one
+C5	c five
+C6	c six
+C7	c seven
+C8 	c eight
+C9 	c nine
+C9 	c nine
+C5	c five
+C5	c five
+C00150367	c o o one five o three six seven
+C1	c one
+B16	b sixteen
+C4 	c four
+C5	c five
+U.S. 1828	u s eighteen twenty eight
+Interstate 10	interstate ten
+M7	m seven
+C1 	c one
+C3 	c three
+B002	b o o two
+C18	c eighteen
+C2	c two
+C3	c three
+C1	c one
+M1	m one
+I-1068	i ten sixty eight
+A13	a thirteen
+A84	a eighty four
+US 30	u s thirty
+C11 	c eleven
+C12 	c twelve
+US 106	u s one o six
+SR 151	s r one fifty one
+US 11	u s eleven
+I-276	i two seventy six
+B3	b three
+B4	b four
+A380	a three eighty
+C00111 	c o o one one one
+C00118 	c o o one one eight
+SR 104	s r one o four
+A4	a four
+C48 	c forty eight
+C49 	c forty nine
+SR 5	s r five
+SR 18	s r eighteen
+C4	c four
+M14	m fourteen
+B1	b one
+SR 971	s r nine seventy one
+C4 	c four
+C5	c five
+U.S. 2015	u s twenty fifteen
+B3265	b three two six five
+C3	c three
+CR4	c r four
+A3	a three
+U.S. 210	u s two ten
+C5	c five
+M601	m six o one
+C9 	c nine
+C14	c fourteen
+A3	a three
+SR-140	s r one forty
+SR-185	s r one eighty five
+SR-263	s r two sixty three
+B1	b one
+C1 	c one
+C99	c ninety nine
+A1408	a one four o eight
+C175	c one seven five
+C21 	c twenty one
+C17	c seventeen
+B1	b one
+B2	b two
+B3	b three
+B4	b four
+B02001	b o two o o one
+C64 	c sixty four
+M33	m thirty three
+M1	m one
+M3	m three
+C4	c four
+M84	m eighty four
+M72	m seventy two
+M77	m seventy seven
+A051158 	a o five one one five eight
+I-25	i twenty five
+B767	b seven six seven
+C62	c sixty two
+C64	c sixty four
+C67	c sixty seven
+A01	a o one
+C3 	c three
+US 12	u s twelve
+US 12	u s twelve
+SR 90	s r ninety
+SR 195	s r one ninety five
+US 1	u s one
+B5	b five
+C1 	c one
+A2	a two
+US 1	u s one
+A9	a nine
+US 258	u s two fifty eight
+SR 1984	s r nineteen eighty four
+M261	m two six one
+A23	a twenty three
+U.S. 2	u s two
+US 12	u s twelve
+C2	c two
+B1	b one
+US 51	u s fifty one
+B19	b nineteen
+SR 82	s r eighty two
+SR 182	s r one eighty two
+I-22	i twenty two
+C4 	c four
+C0111	c o one one one
+I-25	i twenty five
+A045744	a o four five seven four four
+Interstate 287	interstate two eighty seven
+C4	c four
+A2	a two
+I-93	i ninety three
+U.S. 70 	u s seventy
+I-279	i two seventy nine
+US 30	u s thirty
+Interstate 4	interstate four
+C3	c three
+C52	c fifty two
+A3	a three
+SR 113	s r one thirteen
+SR141716	s r one hundred forty one thousand seven hundred sixteen
+I-64	i sixty four
+SR 231	s r two thirty one
+I-66	i sixty six
+A5	a five
+I-680	i six eighty
+A4	a four
+SR 315	s r three fifteen
+I-94	i ninety four
+I-71	i seventy one
+Interstate 74	interstate seventy four
+I-75	i seventy five
+I-77	i seventy seven
+U.S. 527	u s five twenty seven
+A16	a sixteen
+I-140	i one forty
+Interstate 264	interstate two sixty four
+M0	m o
+C2	c two
+C4 	c four
+A3409487	a three four o nine four eight seven
+C01 	c o one
+A2	a two
+US 1	u s one
+A8	a eight
+B0007	b o o o seven
+C99 	c ninety nine
+C23 	c twenty three
+I-64	i sixty four
+I-95	i ninety five
+C4 	c four
+US 12	u s twelve
+C1 	c one
+M03 	m o three
+I-75	i seventy five
+I-94	i ninety four
+M1	m one
+M2	m two
+C1	c one
+I-96	i ninety six
+I-69	i sixty nine
+C2	c two
+A1	a one
+U.S. 2	u s two
+C1 	c one
+B1	b one
+A16	a sixteen
+Interstate 86	interstate eighty six
+C11	c eleven
+C1 	c one
+C1	c one
+C1	c one
+C2	c two
+C16	c sixteen
+C3	c three
+C5	c five
+C6	c six
+C7 	c seven
+C7	c seven
+C11	c eleven
+M21	m twenty one
+C01	c o one
+M25	m twenty five
+C982 	c nine eight two
+M3	m three
+A312	a three one two
+C39	c thirty nine
+M62	m sixty two
+C5	c five
+I 14	i fourteen
+M7	m seven
+B46769	b four six seven six nine
+C1 	c one
+C6 	c six
+C8 	c eight
+A79	a seventy nine
+US1	u s one
+A330	a three thirty
+C86 	c eighty six
+A865	a eight six five
+A12137	a one two one three seven
+B02001	b o two o o one
+SR21	s r twenty one
+A6	a six
+B1	b one
+C120	c one twenty
+A0	a o
+B03003	b o three o o three
+C5 	c five
+B36	b thirty six
+US 10	u s ten
+A1	a one
+A68	a sixty eight
+US 420	u s four twenty
+US 14	u s fourteen
+M1	m one
+C1	c one
+I2	i two
+A320	a three twenty
+A23	a twenty three
+A23	a twenty three
+B7	b seven
+B7	b seven
+I-35E	i thirty five east
+I-35W	i thirty five west
+U.S. 35	u s thirty five
+C4 	c four
+M1	m one
+C9 	c nine
+C4 	c four
+C8	c eight
+Interstate 87	interstate eighty seven
+C1 	c one
+C3	c three
+M2602	m two six o two
+M17	m seventeen
+U.S. 39, 	u s thirty nine
+C4 	c four
+A71	a seventy one
+A4	a four
+C4 	c four
+M66	m sixty six
+CR2	c r two
+C3 	c three
+A17	a seventeen
+A17	a seventeen
+B5	b five
+M1	m one
+B2	b two
+A318	a three one eight
+C110 	c one ten
+C9	c nine
+B3	b three
+Interstate 78	interstate seventy eight
+U.S. 369	u s three sixty nine
+B00 	b o o
+C2 	c two
+SR 258	s r two fifty eight
+A27	a twenty seven
+SR 540	s r five forty
+B5	b five
+C3 	c three
+C710 	c seven ten
+A11845	a one one eight four five
+M1	m one
+I-178	i one seventy eight
+A188668	a one eight eight six six eight
+A4	a four
+A478	a four seven eight
+C5	c five
+C14 	c fourteen
+C6	c six
+A4	a four
+B873	b eight seven three
+U.S. 27	u s twenty seven
+CR 16	c r sixteen
+A170	a one seventy
+A357	a three five seven
+A345	a three four five
+US2008013385	u s two billion eight million thirteen thousand three hundred eighty five
+A123	a one two three
+C8	c eight
+C8	c eight
+C19	c nineteen
+SR 7	s r seven
+A3	a three
+C00	c o o
+C0	c o
+B19301	b one nine three o one
+B02001	b o two o o one
+C1 	c one
+U.S. 93	u s ninety three
+US7	u s seven
+U.S. 570	u s five seventy
+A3	a three
+C44	c forty four
+M102	m one o two
+C7 	c seven
+C4 	c four
+C103 	c one o three
+A167	a one six seven
+SR 157	s r one fifty seven
+SR-452	s r four fifty two
+B1	b one
+C232 	c two three two
+M1	m one
+M1	m one
+C33	c thirty three
+C28 	c twenty eight
+US 83	u s eighty three
+B5	b five
+C13 	c thirteen
+M020	m twenty
+US 3607316	u s three million six hundred seven thousand three hundred sixteen
+I-75	i seventy five
+I-278	i two seventy eight
+C8 	c eight
+C9 	c nine
+A642	a six four two
+A03	a o three
+C3 	c three
+C22 	c twenty two
+C1 	c one
+M31	m thirty one
+C3	c three
+M62	m sixty two
+C2 	c two
+C1 	c one
+M261	m two six one
+C1	c one
+A1	a one
+C4	c four
+A1081	a one o eight one
+A1	a one
+A404	a four o four
+U.S. 1	u s one
+A0	a o
+A051122	a o five one one two two
+C4	c four
+C5	c five
+C5	c five
+B01003	b o one o o three
+A32	a thirty two
+A37	a thirty seven
+A46	a forty six
+A1	a one
+A27	a twenty seven
+A38	a thirty eight
+A803	a eight o three
+A3057	a three o five seven
+A01	a o one
+B14	b fourteen
+C1	c one
+A11	a eleven
+B1	b one
+U.S. 22	u s twenty two
+B18	b eighteen
+C6	c six
+A012 	a twelve
+C6711 	c six seven one one
+C11	c eleven
+A1689	a one six eight nine
+C1	c one
+C3	c three
+I-49	i forty nine
+C3	c three
+A1	a one
+C2 	c two
+I-551	i five fifty one
+C5	c five
+C4	c four
+C3	c three
+A380	a three eighty
+I-295	i two ninety five
+C1 	c one
+C2 	c two
+A1	a one
+M2003	m two o o three
+US 12	u s twelve
+US 95	u s ninety five
+C7	c seven
+C4 	c four
+C16	c sixteen
+M2	m two
+C3 	c three
+C3	c three
+C4 	c four
+C4 	c four
+C4 	c four
+A74	a seventy four
+C4 	c four
+C18	c eighteen
+A03	a o three
+A6	a six
+C25	c twenty five
+C810	c eight ten
+M5	m five
+SR-101	s r one o one
+SR-212	s r two twelve
+C2 	c two
+A320	a three twenty
+A55	a fifty five
+A477	a four seven seven
+A320	a three twenty
+B4	b four
+C5	c five
+C1	c one
+C18	c eighteen
+I-152	i one fifty two
+I-15	i fifteen
+M2	m two
+A340	a three forty
+B0006	b o o o six
+M1	m one
+A5	a five
+C2 	c two
+C2 	c two
+A330	a three thirty
+B8213475	b eight two one three four seven five
+A350	a three fifty
+C2 	c two
+C2	c two
+C1 	c one
+B1	b one
+C4 	c four
+US 441	u s four forty one
+C64	c sixty four
+C7	c seven
+C1	c one
+CR 5	c r five
+C1 	c one
+A58	a fifty eight
+C41	c forty one
+C1	c one
+A488	a four eight eight
+A01	a o one
+B7	b seven
+A320	a three twenty
+C01003	c o one o o three
+M1	m one
+M235	m two three five
+M5	m five
+A1	a one
+CR 96	c r ninety six
+CR 108	c r one o eight
+CR 68	c r sixty eight
+A6	a six
+A18	a eighteen
+CR 19	c r nineteen
+A3	a three
+C1 	c one
+A340	a three forty
+CR 80	c r eighty
+B08204	b o eight two o four
+B08204	b o eight two o four
+C05	c o five
+B01 	b o one
+A1	a one
+C1 	c one
+C1 	c one
+Interstate 15	interstate fifteen
+A330	a three thirty
+SR 234	s r two thirty four
+I-69	i sixty nine
+SR 9	s r nine
+A1	a one
+SR 60	s r sixty
+M1	m one
+I-710	i seven ten
+A03	a o three
+C3	c three
+C4	c four
+B9	b nine
+M11	m eleven
+SR 535	s r five thirty five
+SR 402	s r four o two
+US 29	u s twenty nine
+SR 72	s r seventy two
+SR 8	s r eight
+B2	b two
+C1 	c one
+C2	c two
+I-95	i ninety five
+B0006	b o o o six
+I-84	i eighty four
+B02001	b o two o o one
+B2	b two
+M3	m three
+C2	c two
+A4	a four
+B5	b five
+C3	c three
+C3	c three
+C5	c five
+C5	c five
+C22	c twenty two
+C152	c one five two
+C17 	c seventeen
+C7	c seven
+C14 	c fourteen
+U.S. 2004	u s two thousand four
+A1	a one
+C3	c three
+A1	a one
+A29	a twenty nine
+A085848 	a o eight five eight four eight
+C64	c sixty four
+A1	a one
+C3	c three
+A64	a sixty four
+A002	a o o two
+C28	c twenty eight
+A48	a forty eight
+A320	a three twenty
+I2	i two
+US 2101057	u s two million one hundred one thousand fifty seven
+B000004	b o o o o o four
+C3	c three
+C2 	c two
+C1 	c one
+A584	a five eight four
+C5	c five
+C7	c seven
+I-295	i two ninety five
+C4243	c four two four three
+C91	c ninety one
+A05	a o five
+US 4385102	u s four million three hundred eighty five thousand one hundred two
+M760	m seven sixty
+C64 	c sixty four
+C64 	c sixty four
+A09	a o nine
+US 309	u s three o nine
+C8 	c eight
+C8 	c eight
+C2 	c two
+A06	a o six
+C5	c five
+Interstate 15	interstate fifteen
+C128 	c one two eight
+C128 	c one two eight
+A340	a three forty
+US 278	u s two seventy eight
+SR 12	s r twelve
+I-15	i fifteen
+I-95	i ninety five
+SR 18	s r eighteen
+A1	a one
+US 395	u s three ninety five
+A1	a one
+A350	a three fifty
+B92	b ninety two
+U.S. 2	u s two
+M1	m one
+M2	m two
+B4	b four
+C6	c six
+C22	c twenty two
+SR-171	s r one seventy one
+M4	m four
+C24 	c twenty four
+C1 	c one
+A470	a four seventy
+C19	c nineteen
+I 2009	i two thousand nine
+C1 	c one
+I2	i two
+I777	i seven seventy seven
+I-47	i forty seven
+CR 537	c r five thirty seven
+C414 	c four one four
+B02405	b o two four o five
+SR 27	s r twenty seven
+C06 	c o six
+C4	c four
+C17 	c seventeen
+A3	a three
+B5	b five
+B6	b six
+C5 	c five
+B1	b one
+C64 	c sixty four
+C2	c two
+I 2012	i twenty twelve
+A323	a three two three
+C1	c one
+US 1	u s one
+C4	c four
+US 31	u s thirty one
+I-95	i ninety five
+B2	b two
+CR 524	c r five twenty four
+US 1	u s one
+US 22	u s twenty two
+US2731966	u s two million seven hundred thirty one thousand nine hundred sixty six
+C44	c forty four
+M242	m two four two
+M130	m one thirty
+US 30	u s thirty
+US 319	u s three nineteen
+C4	c four
+C4 	c four
+B3	b three
+US 21	u s twenty one
+Interstate 105	interstate one o five
+I-135	i one thirty five
+SR-77	s r seventy seven
+SR-75	s r seventy five
+SR-92	s r ninety two
+I-17	i seventeen
+M101	m one o one
+I-295	i two ninety five
+SR 1387	s r thirteen eighty seven
+US 22	u s twenty two
+US 78	u s seventy eight
+C8	c eight
+SR 123	s r one twenty three
+SR141716	s r one hundred forty one thousand seven hundred sixteen
+I-640	i six forty
+I-64	i sixty four
+SR 286	s r two eighty six
+SR 301	s r three o one
+US 127	u s one twenty seven
+SR 341	s r three forty one
+SR 39	s r thirty nine
+A1	a one
+SR 93	s r ninety three
+I-790	i seven ninety
+C2 	c two
+Interstate 805	interstate eight o five
+I-85	i eighty five
+Interstate 95	interstate ninety five
+I-130	i one thirty
+I-485	i four eighty five
+M0	m o
+C1 	c one
+C4	c four
+A01	a o one
+C2 	c two
+A15	a fifteen
+C11	c eleven
+C3321 	c three three two one
+M3	m three
+B12	b twelve
+C12 	c twelve
+A21	a twenty one
+C4 	c four
+C309	c three o nine
+M81	m eighty one
+B0006	b o o o six
+A9	a nine
+A815	a eight one five
+A816	a eight one six
+A818	a eight one eight
+C3 	c three
+C4 	c four
+M1	m one
+SR 99 	s r ninety nine
+A2	a two
+A2	a two
+A1	a one
+A13	a thirteen
+US 127	u s one twenty seven
+I16150	i sixteen thousand one hundred fifty
+CR 553	c r five fifty three
+A1	a one
+A1	a one
+M3	m three
+A1	a one
+C4	c four
+C1 	c one
+B3	b three
+C86 	c eighty six
+C1	c one
+C19	c nineteen
+C3 	c three
+C3 	c three
+C3	c three
+C4 	c four
+C4 	c four
+M11	m eleven
+C6	c six
+C8	c eight
+C33 	c thirty three
+C33	c thirty three
+C9	c nine
+Interstate 69W	interstate sixty nine west
+US 63	u s sixty three
+US 20	u s twenty
+B3	b three
+M6	m six
+C6 	c six
+C5	c five
+C6	c six
+C7	c seven
+C8 	c eight
+C9 	c nine
+M5	m five
+B8	b eight
+SR 1728	s r seventeen twenty eight
+C1	c one
+C2	c two
+B1	b one
+A24	a twenty four
+B42	b forty two
+B5204	b five two o four
+B2	b two
+C3 	c three
+A320	a three twenty
+C2	c two
+C5	c five
+C4	c four
+C3	c three
+M2009	m two o o nine
+M2	m two
+B43	b forty three
+SR 79	s r seventy nine
+B3	b three
+C0 	c o
+C2 	c two
+B14	b fourteen
+C7	c seven
+B0000	b o o o o
+C5170	c five one seven o
+US223663	u s two hundred twenty three thousand six hundred sixty three
+C651 	c six five one
+C1151 	c one one five one
+B67	b sixty seven
+B16	b sixteen
+US2390636	u s two million three hundred ninety thousand six hundred thirty six
+C3 	c three
+C4 	c four
+SR0000636694	s r six hundred thirty six thousand six hundred ninety four
+M267	m two six seven
+M9	m nine
+M242	m two four two
+M230	m two thirty
+I61	i sixty one
+C1	c one
+SR 377	s r three seventy seven
+C1 	c one
+C2 	c two
+C1	c one
+C3 	c three
+A01	a o one
+C16	c sixteen
+C1 	c one
+C7 	c seven
+C8 	c eight
+A330	a three thirty
+A1	a one
+A8	a eight
+B1	b one
+C220 	c two twenty
+M08	m o eight
+US29	u s twenty nine
+US 29	u s twenty nine
+US 322	u s three twenty two
+US 322	u s three twenty two
+US 460	u s four sixty
+C2 	c two
+SR 66	s r sixty six
+SR 55	s r fifty five
+US 27	u s twenty seven
+C36	c thirty six
+C44	c forty four
+C4	c four
+C5	c five
+C21 	c twenty one
+C28	c twenty eight
+C5	c five
+C1	c one
+B2	b two
+C16	c sixteen
+US 12	u s twelve
+B777	b seven seven seven
+B1	b one
+C1	c one
+US395	u s three ninety five
+US 4	u s four
+B02	b o two
+C04	c o four
+C4 	c four
+US 82	u s eighty two
+C150	c one fifty
+C1	c one
+C17	c seventeen
+SR 7	s r seven
+SR 273	s r two seventy three
+C3 	c three
+C4 	c four
+B1	b one
+B6	b six
+C5 	c five
+C5 	c five
+M653	m six five three
+A1	a one
+C1	c one
+SR 155	s r one fifty five
+SR 78	s r seventy eight
+C16	c sixteen
+A330	a three thirty
+A2	a two
+C2	c two
+B787	b seven eight seven
+M27	m twenty seven
+C1	c one
+B5	b five
+A03 	a o three
+US 4039189	u s four million thirty nine thousand one hundred eighty nine
+I-95	i ninety five
+A1200	a twelve hundred
+B03	b o three
+C2	c two
+B4	b four
+Interstate 635	interstate six thirty five
+C13 	c thirteen
+C14	c fourteen
+M4	m four
+C1 	c one
+A320	a three twenty
+C2	c two
+A4	a four
+B4	b four
+B5	b five
+B2	b two
+A113	a one one three
+A6127	a six one two seven
+A167	a one six seven
+A320	a three twenty
+A3	a three
+A509	a five o nine
+A3	a three
+C007751	c o o seven seven five one
+C430 	c four thirty
+C630	c six thirty
+A1	a one
+A4	a four
+A9	a nine
+A09	a o nine
+I 2000	i two thousand
+I-69	i sixty nine
+A1	a one
+A19	a nineteen
+I-35	i thirty five
+C2 	c two
+M3	m three
+B1	b one
+US 50	u s fifty
+SR 231	s r two thirty one
+SR 400	s r four hundred
+SR 447	s r four forty seven
+SR 579	s r five seventy nine
+SR 856	s r eight fifty six
+A330	a three thirty
+M1	m one
+C75200	c seven five two o o
+A350	a three fifty
+M1	m one
+C64	c sixty four
+A74	a seventy four
+C2 	c two
+C3 	c three
+C82	c eighty two
+C83	c eighty three
+M1907	m one nine o seven
+C919 	c nine one nine
+C919 	c nine one nine
+B1	b one
+B2	b two
+C2	c two
+C3680	c three six eight o
+CR1	c r one
+US 1	u s one
+US 1	u s one
+B2	b two
+US 2592927	u s two million five hundred ninety two thousand nine hundred twenty seven
+US 4890519	u s four million eight hundred ninety thousand five hundred nineteen
+C7	c seven
+C4	c four
+C3	c three
+A320,	a three twenty
+C36145 	c three six one four five
+M3	m three
+A1	a one
+CR2	c r two
+A7	a seven
+SR-82	s r eighty two
+C1	c one
+C72	c seventy two
+M2	m two
+B49	b forty nine
+A1	a one
+B2	b two
+A73	a seventy three
+C3	c three
+C2 	c two
+A0 	a o
+M11	m eleven
+B4	b four
+B3	b three
+A321	a three two one
+A320	a three twenty
+A330	a three thirty
+A52	a fifty two
+A330	a three thirty
+C6	c six
+M8	m eight
+M18	m eighteen
+C2 	c two
+A340	a three forty
+C4	c four
+M51	m fifty one
+B737	b seven three seven
+I-129	i one twenty nine
+C64 	c sixty four
+C128	c one two eight
+C64	c sixty four
+C64 	c sixty four
+C9	c nine
+C4 	c four
+B2	b two
+C1	c one
+C1	c one
+US 202	u s two o two
+US 66	u s sixty six
+A105440 	a one o five four four o
+A14	a fourteen
+Interstate 90	interstate ninety
+M235	m two three five
+I-86	i eighty six
+C1028 	c one o two eight
+Interstate 90	interstate ninety
+I-290	i two ninety
+A330	a three thirty
+CR 271	c r two seventy one
+A1	a one
+M62	m sixty two
+C8 	c eight
+C2	c two
+C4 	c four
+C2	c two
+B93	b ninety three
+I-69	i sixty nine
+B93	b ninety three
+B67	b sixty seven
+C05003	c o five o o three
+B5	b five
+SR 18	s r eighteen
+SR 413	s r four thirteen
+Interstate 77	interstate seventy seven
+C3	c three
+I29	i twenty nine
+C21 	c twenty one
+C215 	c two one five
+C2 	c two
+A3	a three
+M1895	m one eight nine five
+M1911	m one nine one one
+A3	a three
+A1	a one
+US 62	u s sixty two
+C1269	c one two six nine
+M4	m four
+I14	i fourteen
+C2 	c two
+C01	c o one
+C64	c sixty four
+M1	m one
+M2	m two
+M25	m twenty five
+C2 	c two
+C99	c ninety nine
+C2 	c two
+C2	c two
+C63 	c sixty three
+B2	b two
+B8	b eight
+A7	a seven
+C12	c twelve
+U.S. 10	u s ten
+I 1	i one
+A3	a three
+M2	m two
+US 1	u s one
+US 1	u s one
+C1 	c one
+A319	a three one nine
+I-81	i eighty one
+M1	m one
+C89 	c eighty nine
+C2	c two
+B12	b twelve
+C2 	c two
+I-580	i five eighty
+I-81	i eighty one
+I-83	i eighty three
+A0	a o
+U.S. 399	u s three ninety nine
+A4	a four
+C5 	c five
+A2	a two
+B93	b ninety three
+US 1	u s one
+B1	b one
+I-376	i three seventy six
+US 30	u s thirty
+US 1	u s one
+C64	c sixty four
+SR 12	s r twelve
+Interstate 69	interstate sixty nine
+B12	b twelve
+A330	a three thirty
+SR 527	s r five twenty seven
+C67	c sixty seven
+SR 532	s r five thirty two
+A2	a two
+B2	b two
+A73	a seventy three
+US 59	u s fifty nine
+A320	a three twenty
+A58	a fifty eight
+C8 	c eight
+C8 	c eight
+A79	a seventy nine
+A321	a three two one
+C13072108400	c one three o seven two one o eight four o o
+SR-206	s r two o six
+SR-212	s r two twelve
+SR-53	s r fifty three
+B809	b eight o nine
+B8	b eight
+B6	b six
+C3	c three
+B96	b ninety six
+C1	c one
+I-435	i four thirty five
+B4	b four
+C2	c two
+I-29	i twenty nine
+M184	m one eight four
+A4	a four
+A4	a four
+A1	a one
+M0562467001359055521	m o five six two four six seven o o one three five nine o five five five two one
+M12	m twelve
+C230 	c two thirty
+C6	c six
+B03003	b o three o o three
+C1	c one
+C1 	c one
+A21	a twenty one
+US 117	u s one seventeen
+A163	a one six three
+C25	c twenty five
+US 19	u s nineteen
+C303 	c three o three
+US 23	u s twenty three
+I-94	i ninety four
+A1134	a one one three four
+I-355	i three fifty five
+I-55	i fifty five
+B7	b seven
+C4243	c four two four three
+US 52	u s fifty two
+Interstate 11	interstate eleven
+SR-68	s r sixty eight
+Interstate 170	interstate one seventy
+US 830	u s eight thirty
+I-290	i two ninety
+A380	a three eighty
+U.S. 6	u s six
+A330	a three thirty
+U.S. 251	u s two fifty one
+US 87	u s eighty seven
+U.S. 93	u s ninety three
+SR 133	s r one thirty three
+I-590	i five ninety
+SR 186	s r one eighty six
+SR 191	s r one ninety one
+SR 206	s r two o six
+Interstate 69	interstate sixty nine
+SR 354	s r three fifty four
+C4	c four
+M81	m eighty one
+I-73	i seventy three
+SR 6	s r six
+SR 76	s r seventy six
+C3	c three
+A1	a one
+M83	m eighty three
+C1	c one
+C23 	c twenty three
+C4 	c four
+B03 	b o three
+C2	c two
+B09	b o nine
+C4 	c four
+CR 216	c r two sixteen
+CR 207	c r two o seven
+SR-7	s r seven
+SR-9	s r nine
+C1	c one
+C4	c four
+A3	a three
+I311	i three eleven
+C4 	c four
+C081 	c eighty one
+C4 	c four
+Interstate 10	interstate ten
+C2	c two
+B3	b three
+M05	m o five
+US99	u s ninety nine
+I18	i eighteen
+C2 	c two
+C2	c two
+I-490	i four ninety
+C4	c four
+C1	c one
+C14	c fourteen
+C19	c nineteen
+M04 	m o four
+M05 	m o five
+M3	m three
+C5	c five
+C4	c four
+C3	c three
+C3	c three
+C3	c three
+C4 	c four
+M113	m one one three
+C2	c two
+C6	c six
+US 69	u s sixty nine
+C4 	c four
+M2	m two
+M25	m twenty five
+M3	m three
+A6	a six
+M4	m four
+A556	a five five six
+M62	m sixty two
+I1973	i nineteen seventy three
+Interstate 484	interstate four eighty four
+C4	c four
+C2 	c two
+A5	a five
+A0	a o
+C1	c one
+B17	b seventeen
+C75	c seventy five
+C2 	c two
+C1	c one
+C1 	c one
+C2	c two
+B2	b two
+C4 	c four
+B1	b one
+SR47	s r forty seven
+I-75	i seventy five
+B95	b ninety five
+C14	c fourteen
+C21 	c twenty one
+A5	a five
+B92	b ninety two
+A109	a one o nine
+I-294	i two ninety four
+C4 	c four
+C85	c eighty five
+M3	m three
+M3	m three
+C2 	c two
+C57	c fifty seven
+C2	c two
+C182	c one eight two
+B52	b fifty two
+A380	a three eighty
+C31 	c thirty one
+C2 	c two
+A1	a one
+M653	m six five three
+US 64	u s sixty four
+C61	c sixty one
+M6	m six
+A1	a one
+A1	a one
+A00	a o o
+A0	a o
+A1	a one
+A1	a one
+M15	m fifteen
+M174	m one seven four
+M89	m eighty nine
+C15 	c fifteen
+A620	a six twenty
+I2	i two
+US 81	u s eighty one
+C2 	c two
+A54	a fifty four
+A9	a nine
+A2	a two
+C4 	c four
+SR 347	s r three forty seven
+C1 	c one
+SR 366	s r three sixty six
+C1 	c one
+B7	b seven
+A2	a two
+M215	m two one five
+A84	a eighty four
+A4	a four
+C4 	c four
+US 3660756	u s three million six hundred sixty thousand seven hundred fifty six
+US 301	u s three o one
+US 460	u s four sixty
+US 6	u s six
+C6	c six
+SR 21	s r twenty one
+US 36	u s thirty six
+US 6, 	u s six
+B10682	b one o six eight two
+A219495	a two one nine four nine five
+M13	m thirteen
+C4 	c four
+C58 	c fifty eight
+M4322	m four three two two
+B19301	b one nine three o one
+B1	b one
+C5 	c five
+C4	c four
+C8 	c eight
+A5086	a five o eight six
+M3	m three
+A4	a four
+C75 	c seventy five
+C85 	c eighty five
+US 25	u s twenty five
+B08	b o eight
+B14	b fourteen
+M72	m seventy two
+C1	c one
+C2	c two
+C3	c three
+C4	c four
+C12 	c twelve
+C18 	c eighteen
+M4	m four
+U.S. 24	u s twenty four
+C9	c nine
+A12	a twelve
+C2 	c two
+C2	c two
+I 4	i four
+C11	c eleven
+I1	i one
+C0 	c o
+I18	i eighteen
+C3 	c three
+C02	c o two
+C2 	c two
+C9	c nine
+C2	c two
+A24	a twenty four
+M5	m five
+A1	a one
+A1	a one
+C13	c thirteen
+M3	m three
+C01	c o one
+M165	m one six five
+C635	c six three five
+C7 	c seven
+M4	m four
+C3 	c three
+C4 	c four
+C5 	c five
+C446	c four four six
+A574	a five seven four
+A2	a two
+B41	b forty one
+A96262	a nine six two six two
+C1 	c one
+B2	b two
+SR-53	s r fifty three
+A607	a six o seven
+A38	a thirty eight
+A11	a eleven
+A24	a twenty four
+A1	a one
+A606	a six o six
+A606	a six o six
+A63	a sixty three
+A823	a eight two three
+I-131	i one thirty one
+M653	m six five three
+C1	c one
+M4	m four
+M3	m three
+A7	a seven
+A15	a fifteen
+C9	c nine
+U.S. 18	u s eighteen
+C2	c two
+A003 	a o o three
+A003	a o o three
+C3	c three
+CR3	c r three
+I-4	i four
+C53	c fifty three
+C18	c eighteen
+A561	a five six one
+A2	a two
+C7 	c seven
+C8 	c eight
+SR 582	s r five eighty two
+C3 	c three
+A1	a one
+A3	a three
+US 12	u s twelve
+A1	a one
+C4 	c four
+C11	c eleven
+C2	c two
+M0130	m o one three o
+C155 	c one five five
+CR0 	c r zero
+M7	m seven
+C6500	c sixty five hundred
+I 1	i one
+M17	m seventeen
+SR-105	s r one o five
+SR-171	s r one seventy one
+SR-178	s r one seventy eight
+C16	c sixteen
+C19	c nineteen
+B03003	b o three o o three
+C6	c six
+A321	a three two one
+A321	a three two one
+C4	c four
+CR 509	c r five o nine
+C1 	c one
+US 206	u s two o six
+A1	a one
+A3	a three
+A310	a three ten
+A19798	a one nine seven nine eight
+M4	m four
+SR 406	s r four o six
+C9	c nine
+A330	a three thirty
+A330	a three thirty
+A330	a three thirty
+A340	a three forty
+CR-55640	c r fifty five thousand six hundred forty
+B213	b two one three
+U.S. 51	u s fifty one
+B08	b o eight
+C02	c o two
+C1 	c one
+C2	c two
+C13	c thirteen
+I-85	i eighty five
+C6	c six
+C7	c seven
+C8	c eight
+C9 	c nine
+C22	c twenty two
+I-380	i three eighty
+I-410	i four ten
+A1073	a one o seven three
+A2	a two
+US 30	u s thirty
+C128 	c one two eight
+C128 	c one two eight
+C64 	c sixty four
+A3	a three
+C64 	c sixty four
+C4 	c four
+C3 	c three
+C1 	c one
+C64 	c sixty four
+C1 	c one
+C2	c two
+C64 	c sixty four
+B3	b three
+C3	c three
+US 12	u s twelve
+C99	c ninety nine
+C2 	c two
+C1 	c one
+B1	b one
+CR 42	c r forty two
+C4	c four
+CR 380	c r three eighty
+US 9	u s nine
+B1	b one
+C107	c one o seven
+US 30	u s thirty
+Interstate 84	interstate eighty four
+C7	c seven
+B2	b two
+I-68	i sixty eight
+I-81	i eighty one
+US 11 	u s eleven
+US 40	u s forty
+US 40	u s forty
+C64 	c sixty four
+SR 331	s r three thirty one
+C14 	c fourteen
+C2	c two
+Interstate 90	interstate ninety
+SR 211	s r two eleven
+Interstate 77	interstate seventy seven
+SR 239	s r two thirty nine
+B438	b four three eight
+SR 492	s r four ninety two
+C01	c o one
+B2	b two
+B1	b one
+C4	c four
+C3	c three
+A33	a thirty three
+C75 	c seventy five
+A1	a one
+C2	c two
+B2	b two
+C2 	c two
+C2	c two
+US 190	u s one ninety
+B1	b one
+B1	b one
+B1	b one
+SR 60000	s r sixty thousand
+US 60	u s sixty
+US 127	u s one twenty seven
+C1 	c one
+C6	c six
+C00236 	c o o two three six
+M6	m six
+B1	b one
+M3	m three
+M203	m two o three
+C4	c four
+US 40	u s forty
+C5	c five
+C7	c seven
+C18 	c eighteen
+B180	b one eighty
+SR4	s r four
+A666	a six six six
+B2	b two
+M6	m six
+A2	a two
+C5 	c five
+C4 	c four
+C3 	c three
+M2	m two
+M6	m six
+SR 194	s r one ninety four
+C2 	c two
+A7	a seven
+C1 	c one
+B1	b one
+CR 718	c r seven eighteen
+B83	b eighty three
+A310	a three ten
+I-35W	i thirty five west
+B3	b three
+C6 	c six
+A3	a three
+C2	c two
+C3	c three
+C1	c one
+M760	m seven sixty
+M760	m seven sixty
+M1	m one
+M5	m five
+C2045 	c two o four five
+C4 	c four
+SR 266	s r two sixty six
+US 60	u s sixty
+US 22	u s twenty two
+US 220	u s two twenty
+B1	b one
+C2 	c two
+C3	c three
+SR 300	s r three hundred
+SR 971	s r nine seventy one
+I-5	i five
+SR 531	s r five thirty one
+SR 531	s r five thirty one
+C4	c four
+SR 971	s r nine seventy one
+SR 971	s r nine seventy one
+M6	m six
+B3185	b three one eight five
+C2	c two
+C929 	c nine two nine
+C939 	c nine three nine
+C6	c six
+SR-207	s r two o seven
+B3	b three
+M2100	m twenty one hundred
+C4	c four
+A2	a two
+M235	m two three five
+M1	m one
+B144	b one four four
+B5289	b five two eight nine
+C4	c four
+C4 	c four
+U.S. 1 	u s one
+A767	a seven six seven
+Interstate 90	interstate ninety
+A4	a four
+M2	m two
+M1	m one
+M261	m two six one
+B08	b o eight
+B4	b four
+B18	b eighteen
+C49	c forty nine
+I2	i two
+B02	b o two
+B2	b two
+C0 	c o
+C1 	c one
+C2 	c two
+C1	c one
+C4	c four
+B1	b one
+US 127	u s one twenty seven
+I 1	i one
+A1	a one
+US 113	u s one thirteen
+C4 	c four
+A09	a o nine
+SR 520	s r five twenty
+US 211	u s two eleven
+C11 	c eleven
+A2	a two
+Interstate 95	interstate ninety five
+Interstate 280	interstate two eighty
+Interstate 287	interstate two eighty seven
+A321	a three two one
+US 9	u s nine
+SR 823	s r eight twenty three
+US 301	u s three o one
+US 31E	u s thirty one east
+U.S. 830	u s eight thirty
+SR 45	s r forty five
+M79	m seventy nine
+C1	c one
+C4	c four
+C3 	c three
+C2 	c two
+C1 	c one
+I-35	i thirty five
+B01003	b o one o o three
+I-287	i two eighty seven
+Interstate 295	interstate two ninety five
+B0007270	b o o o seven two seven o
+US 81	u s eighty one
+US 65	u s sixty five
+US 70	u s seventy
+M74	m seventy four
+I-4	i four
+C1	c one
+Interstate 485	interstate four eighty five
+SR 10	s r ten
+SR 369	s r three sixty nine
+US 9	u s nine
+Interstate 5	interstate five
+C01	c o one
+Interstate 69 	interstate sixty nine
+SR 360	s r three sixty
+I-73	i seventy three
+I-73	i seventy three
+I-75	i seventy five
+I-85	i eighty five
+SR-71	s r seventy one
+C57	c fifty seven
+C5	c five
+A1	a one
+A2	a two
+B1	b one
+C1956 	c one nine five six
+I-86	i eighty six
+I-95	i ninety five
+A28	a twenty eight
+A01	a o one
+M0	m o
+M0 	m o
+C12 	c twelve
+C1 	c one
+A3233313	a three two three three three one three
+C2	c two
+C23 	c twenty three
+C3	c three
+I0 	i zero
+US 112	u s one twelve
+A3	a three
+A8	a eight
+I-94	i ninety four
+C2 	c two
+C750 	c seven fifty
+C21 	c twenty one
+B8	b eight
+B02	b o two
+C166 	c one six six
+C1	c one
+A1	a one
+I1847	i eighteen forty seven
+C1	c one
+I-15	i fifteen
+C4	c four
+C4	c four
+C5	c five
+C5	c five
+C6	c six
+M18	m eighteen
+US 76	u s seventy six
+C3	c three
+M3	m three
+C1 	c one
+B106	b one o six
+M4	m four
+M4	m four
+M5	m five
+M61	m sixty one
+C3 	c three
+C4 	c four
+M67	m sixty seven
+B18	b eighteen
+M5	m five
+CR-187338	c r one hundred eighty seven thousand three hundred thirty eight
+C7	c seven
+C8 	c eight
+A330	a three thirty
+C830 	c eight thirty
+C16 	c sixteen
+C18 	c eighteen
+M57	m fifty seven
+A2205	a two two o five
+C11 	c eleven
+C6	c six
+I 5	i five
+I16370	i sixteen thousand three hundred seventy
+B2	b two
+C58	c fifty eight
+I1	i one
+M3	m three
+C102093	c one o two o nine three
+M2	m two
+C57	c fifty seven
+C16	c sixteen
+C64	c sixty four
+C4	c four
+CR 5	c r five
+A2	a two
+M1	m one
+M2	m two
+I-540	i five forty
+C5	c five
+I-95	i ninety five
+A340	a three forty
+US 701	u s seven o one
+I-74	i seventy four
+US 311	u s three eleven
+B3	b three
+B2	b two
+M215	m two one five
+M215	m two one five
+M35	m thirty five
+M281	m two eight one
+M78	m seventy eight
+M253	m two five three
+M170	m one seventy
+I2	i two
+M12	m twelve
+M349	m three four nine
+M95	m ninety five
+C14	c fourteen
+C3	c three
+C313 	c three one three
+B12	b twelve
+A84	a eighty four
+C1	c one
+M3	m three
+Interstate 95	interstate ninety five
+B3	b three
+US 421	u s four twenty one
+US 460	u s four sixty
+C2 	c two
+C2 	c two
+Interstate 76	interstate seventy six
+US 30	u s thirty
+I-75	i seventy five
+B0	b o
+C1	c one
+US 52	u s fifty two
+C3	c three
+C13	c thirteen
+US 52	u s fifty two
+A5	a five
+M81	m eighty one
+M101	m one o one
+C64 	c sixty four
+A000272 	a o o o two seven two
+B48	b forty eight
+B101	b one o one
+B23	b twenty three
+C1 	c one
+A380	a three eighty
+A350	a three fifty
+B00116	b o o one one six
+M0	m o
+M19	m nineteen
+C4 	c four
+A1	a one
+A1	a one
+A1	a one
+M73	m seventy three
+C1 	c one
+C3 	c three
+A1	a one
+M78	m seventy eight
+M12	m twelve
+A1	a one
+I-95	i ninety five
+B1	b one
+US 31	u s thirty one
+I-5	i five
+A0766477	a o seven six six four seven seven
+B3	b three
+C4	c four
+C3 	c three
+C4 	c four
+C00 	c o o
+I00 	i zero
+SR-113	s r one thirteen
+SR-460	s r four sixty
+SR 85	s r eighty five
+SR 56	s r fifty six
+B1	b one
+B2	b two
+C2	c two
+M2	m two
+C18 	c eighteen
+C4	c four
+A000124	a o o o one two four
+M3942	m three nine four two
+C3	c three
+A2	a two
+A4	a four
+M6	m six
+C4 	c four
+C2 	c two
+C3 	c three
+C64	c sixty four
+B01	b o one
+C943 	c nine four three
+B000	b o o o
+C64	c sixty four
+C02	c o two
+US 12	u s twelve
+A1	a one
+B3	b three
+A6	a six
+B6	b six
+C1 	c one
+A26	a twenty six
+A1	a one
+C5	c five
+A68930 	a six eight nine three o
+A15	a fifteen
+B0007	b o o o seven
+C32	c thirty two
+A337	a three three seven
+A24	a twenty four
+C3	c three
+A5	a five
+A606	a six o six
+B6120	b six one two o
+B6121	b six one two one
+A638	a six three eight
+A835	a eight three five
+A1	a one
+B893	b eight nine three
+C2	c two
+M7	m seven
+A4	a four
+A4	a four
+B1	b one
+A32	a thirty two
+SR 1994	s r nineteen ninety four
+A05 	a o five
+M3	m three
+B5	b five
+M25	m twenty five
+C2	c two
+C2 	c two
+C3 	c three
+C1	c one
+B9	b nine
+A79	a seventy nine
+A2	a two
+C7	c seven
+A160	a one sixty
+SR 221	s r two twenty one
+SR 264	s r two sixty four
+SR 511	s r five eleven
+SR 535	s r five thirty five
+B1191	b one one nine one
+SR 795	s r seven ninety five
+C1	c one
+A5100	a fifty one hundred
+C06 	c o six
+C1	c one
+C15 	c fifteen
+C3 	c three
+M2	m two
+US 41	u s forty one
+A1	a one
+A23	a twenty three
+US07 	u s seven
+C205 	c two o five
+I-75	i seventy five
+A330	a three thirty
+A4	a four
+SR-235	s r two thirty five
+A2	a two
+A4	a four
+C14	c fourteen
+C23	c twenty three
+B242	b two four two
+C2	c two
+A1	a one
+A4	a four
+A6	a six
+A8	a eight
+A3	a three
+M1	m one
+M1	m one
+M1	m one
+A1	a one
+A20377668 	a two o three seven seven six six eight
+A48	a forty eight
+A320	a three twenty
+A330	a three thirty
+A330	a three thirty
+A350	a three fifty
+C3	c three
+A330	a three thirty
+C1 	c one
+C19	c nineteen
+C6	c six
+C8	c eight
+C9 	c nine
+C3	c three
+A18	a eighteen
+C8	c eight
+C2 	c two
+C52 	c fifty two
+M7	m seven
+C1 	c one
+C64	c sixty four
+C7 	c seven
+C4	c four
+C14 	c fourteen
+C4	c four
+B000	b o o o
+M1	m one
+C99	c ninety nine
+B19113	b one nine one one three
+C14	c fourteen
+A3	a three
+A413	a four one three
+B6	b six
+M235	m two three five
+M235	m two three five
+A6	a six
+A5	a five
+I-390	i three ninety
+I-84	i eighty four
+CR 1	c r one
+B1	b one
+M2	m two
+C1 	c one
+C216 	c two one six
+A103431 	a one o three four three one
+A103432	a one o three four three two
+M447	m four four seven
+SR 48	s r forty eight
+A7	a seven
+A1	a one
+B01 	b o one
+CR1618	c r sixteen eighteen
+M06	m o six
+C1	c one
+B1	b one
+C0	c o
+I-495	i four ninety five
+SR 104	s r one o four
+M58549	m five eight five four nine
+C1 	c one
+C2 	c two
+CR-48	c r forty eight
+C3	c three
+US 1854	u s eighteen fifty four
+C9 	c nine
+B1	b one
+M1978	m one nine seven eight
+A74	a seventy four
+C155 	c one five five
+B77	b seventy seven
+C4 	c four
+C1	c one
+A338	a three three eight
+A3060	a three o six o
+C1 	c one
+C2 	c two
+A1	a one
+C28 	c twenty eight
+B1	b one
+C0118142	c o one one eight one four two
+US 27	u s twenty seven
+I-65	i sixty five
+I-41	i forty one
+US 41	u s forty one
+B5	b five
+C7	c seven
+B1	b one
+B96	b ninety six
+U.S. 1987	u s nineteen eighty seven
+A0034	a thirty four
+C17 	c seventeen
+C130	c one thirty
+C7 	c seven
+C1 	c one
+M18	m eighteen
+A320	a three twenty
+C16	c sixteen
+C5	c five
+C1	c one
+C1	c one
+C5	c five
+C5	c five
+C5	c five
+C3	c three
+C3	c three
+C6006 	c six o o six
+M12	m twelve
+B2	b two
+C1 	c one
+A2	a two
+A91100	a nine one one o o
+I-5	i five
+A1	a one
+C3 	c three
+C2	c two
+B7	b seven
+M5	m five
+M550	m five fifty
+C1 	c one
+C4	c four
+B3	b three
+I-880	i eight eighty
+US 22	u s twenty two
+C3903 	c three nine o three
+US 322	u s three twenty two
+A2	a two
+A340	a three forty
+US 422	u s four twenty two
+B2	b two
+I-95	i ninety five
+M5	m five
+C2	c two
+SR2	s r two
+A380	a three eighty
+C4	c four
+C16 	c sixteen
+A321	a three two one
+C13	c thirteen
+A6	a six
+SR-156	s r one fifty six
+B92	b ninety two
+C2 	c two
+C24 	c twenty four
+M490	m four ninety
+M495	m four nine five
+A4	a four
+M415	m four one five
+C1	c one
+C1	c one
+C15	c fifteen
+C15	c fifteen
+C3	c three
+B04006	b o four o o six
+B7553	b seven five five three
+M0782053	m o seven eight two o five three
+B1	b one
+US 501	u s five o one
+C64 	c sixty four
+C64	c sixty four
+A070177 	a o seven o one seven seven
+A13	a thirteen
+C64 	c sixty four
+C182 	c one eight two
+I 2014	i twenty fourteen
+U.S. 50	u s fifty
+A66	a sixty six
+C3 	c three
+B6	b six
+C1	c one
+C3	c three
+C4 	c four
+SR 1808	s r eighteen o eight
+C3 	c three
+US 360	u s three sixty
+B12	b twelve
+SR 90	s r ninety
+US 441	u s four forty one
+C71	c seventy one
+C72	c seventy two
+C4	c four
+I-95	i ninety five
+SR-273	s r two seventy three
+I-180	i one eighty
+M3	m three
+I-270	i two seventy
+I-275	i two seventy five
+SR 1603	s r sixteen o three
+B1	b one
+Interstate 40	interstate forty
+US 80	u s eighty
+Interstate 476	interstate four seventy six
+SR 149	s r one forty nine
+SR 15	s r fifteen
+SR 154	s r one fifty four
+A2	a two
+SR 216	s r two sixteen
+I-69	i sixty nine
+I-695	i six ninety five
+SR 43	s r forty three
+B2	b two
+Interstate 759	interstate seven fifty nine
+M3800	m thirty eight hundred
+C4 	c four
+Interstate 80	interstate eighty
+I-84	i eighty four
+Interstate 86	interstate eighty six
+CR64	c r sixty four
+I-97	i ninety seven
+I-94	i ninety four
+M010	m ten
+A00 	a o o
+C96 	c ninety six
+I-8	i eight
+B000925	b o o o nine two five
+A15	a fifteen
+C9	c nine
+I170	i one seventy
+C29 	c twenty nine
+M301757	m three o one seven five seven
+C2	c two
+C1002	c one o o two
+C2 	c two
+SR 530	s r five thirty
+M4	m four
+SR-7	s r seven
+A12	a twelve
+A22	a twenty two
+C173	c one seven three
+C1	c one
+I-75	i seventy five
+C159	c one five nine
+C1 	c one
+C2 	c two
+A1303	a one three o three
+A5	a five
+C64	c sixty four
+C3	c three
+US 131	u s one thirty one
+C54784	c five four seven eight four
+C18 	c eighteen
+B92	b ninety two
+B92	b ninety two
+A2	a two
+A6	a six
+C16	c sixteen
+B2	b two
+C2 	c two
+B1	b one
+B2	b two
+M85	m eighty five
+C31 	c thirty one
+C3	c three
+C6	c six
+C6	c six
+A62	a sixty two
+A4	a four
+C41 	c forty one
+M3	m three
+M5	m five
+M5	m five
+B1	b one
+M7	m seven
+B777	b seven seven seven
+C1 	c one
+A2	a two
+C5	c five
+B2	b two
+C58 	c fifty eight
+C58 	c fifty eight
+Interstate 87	interstate eighty seven
+M71	m seventy one
+C3091	c three o nine one
+C6 	c six
+A2	a two
+C66	c sixty six
+M82	m eighty two
+B1	b one
+M9	m nine
+Interstate 10	interstate ten
+A138	a one three eight
+M1	m one
+M2	m two
+C140 	c one forty
+C240 	c two forty
+B640	b six forty
+A1	a one
+C1 	c one
+B6	b six
+C3 	c three
+I-74	i seventy four
+M6	m six
+A000	a o o o
+C1	c one
+C1	c one
+M89	m eighty nine
+M427	m four two seven
+M428	m four two eight
+M481	m four eight one
+M367	m three six seven
+M172	m one seven two
+M175	m one seven five
+M19	m nineteen
+C2	c two
+CR-188280	c r one hundred eighty eight thousand two hundred eighty
+US 212	u s two twelve
+C3200	c thirty two hundred
+C1	c one
+SR 266	s r two sixty six
+SR 61	s r sixty one
+US 19	u s nineteen
+B0 	b o
+A065	a sixty five
+M9	m nine
+C4	c four
+C1	c one
+A206431	a two o six four three one
+M95	m ninety five
+B11	b eleven
+US 11	u s eleven
+US 322	u s three twenty two
+US 460	u s four sixty
+US 501	u s five o one
+US 601	u s six o one
+I-195	i one ninety five
+US 127	u s one twenty seven
+M5438	m five four three eight
+Interstate 81	interstate eighty one
+A19	a nineteen
+B96	b ninety six
+C5 	c five
+B23	b twenty three
+B2	b two
+C18 	c eighteen
+M1	m one
+C3 	c three
+C12 	c twelve
+B92	b ninety two
+A164	a one six four
+C1 	c one
+C35	c thirty five
+C5	c five
+M1	m one
+US2	u s two
+C81 	c eighty one
+A2	a two
+A2	a two
+C1	c one
+C3 	c three
+C5	c five
+C1 	c one
+C2 	c two
+A319	a three one nine
+C7 	c seven
+I20309	i twenty thousand three hundred nine
+B00	b o o
+US 501	u s five o one
+I-65	i sixty five
+M83	m eighty three
+C236 	c two three six
+C1 	c one
+A01	a o one
+C5 	c five
+M5	m five
+M5	m five
+M0	m o
+B707	b seven o seven
+A002385 	a o o two three eight five
+C2 	c two
+A6	a six
+A644	a six four four
+M31	m thirty one
+C1	c one
+A06	a o six
+C6 	c six
+A95754	a nine five seven five four
+C130 	c one thirty
+C1 	c one
+C1 	c one
+C1	c one
+C1 	c one
+M81	m eighty one
+C11	c eleven
+C12071	c one two o seven one
+C32	c thirty two
+C3	c three
+C5	c five
+C6 	c six
+B19301	b one nine three o one
+A123	a one two three
+A23187 	a two three one eight seven
+M2	m two
+B5	b five
+I 2, 	i two
+I 9,	i nine
+I 10	i ten
+C21	c twenty one
+I4	i four
+C07	c o seven
+C2 	c two
+C01	c o one
+SR-05	s r five
+A2	a two

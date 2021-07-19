@@ -1,0 +1,7358 @@
+3:00 pm	three p m
+3:00 am	three a m
+8 a.m.	eight a m
+09:45	nine forty five
+02.26	two twenty six
+1:00pm	one p m
+3: 18	three eighteen
+1pm	one p m
+4pm	four p m
+2pm	two p m
+5pm	five p m
+12:37	twelve thirty seven
+21:55	twenty one fifty five
+9pm	nine p m
+4:12	four twelve
+4:00	four o'clock
+3:31	three thirty one
+4:03	four o three
+10.50pm IST	ten fifty p m i s t
+18:43	eighteen forty three
+11:11	eleven eleven
+3:59	three fifty nine
+1:13	one thirteen
+2:11	two eleven
+5:58 p.m.	five fifty eight p m
+7:15 AM	seven fifteen a m
+3pm	three p m
+12:11	twelve eleven
+11:10	eleven ten
+8:00 AM PST	eight a m p s t
+14:56	fourteen fifty six
+4:42	four forty two
+3:42	three forty two
+1:22	one twenty two
+2:33	two thirty three
+20:30	twenty thirty
+23:25	twenty three twenty five
+10:26	ten twenty six
+8 p.m.	eight p m
+11:55 am	eleven fifty five a m
+15:20	fifteen twenty
+15:45	fifteen forty five
+13:50	thirteen fifty
+06:00	six o'clock
+9 p.m.	nine p m
+2:00 p.m. EDT	two p m e d t
+08:00	eight o'clock
+14:30	fourteen thirty
+5: 12	five twelve
+PM2	two p m
+08:10	eight ten
+11:30	eleven thirty
+1:40	one forty
+3:30 p.m.	three thirty p m
+14:26 GMT	fourteen twenty six g m t
+16:00	sixteen hundred
+8 PM	eight p m
+2:42:44	two hours forty two minutes and forty four seconds
+8: 46	eight forty six
+9:15pm CST	nine fifteen p m c s t
+7:03:38	seven hours three minutes and thirty eight seconds
+05:57	five fifty seven
+23:45 UTC	twenty three forty five u t c
+01:19 GMT	one nineteen g m t
+8:30	eight thirty
+3:26	three twenty six
+14:00	fourteen hundred
+7.30pm	seven thirty p m
+11:11	eleven eleven
+10:00	ten o'clock
+10:01	ten o one
+10PM	ten p m
+06.03	six o three
+12:20	twelve twenty
+09:00	nine o'clock
+6 p.m.	six p m
+8 p.m.	eight p m
+13:20 pm	one twenty p m
+1:57am	one fifty seven a m
+12:00 am	twelve a m
+31:18.85	thirty one minutes eighteen seconds and eighty five milliseconds
+1:58	one fifty eight
+1:35	one thirty five
+11 AM	eleven a m
+3PM	three p m
+7:30 p.m.	seven thirty p m
+1:48	one forty eight
+1:32	one thirty two
+1:24	one twenty four
+01:52 GMT	one fifty two g m t
+03:52 CEST	three fifty two c e s t
+3:32	three thirty two
+3:21	three twenty one
+15:17	fifteen seventeen
+15:19	fifteen nineteen
+17:45	seventeen forty five
+7:45	seven forty five
+4:25	four twenty five
+1:18	one eighteen
+13:00	thirteen hundred
+1.30pm	one thirty p m
+7:00 p.m. EST	seven p m e s t
+10pm	ten p m
+12am	twelve a m
+3:46:46	three hours forty six minutes and forty six seconds
+17:00	seventeen hundred
+01.00 AM	one a m
+12:15 AM	twelve fifteen a m
+5.00 PM	five p m
+8.00 PM	eight p m
+5:03am	five o three a m
+07:20	seven twenty
+06:30	six thirty
+20:00	twenty hundred
+1: 44	one forty four
+2:52	two fifty two
+22:57	twenty two fifty seven
+9.00 AM	nine a m
+08:30	eight thirty
+18:09	eighteen o nine
+07:50	seven fifty
+11:40	eleven forty
+10pm	ten p m
+12am	twelve a m
+3:17	three seventeen
+2:52	two fifty two
+2:29:58	two hours twenty nine minutes and fifty eight seconds
+14:29	fourteen twenty nine
+2:39	two thirty nine
+2:46	two forty six
+1:07:44	one hour seven minutes and forty four seconds
+10:55pm	ten fifty five p m
+6: 43	six forty three
+4:25	four twenty five
+4:19	four nineteen
+15:52	fifteen fifty two
+8:59 PM	eight fifty nine p m
+3:30pm	three thirty p m
+2:06:10	two hours six minutes and ten seconds
+2:03.10	two minutes three seconds and ten milliseconds
+04:35	four thirty five
+14:00 CET	fourteen hundred c e t
+23:30	twenty three thirty
+3am	three a m
+8:00 pm	eight p m
+6:30 am	six thirty a m
+18: 37	eighteen thirty seven
+4:11	four eleven
+2:44	two forty four
+1:19.13	one minute nineteen seconds and thirteen milliseconds
+7:50.40	seven minutes fifty seconds and forty milliseconds
+20:30	twenty thirty
+20:55	twenty fifty five
+21:20	twenty one twenty
+21:50	twenty one fifty
+12: 17	twelve seventeen
+2:30 PM	two thirty p m
+2:24.36	two minutes twenty four seconds and thirty six milliseconds
+04:30 UTC	four thirty u t c
+3:20	three twenty
+6pm	six p m
+19:55	nineteen fifty five
+22: 25	twenty two twenty five
+18:30:00 GMT	eighteen hours thirty minutes and zero seconds g m t
+10 pm	ten p m
+1 pm	one p m
+3:00 pm	three p m
+2:21	two twenty one
+15:02	fifteen o two
+18:00	eighteen hundred
+7pm	seven p m
+6.00 am	six a m
+5.00 pm	five p m
+19:45	nineteen forty five
+1:50	one fifty
+11pm	eleven p m
+1:30pm	one thirty p m
+07:09 UTC	seven o nine u t c
+6:05 A.M.	six o five a m
+2:00 p.m.	two p m
+9:15 p.m.	nine fifteen p m
+05:00 am	five a m
+12:30am	twelve thirty a m
+9:00pm	nine p m
+9 am	nine a m
+6 pm	six p m
+1: 15	one fifteen
+4:30 a.m.	four thirty a m
+3:48	three forty eight
+06.45	six forty five
+6:22 PM	six twenty two p m
+11:28AM	eleven twenty eight a m
+2 pm	two p m
+12 am	twelve a m
+7PM	seven p m
+2:10 am	two ten a m
+20:00	twenty hundred
+9 p.m.	nine p m
+6:00 a.m.	six a m
+9:00 p.m.	nine p m
+7.00pm	seven p m
+1:25	one twenty five
+12pm	twelve p m
+2:43	two forty three
+11:00 a.m. EDT	eleven a m e d t
+20:53:06 UTC	twenty hours fifty three minutes and six seconds u t c
+2 p.m.	two p m
+18:06 GMT	eighteen o six g m t
+03:38	three thirty eight
+12:00 UTC	twelve o'clock u t c
+12:25	twelve twenty five
+1:30 am	one thirty a m
+2:19:26	two hours nineteen minutes and twenty six seconds
+8 AM	eight a m
+2 PM	two p m
+2: 56	two fifty six
+2:55 PM	two fifty five p m
+24: 32	twenty four thirty two
+1:05	one o five
+10:55 am	ten fifty five a m
+1:48.23	one minute forty eight seconds and twenty three milliseconds
+5:50	five fifty
+11:00	eleven o'clock
+10 AM	ten a m
+10:00	ten o'clock
+05:30	five thirty
+06:58	six fifty eight
+07:58	seven fifty eight
+06:08	six o eight
+10:19	ten nineteen
+2:55	two fifty five
+14:22 GMT	fourteen twenty two g m t
+14:20	fourteen twenty
+8 pm	eight p m
+2:07:07	two hours seven minutes and seven seconds
+18:00	eighteen hundred
+9pm	nine p m
+3:54	three fifty four
+5:30 p.m.	five thirty p m
+4:14.60	four minutes fourteen seconds and sixty milliseconds
+8:30pm	eight thirty p m
+10: 23	ten twenty three
+8:30 am	eight thirty a m
+6 a.m.	six a m
+6 p.m.	six p m
+4:45 am	four forty five a m
+9:30 pm	nine thirty p m
+2:51	two fifty one
+06:00	six o'clock
+01:00 KST	one o'clock k s t
+2:30	two thirty
+16:55 UTC	sixteen fifty five u t c
+2pm	two p m
+7pm	seven p m
+6:00	six o'clock
+10:00am	ten a m
+7:14 a.m.	seven fourteen a m
+5:15pm	five fifteen p m
+12:01	twelve o one
+21:55	twenty one fifty five
+05:30	five thirty
+20:00	twenty hundred
+08:30	eight thirty
+14:10	fourteen ten
+14:20	fourteen twenty
+8pm	eight p m
+1:34	one thirty four
+7:38.93	seven minutes thirty eight seconds and ninety three milliseconds
+3:07pm	three o seven p m
+10:35:47	ten hours thirty five minutes and forty seven seconds
+4:00 am	four a m
+3:42	three forty two
+7.00am	seven a m
+1 am	one a m
+2:23:15	two hours twenty three minutes and fifteen seconds
+12:30 pm	twelve thirty p m
+2:30 pm	two thirty p m
+9:22	nine twenty two
+5: 28	five twenty eight
+08:35	eight thirty five
+3:52	three fifty two
+21: 41	twenty one forty one
+24:45	twenty four forty five
+3:30	three thirty
+6 p.m.	six p m
+8:30 pm	eight thirty p m
+2: 22	two twenty two
+13:00	thirteen hundred
+14:00	fourteen hundred
+1:41 p.m. ET	one forty one p m e t
+03:54	three fifty four
+20:00	twenty hundred
+18:43	eighteen forty three
+1:18	one eighteen
+11:50 am	eleven fifty a m
+18:30	eighteen thirty
+22:20	twenty two twenty
+2:45 a.m.	two forty five a m
+9:45pm	nine forty five p m
+3:28	three twenty eight
+7:25	seven twenty five
+9 a.m.	nine a m
+6 p.m.	six p m
+30:28.30	thirty minutes twenty eight seconds and thirty milliseconds
+10pm	ten p m
+5:05	five o five
+3:40	three forty
+4:07	four o seven
+3:14	three fourteen
+2:10:21	two hours ten minutes and twenty one seconds
+8 p.m. EDT	eight p m e d t
+7:27 pm	seven twenty seven p m
+8:15 pm	eight fifteen p m
+14:56 BST	fourteen fifty six b s t
+4: 21	four twenty one
+3 a.m.	three a m
+6:30pm	six thirty p m
+11:30am	eleven thirty a m
+2:25pm	two twenty five p m
+3:41	three forty one
+6pm	six p m
+8:00 AM	eight a m
+11:42 AM	eleven forty two a m
+8am	eight a m
+1am	one a m
+01.10	one ten
+5 p.m.	five p m
+18:45	eighteen forty five
+21:55	twenty one fifty five
+2:14	two fourteen
+9pm	nine p m
+5pm	five p m
+6pm	six p m
+4:40 PM	four forty p m
+7:00 PM	seven p m
+8 pm AEST	eight p m a e s t
+AM2	two a m
+10:03 a.m.	ten o three a m
+18:00	eighteen hundred
+5:30 a.m.	five thirty a m
+12:07pm	twelve o seven p m
+12:07pm	twelve o seven p m
+21:55	twenty one fifty five
+8:16	eight sixteen
+11 AM	eleven a m
+5:48	five forty eight
+00:22	zero twenty two
+23:30	twenty three thirty
+9am	nine a m
+9am	nine a m
+1pm	one p m
+1pm	one p m
+4pm	four p m
+7pm	seven p m
+11pm	eleven p m
+2:45	two forty five
+11:09	eleven o nine
+11:38	eleven thirty eight
+13:25	thirteen twenty five
+3.32pm GMT	three thirty two p m g m t
+2:45 pm EST	two forty five p m e s t
+6am	six a m
+20:03	twenty o three
+3:59	three fifty nine
+02.24	two twenty four
+1:22:52	one hour twenty two minutes and fifty two seconds
+1:23:12	one hour twenty three minutes and twelve seconds
+1:17:50	one hour seventeen minutes and fifty seconds
+1:18:08	one hour eighteen minutes and eight seconds
+0:20	zero twenty
+7 p.m.	seven p m
+4 p.m.	four p m
+20: 45	twenty forty five
+0:33	zero thirty three
+13:50 pm	one fifty p m
+7:00 p.m.	seven p m
+11:00 p.m.	eleven p m
+9.30pm AEST	nine thirty p m a e s t
+21:00	twenty one hundred
+02:01	two o one
+21:00	twenty one hundred
+18:15	eighteen fifteen
+19:45	nineteen forty five
+2:00.97	two minutes zero seconds and ninety seven milliseconds
+10:30 a.m.	ten thirty a m
+7:00 p.m.	seven p m
+22:51 UTC	twenty two fifty one u t c
+16:51 EDT	sixteen fifty one e d t
+05:52:02 GMT	five hours fifty two minutes and two seconds g m t
+4: 33	four thirty three
+15:36	fifteen thirty six
+01:00	one o'clock
+2:38	two thirty eight
+9:20 A.M.	nine twenty a m
+4:03	four o three
+5:30 p.m.	five thirty p m
+11:59	eleven fifty nine
+4:07	four o seven
+4:41	four forty one
+9 pm	nine p m
+9 am	nine a m
+1: 59	one fifty nine
+16:06 GMT	sixteen o six g m t
+1pm	one p m
+11:00 p.m.	eleven p m
+1:52	one fifty two
+15: 37	fifteen thirty seven
+6: 49	six forty nine
+06:41	six forty one
+5:27	five twenty seven
+4am	four a m
+6:52	six fifty two
+5:51	five fifty one
+8 a.m.	eight a m
+2:03:38	two hours three minutes and thirty eight seconds
+18:50	eighteen fifty
+4:06	four o six
+5:36pm	five thirty six p m
+21:55	twenty one fifty five
+6:30 p.m.	six thirty p m
+2:45pm	two forty five p m
+13:33	thirteen thirty three
+3:32	three thirty two
+3:10	three ten
+3:34	three thirty four
+3:44	three forty four
+5:31	five thirty one
+2:49	two forty nine
+4:58	four fifty eight
+3:10	three ten
+5:31	five thirty one
+4:41	four forty one
+4:07.70	four minutes seven seconds and seventy milliseconds
+07:00	seven o'clock
+2:47	two forty seven
+8pm	eight p m
+08:00	eight o'clock
+9:30am	nine thirty a m
+8:00 am	eight a m
+3:25	three twenty five
+01.08	one o eight
+9:17 p.m.	nine seventeen p m
+07.21	seven twenty one
+2:44	two forty four
+12:00pm	twelve p m
+2:05pm	two o five p m
+4:10pm	four ten p m
+9:00 a.m.	nine a m
+5:00 p.m.	five p m
+13:00	thirteen hundred
+21:00	twenty one hundred
+1:58 p.m.	one fifty eight p m
+17:37	seventeen thirty seven
+19:00	nineteen hundred
+11:11	eleven eleven
+11:59	eleven fifty nine
+12:45 pm	twelve forty five p m
+11 A.M.	eleven a m
+7 pm	seven p m
+8:04	eight o four
+3:08	three o eight
+4 pm	four p m
+7 pm	seven p m
+1:18	one eighteen
+1:47	one forty seven
+1:34	one thirty four
+0:21	zero twenty one
+19:07	nineteen o seven
+11:01	eleven o one
+10:00	ten o'clock
+6: 59	six fifty nine
+2:34	two thirty four
+2:00 PM	two p m
+7:13 AM	seven thirteen a m
+5: 45	five forty five
+4:22	four twenty two
+08:00 a.m. EDT	eight a m e d t
+22:19	twenty two nineteen
+23:25	twenty three twenty five
+21:38	twenty one thirty eight
+23:26	twenty three twenty six
+10am	ten a m
+2pm	two p m
+2:38	two thirty eight
+3:51	three fifty one
+8:49	eight forty nine
+12:39	twelve thirty nine
+9:20	nine twenty
+19:31 UTC	nineteen thirty one u t c
+1:19:53	one hour nineteen minutes and fifty three seconds
+2:19:12	two hours nineteen minutes and twelve seconds
+11:30 pm	eleven thirty p m
+4: 28	four twenty eight
+0:01:51	zero hours one minute and fifty one seconds
+0:03:20	zero hours three minutes and twenty seconds
+2:19.41	two minutes nineteen seconds and forty one milliseconds
+2:08PM PDT	two o eight p m p d t
+7:00 pm	seven p m
+5:01	five o one
+7.30pm	seven thirty p m
+7:30 pm	seven thirty p m
+22:00	twenty two hundred
+01:00	one o'clock
+04:36 UTC	four thirty six u t c
+3:19	three nineteen
+06:08	six o eight
+06:25	six twenty five
+06:55	six fifty five
+07:25	seven twenty five
+07:55	seven fifty five
+08:25	eight twenty five
+15:32	fifteen thirty two
+7:46	seven forty six
+12:46	twelve forty six
+2:20	two twenty
+3:47	three forty seven
+4:34	four thirty four
+3:32	three thirty two
+4:01	four o one
+4:53 p.m.	four fifty three p m
+8:06.81	eight minutes six seconds and eighty one milliseconds
+5:28 PM	five twenty eight p m
+12:00 AM	twelve a m
+11:00	eleven o'clock
+10am	ten a m
+3pm	three p m
+3:20	three twenty
+3:30 am	three thirty a m
+06.12	six twelve
+07.03AM IST	seven o three a m i s t
+4: 23	four twenty three
+17:18	seventeen eighteen
+17:57	seventeen fifty seven
+21:15	twenty one fifteen
+08:45	eight forty five
+12:29:58 UTC	twelve hours twenty nine minutes and fifty eight seconds u t c
+6 p.m.	six p m
+2:37	two thirty seven
+4:36	four thirty six
+10:15	ten fifteen
+5:47	five forty seven
+3:27	three twenty seven
+6 pm	six p m
+9 pm	nine p m
+1:12	one twelve
+10:55	ten fifty five
+19:15	nineteen fifteen
+19:43	nineteen forty three
+21:17	twenty one seventeen
+6: 19	six nineteen
+2 a.m. EDT	two a m e d t
+08:00	eight o'clock
+20:00	twenty hundred
+4am	four a m
+6.30am	six thirty a m
+08:16:37 UTC	eight hours sixteen minutes and thirty seven seconds u t c
+4:07	four o seven
+3:00 PM	three p m
+4:25	four twenty five
+1:25:08	one hour twenty five minutes and eight seconds
+16:45	sixteen forty five
+01:00	one o'clock
+8am	eight a m
+12pm	twelve p m
+1:38	one thirty eight
+1pm	one p m
+9: 14	nine fourteen
+7PM	seven p m
+3:30	three thirty
+23:00	twenty three hundred
+15:00	fifteen hundred
+13:30	thirteen thirty
+16:00	sixteen hundred
+09:00	nine o'clock
+12:00	twelve o'clock
+2:04	two o four
+2:18	two eighteen
+7:38	seven thirty eight
+4: 30	four thirty
+05:00	five o'clock
+20:00	twenty hundred
+7:30 AM	seven thirty a m
+3:00 PM	three p m
+6:30 p.m.	six thirty p m
+19:03	nineteen o three
+08:00	eight o'clock
+17:00	seventeen hundred
+20:30	twenty thirty
+2:29.42	two minutes twenty nine seconds and forty two milliseconds
+14:30	fourteen thirty
+4:00 am	four a m
+20:30	twenty thirty
+7:00	seven o'clock
+3:25 pm	three twenty five p m
+1:15:02	one hour fifteen minutes and two seconds
+17:45	seventeen forty five
+11.00am	eleven a m
+5 am	five a m
+10:30 pm	ten thirty p m
+10:40	ten forty
+12: 51	twelve fifty one
+2:30	two thirty
+7:00 a.m.	seven a m
+1:49.60	one minute forty nine seconds and sixty milliseconds
+14:39	fourteen thirty nine
+6:20 am	six twenty a m
+03:38 CST	three thirty eight c s t
+20:06	twenty o six
+00:00 UTC	zero hundred u t c
+6 pm	six p m
+9:00pm	nine p m
+10 p.m.	ten p m
+1:07:29	one hour seven minutes and twenty nine seconds
+1:07:46	one hour seven minutes and forty six seconds
+1:09:42	one hour nine minutes and forty two seconds
+7: 31	seven thirty one
+8PM	eight p m
+10PM	ten p m
+16:00	sixteen hundred
+16:16	sixteen sixteen
+04:24 PM EDT	four twenty four p m e d t
+10:10	ten ten
+21:50	twenty one fifty
+15:45	fifteen forty five
+09:45 GMT	nine forty five g m t
+0:45	zero forty five
+14:45	fourteen forty five
+11:55	eleven fifty five
+8am	eight a m
+6pm	six p m
+7: 31	seven thirty one
+5.15am	five fifteen a m
+5.00am	five a m
+13:17.56	thirteen minutes seventeen seconds and fifty six milliseconds
+3:28	three twenty eight
+4:01	four o one
+16:34.63	sixteen minutes thirty four seconds and sixty three milliseconds
+1:00:06	one hour zero minutes and six seconds
+7:18 p.m.	seven eighteen p m
+1:08	one o eight
+20:00	twenty hundred
+18:30	eighteen thirty
+1:36	one thirty six
+10:09	ten o nine
+8:30 pm	eight thirty p m
+11:14	eleven fourteen
+10:30	ten thirty
+6:06 pm EDT	six o six p m e d t
+6 am	six a m
+4:00 p.m.	four p m
+2:20:47	two hours twenty minutes and forty seven seconds
+02:23 GMT	two twenty three g m t
+1:48	one forty eight
+3:45	three forty five
+4:43	four forty three
+6:10	six ten
+02:00	two o'clock
+1:45 pm	one forty five p m
+21:55	twenty one fifty five
+9:00 AM	nine a m
+4:30 PM	four thirty p m
+5:33	five thirty three
+5:45	five forty five
+2AM	two a m
+14:28 CST	fourteen twenty eight c s t
+8 pm	eight p m
+2:59 PM EDT	two fifty nine p m e d t
+9:10	nine ten
+06:00	six o'clock
+4:30	four thirty
+3:36	three thirty six
+4:00	four o'clock
+3:20	three twenty
+12:58	twelve fifty eight
+13:12	thirteen twelve
+1:30 pm	one thirty p m
+17:30	seventeen thirty
+3:16	three sixteen
+18:00	eighteen hundred
+6:15	six fifteen
+8:00 pm ET	eight p m e t
+3:15	three fifteen
+3.17 pm	three seventeen p m
+05:00	five o'clock
+09:30	nine thirty
+07:26	seven twenty six
+20: 34	twenty thirty four
+7:00am	seven a m
+4: 25	four twenty five
+1:09	one o nine
+5:30	five thirty
+11 p.m.	eleven p m
+9pm ET	nine p m e t
+4:04	four o four
+4 p.m.	four p m
+1 p.m.	one p m
+11:31	eleven thirty one
+10:30	ten thirty
+3:44	three forty four
+8:33	eight thirty three
+18:18	eighteen eighteen
+8:45 PM CST	eight forty five p m c s t
+10:00	ten o'clock
+10:30 a.m.	ten thirty a m
+0:07:50	zero hours seven minutes and fifty seconds
+8 a.m.	eight a m
+2:45 p.m.	two forty five p m
+2:11	two eleven
+8:00 am	eight a m
+3 A.M.	three a m
+12:35 am	twelve thirty five a m
+1:10	one ten
+06.15	six fifteen
+7 a.m.	seven a m
+10 p.m.	ten p m
+5:00am	five a m
+10:00pm	ten p m
+7:30 pm	seven thirty p m
+7:45pm	seven forty five p m
+9am	nine a m
+3:48	three forty eight
+3:28	three twenty eight
+4:10	four ten
+5:23	five twenty three
+7: 36	seven thirty six
+16:00	sixteen hundred
+02:55	two fifty five
+3:50	three fifty
+10:24am EST	ten twenty four a m e s t
+4:14	four fourteen
+3:03	three o three
+6:19 p.m. EST	six nineteen p m e s t
+9PM	nine p m
+10:30 p.m.	ten thirty p m
+10:30	ten thirty
+11:00	eleven o'clock
+06:30 AM	six thirty a m
+13:00 PM	one p m
+1:36	one thirty six
+10:09	ten o nine
+2:11:25	two hours eleven minutes and twenty five seconds
+9pm	nine p m
+12am	twelve a m
+7pm	seven p m
+10pm	ten p m
+1:20	one twenty
+2:44	two forty four
+1:16	one sixteen
+14:00	fourteen hundred
+5pm	five p m
+8.30pm	eight thirty p m
+6:10 am	six ten a m
+5:03 AM	five o three a m
+1:18	one eighteen
+16:20	sixteen twenty
+9pm	nine p m
+06:45am	six forty five a m
+11:05 am EDT	eleven o five a m e d t
+8:00am	eight a m
+10:00am	ten a m
+2:00PM	two p m
+2:30PM	two thirty p m
+14:57.03	fourteen minutes fifty seven seconds and three milliseconds
+18: 29	eighteen twenty nine
+3:00 a.m.	three a m
+07:20	seven twenty
+07:25	seven twenty five
+07:40	seven forty
+6:10	six ten
+1:58	one fifty eight
+10:25 pm	ten twenty five p m
+11:56 pm	eleven fifty six p m
+4.00pm	four p m
+06:40	six forty
+8pm	eight p m
+9:55	nine fifty five
+4:59	four fifty nine
+8:32	eight thirty two
+8:12	eight twelve
+8:30 a.m.	eight thirty a m
+3:31	three thirty one
+5:10	five ten
+2:39	two thirty nine
+00:04	zero o four
+05:39	five thirty nine
+5:30pm	five thirty p m
+9:30am	nine thirty a m
+5:11	five eleven
+4:17PM	four seventeen p m
+2:34.19	two minutes thirty four seconds and nineteen milliseconds
+1:30	one thirty
+1:30	one thirty
+9:00pm	nine p m
+6am	six a m
+6pm	six p m
+24: 18	twenty four eighteen
+8am	eight a m
+7:48	seven forty eight
+6:58.28	six minutes fifty eight seconds and twenty eight milliseconds
+4pm	four p m
+20:00 BST	twenty hundred b s t
+8:00 pm	eight p m
+2:08.38	two minutes eight seconds and thirty eight milliseconds
+1:00	one o'clock
+14:20	fourteen twenty
+07:20	seven twenty
+8.00 a.m.	eight a m
+4:30am	four thirty a m
+8:30pm	eight thirty p m
+2:24.49	two minutes twenty four seconds and forty nine milliseconds
+9 PM	nine p m
+11 PM	eleven p m
+2:28.12	two minutes twenty eight seconds and twelve milliseconds
+6:04	six o four
+5pm	five p m
+7.30pm	seven thirty p m
+8:15	eight fifteen
+4:05	four o five
+0:51	zero fifty one
+2:29	two twenty nine
+12:00am	twelve a m
+06:00:00Z	six hours zero minutes and zero seconds z
+6:00 am	six a m
+7:00 pm	seven p m
+19:55	nineteen fifty five
+2: 18	two eighteen
+3:45.83	three minutes forty five seconds and eighty three milliseconds
+3:46.29	three minutes forty six seconds and twenty nine milliseconds
+8:00 am	eight a m
+1:58.66	one minute fifty eight seconds and sixty six milliseconds
+11:00 a.m.	eleven a m
+16:30 CEST	sixteen thirty c e s t
+20:40	twenty forty
+11: 19	eleven nineteen
+7:13	seven thirteen
+22:14	twenty two fourteen
+4: 27	four twenty seven
+10:27	ten twenty seven
+00:02	zero o two
+6.30pm	six thirty p m
+6pm	six p m
+17:30	seventeen thirty
+10 p.m.	ten p m
+06:00 GMT	six o'clock g m t
+3pm	three p m
+8:50am	eight fifty a m
+5:30	five thirty
+10 am	ten a m
+4.13 am	four thirteen a m
+2:03.33	two minutes three seconds and thirty three milliseconds
+11 A.M.	eleven a m
+4:57	four fifty seven
+12:30AM	twelve thirty a m
+9 a.m.	nine a m
+1:58.0	one minute fifty eight seconds and zero milliseconds
+2: 52	two fifty two
+1am	one a m
+7am	seven a m
+18:00	eighteen hundred
+5.30 am	five thirty a m
+8 pm	eight p m
+6:30	six thirty
+7:00 p.m.	seven p m
+4:19	four nineteen
+5:00	five o'clock
+5:00	five o'clock
+3:15	three fifteen
+1:12	one twelve
+06.09	six o nine
+8:00	eight o'clock
+10:00 AM	ten a m
+7:00	seven o'clock
+8:00 a.m.	eight a m
+5:00 p.m.	five p m
+10:00 am	ten a m
+7:00 pm	seven p m
+6:00 a.m.	six a m
+1:18	one eighteen
+3: 40	three forty
+11:00 a.m.	eleven a m
+10:00 p.m.	ten p m
+6 a.m.	six a m
+17:05	seventeen o five
+10 pm ET	ten p m e t
+8:30 a.m. EST	eight thirty a m e s t
+12:40	twelve forty
+07:00	seven o'clock
+23:00	twenty three hundred
+06:50 PM	six fifty p m
+6.00 am	six a m
+8.00 pm	eight p m
+11:00 a.m.	eleven a m
+10 am	ten a m
+6 pm	six p m
+10 am	ten a m
+4 pm	four p m
+10:30 p.m.	ten thirty p m
+1:50	one fifty
+11 am	eleven a m
+11:14	eleven fourteen
+03:25	three twenty five
+7pm AEST	seven p m a e s t
+1:51	one fifty one
+1:06	one o six
+07:18	seven eighteen
+5:09	five o nine
+8: 18	eight eighteen
+9:00pm	nine p m
+5 a.m.	five a m
+11:33 pm	eleven thirty three p m
+11:57 pm	eleven fifty seven p m
+10:30pm	ten thirty p m
+6:00pm	six p m
+4:17	four seventeen
+4:49	four forty nine
+10:00 AEST	ten o'clock a e s t
+8: 56	eight fifty six
+2:07:35	two hours seven minutes and thirty five seconds
+5 p.m.	five p m
+01:40	one forty
+3:30	three thirty
+10 a.m.	ten a m
+12 p.m.	twelve p m
+18:15	eighteen fifteen
+13:05	thirteen o five
+12:00am	twelve a m
+10 p.m.	ten p m
+03:37	three thirty seven
+03:41	three forty one
+9 pm	nine p m
+7:53	seven fifty three
+8:11	eight eleven
+7:10 am	seven ten a m
+5:46	five forty six
+7: 14	seven fourteen
+10am	ten a m
+2:09	two o nine
+2:26	two twenty six
+2:06:14	two hours six minutes and fourteen seconds
+3:59.55	three minutes fifty nine seconds and fifty five milliseconds
+10am	ten a m
+5pm	five p m
+1pm	one p m
+5 pm	five p m
+20: 47	twenty forty seven
+1:03 PM	one o three p m
+10:00 am	ten a m
+9:00 am	nine a m
+03.50PM IST	three fifty p m i s t
+9:28	nine twenty eight
+4:32	four thirty two
+1:09	one o nine
+21:01	twenty one o one
+5 a.m.	five a m
+03:30	three thirty
+11 am	eleven a m
+1:36	one thirty six
+09:30	nine thirty
+6 pm	six p m
+12:30PM IST	twelve thirty p m i s t
+1:04	one o four
+0:16	zero sixteen
+4:35	four thirty five
+1:39	one thirty nine
+3:39	three thirty nine
+1:59	one fifty nine
+9 AM	nine a m
+19:30	nineteen thirty
+10:00	ten o'clock
+4:45	four forty five
+3:48 pm EDT	three forty eight p m e d t
+2:04:48	two hours four minutes and forty eight seconds
+4:40	four forty
+03:30	three thirty
+4:04	four o four
+5:30	five thirty
+6:00 am	six a m
+4:19	four nineteen
+3:30 AM	three thirty a m
+1:51	one fifty one
+4:22	four twenty two
+11:30 a.m.	eleven thirty a m
+16:09	sixteen o nine
+7 pm	seven p m
+10 pm	ten p m
+10 AM	ten a m
+9:04 AM	nine o four a m
+2pm	two p m
+3:35	three thirty five
+9: 18	nine eighteen
+5pm	five p m
+6pm	six p m
+5pm	five p m
+5:30pm	five thirty p m
+9 am	nine a m
+6:00	six o'clock
+11:00 p.m.	eleven p m
+13:31	thirteen thirty one
+24:00	twenty four hundred
+6 p.m.	six p m
+1:00 p.m.	one p m
+6:30 p.m.	six thirty p m
+14:50	fourteen fifty
+12:00am	twelve a m
+10: 35	ten thirty five
+7 a.m.	seven a m
+5:30 p.m.	five thirty p m
+1:12	one twelve
+6:06	six o six
+20: 48	twenty forty eight
+12:50 am	twelve fifty a m
+05.39pm IST	five thirty nine p m i s t
+6pm	six p m
+5 PM	five p m
+9pm	nine p m
+10:00 AM	ten a m
+10 am	ten a m
+2 pm	two p m
+00:45	zero forty five
+2:07:04	two hours seven minutes and four seconds
+4:17 a.m.	four seventeen a m
+5:00	five o'clock
+3:52	three fifty two
+17: 45	seventeen forty five
+1:33	one thirty three
+1:30 p.m.	one thirty p m
+6 p.m.	six p m
+20:25	twenty twenty five
+3:07	three o seven
+2:03.02	two minutes three seconds and two milliseconds
+12:15	twelve fifteen
+2:10	two ten
+1:00pm	one p m
+10:16	ten sixteen
+9:30 am	nine thirty a m
+19:39	nineteen thirty nine
+7:18	seven eighteen
+15:00	fifteen hundred
+15:30	fifteen thirty
+17:09	seventeen o nine
+17:20	seventeen twenty
+17:50	seventeen fifty
+22:10	twenty two ten
+22:52	twenty two fifty two
+10:50	ten fifty
+3:00 p.m.	three p m
+12:00	twelve o'clock
+3:44	three forty four
+7 a.m.	seven a m
+1:30 a.m.	one thirty a m
+2.30am GMT	two thirty a m g m t
+14:44	fourteen forty four
+2: 13	two thirteen
+8:24	eight twenty four
+10:21 am PST	ten twenty one a m p s t
+11:29 am CDT	eleven twenty nine a m c d t
+12:58 pm CDT	twelve fifty eight p m c d t
+08:06 UTC	eight o six u t c
+1:03.72	one minute three seconds and seventy two milliseconds
+12:45	twelve forty five
+1 am	one a m
+11:59:43	eleven hours fifty nine minutes and forty three seconds
+02:10	two ten
+03:03	three o three
+1:55	one fifty five
+8 a.m.	eight a m
+14:00	fourteen hundred
+10:00	ten o'clock
+1:55:36	one hour fifty five minutes and thirty six seconds
+0:21	zero twenty one
+1:58	one fifty eight
+4:17	four seventeen
+3:39	three thirty nine
+3:58	three fifty eight
+00:10	zero ten
+7:57.58	seven minutes fifty seven seconds and fifty eight milliseconds
+7:29.34	seven minutes twenty nine seconds and thirty four milliseconds
+1:57.14	one minute fifty seven seconds and fourteen milliseconds
+10:45	ten forty five
+6:30	six thirty
+7:30 p.m.	seven thirty p m
+1:00 AM	one a m
+10.30am	ten thirty a m
+10:28	ten twenty eight
+18:19	eighteen nineteen
+5:31 p.m.	five thirty one p m
+10:13	ten thirteen
+19:30	nineteen thirty
+02.31AM IST	two thirty one a m i s t
+19:01	nineteen o one
+18:02	eighteen o two
+15:48	fifteen forty eight
+03:50	three fifty
+07:14 UTC	seven fourteen u t c
+09:47	nine forty seven
+9:30PM IST	nine thirty p m i s t
+4:15 a.m.	four fifteen a m
+3: 11	three eleven
+17:44	seventeen forty four
+4:19	four nineteen
+20:50	twenty fifty
+19:16	nineteen sixteen
+19:34	nineteen thirty four
+18:47	eighteen forty seven
+19:15	nineteen fifteen
+09:51	nine fifty one
+09:30	nine thirty
+18:50	eighteen fifty
+3:48	three forty eight
+07:44	seven forty four
+02.20	two twenty
+23:53	twenty three fifty three
+24:25	twenty four twenty five
+3:45.90	three minutes forty five seconds and ninety milliseconds
+10 pm	ten p m
+10:30 pm	ten thirty p m
+6.30 am	six thirty a m
+3:00 p.m.	three p m
+6 pm	six p m
+1:06	one o six
+7:00 p.m.	seven p m
+3:13	three thirteen
+9pm	nine p m
+08.02	eight o two
+05:00	five o'clock
+07:00	seven o'clock
+16:30	sixteen thirty
+11pm	eleven p m
+1:21	one twenty one
+11:00 p.m.	eleven p m
+8:30 a.m.	eight thirty a m
+9:37 p.m.	nine thirty seven p m
+7: 13	seven thirteen
+07:30	seven thirty
+9:30 pm	nine thirty p m
+1:25.00	one minute twenty five seconds and zero milliseconds
+16:35	sixteen thirty five
+18:40	eighteen forty
+5:30 AM	five thirty a m
+5:40 p.m.	five forty p m
+5am	five a m
+10pm	ten p m
+10.00 am	ten a m
+14.00 pm	two p m
+1:12	one twelve
+7:58 pm	seven fifty eight p m
+05:37	five thirty seven
+02:06 UTC	two o six u t c
+3:39	three thirty nine
+22: 36	twenty two thirty six
+2:00.8	two minutes zero seconds and eight milliseconds
+12:07	twelve o seven
+4:06	four o six
+3:28	three twenty eight
+01:30	one thirty
+4:19AM	four nineteen a m
+6:30PM	six thirty p m
+2:00AM	two a m
+7:30 p.m.	seven thirty p m
+2:30 AM	two thirty a m
+5:05	five o five
+19:05	nineteen o five
+00:03 GMT	zero o three g m t
+8:30	eight thirty
+9:30 pm	nine thirty p m
+5:22 PM	five twenty two p m
+6:00am	six a m
+7:00am	seven a m
+6:00 am	six a m
+2:30 am	two thirty a m
+8am	eight a m
+5pm	five p m
+11:00	eleven o'clock
+12:00	twelve o'clock
+2:00 AM ET	two a m e t
+9:00PM	nine p m
+9am	nine a m
+7PM	seven p m
+22:06:08	twenty two hours six minutes and eight seconds
+10 p.m.	ten p m
+10am	ten a m
+7pm	seven p m
+4pm	four p m
+9 a.m.	nine a m
+2 p.m.	two p m
+04:07	four o seven
+04:11	four eleven
+5:05pm	five o five p m
+12:00 UTC	twelve o'clock u t c
+10:00 am	ten a m
+2:00 pm	two p m
+3:49	three forty nine
+10:30 P.M.	ten thirty p m
+2am	two a m
+4am	four a m
+6:00 AM	six a m
+9:00 AM	nine a m
+5: 32	five thirty two
+03.28	three twenty eight
+2:04 pm ET	two o four p m e t
+12:43	twelve forty three
+12:51	twelve fifty one
+5am	five a m
+1:09:58	one hour nine minutes and fifty eight seconds
+7:00pm CET	seven p m c e t
+7:15am	seven fifteen a m
+8 P.M.	eight p m
+5:23	five twenty three
+4:24	four twenty four
+12:01 am EST	twelve o one a m e s t
+18:35	eighteen thirty five
+2:23:48	two hours twenty three minutes and forty eight seconds
+04.01PM IST	four o one p m i s t
+02.02	two o two
+4:07:40	four hours seven minutes and forty seconds
+4:29:10	four hours twenty nine minutes and ten seconds
+1:00 a.m.	one a m
+9 p.m.	nine p m
+18:30	eighteen thirty
+10 AM	ten a m
+9:00 a.m.	nine a m
+5:30 p.m.	five thirty p m
+2:00	two o'clock
+6: 11	six eleven
+4:46	four forty six
+4:38	four thirty eight
+02.16am IST	two sixteen a m i s t
+22:50 UTC	twenty two fifty u t c
+3: 46	three forty six
+4:30PM	four thirty p m
+7:00AM	seven a m
+9:00AM	nine a m
+1:00PM	one p m
+10:00PM	ten p m
+1:20am	one twenty a m
+11:35	eleven thirty five
+06:00	six o'clock
+0:45:00	zero hours forty five minutes and zero seconds
+9pm	nine p m
+21:00	twenty one hundred
+2:28	two twenty eight
+11 a.m.	eleven a m
+11:00	eleven o'clock
+2: 26	two twenty six
+9:30	nine thirty
+19:52	nineteen fifty two
+2AM	two a m
+6 pm	six p m
+5:29pm EDT	five twenty nine p m e d t
+13:09	thirteen o nine
+1:50.7	one minute fifty seconds and seven milliseconds
+1:56.9	one minute fifty six seconds and nine milliseconds
+08:30	eight thirty
+5:32	five thirty two
+11.00 AM	eleven a m
+06:37 AM EDT	six thirty seven a m e d t
+8:50	eight fifty
+3:14 AM	three fourteen a m
+10:00 P.M. ET	ten p m e t
+11:30	eleven thirty
+4am	four a m
+9pm	nine p m
+08.20	eight twenty
+2 PM	two p m
+08.35	eight thirty five
+08.15	eight fifteen
+9:04 am	nine o four a m
+9:28 am	nine twenty eight a m
+1:14	one fourteen
+8:30 pm	eight thirty p m
+8:30 p.m.	eight thirty p m
+3:00 a.m.	three a m
+16:08.41	sixteen minutes eight seconds and forty one milliseconds
+32:54.84	thirty two minutes fifty four seconds and eighty four milliseconds
+1: 28	one twenty eight
+2am	two a m
+4:16	four sixteen
+2:07:48	two hours seven minutes and forty eight seconds
+04:04	four o four
+7:30 am	seven thirty a m
+8:45 am	eight forty five a m
+3:09	three o nine
+8pm	eight p m
+4:08	four o eight
+06:30 AM	six thirty a m
+13:00 PM	one p m
+3 a.m.	three a m
+3:55	three fifty five
+6:30 pm	six thirty p m
+5:28	five twenty eight
+07.07	seven o seven
+9 am	nine a m
+5 pm	five p m
+5:30pm	five thirty p m
+8 pm	eight p m
+21:45	twenty one forty five
+8 p.m.	eight p m
+9 a.m.	nine a m
+8:00	eight o'clock
+2:55	two fifty five
+10:30	ten thirty
+1:24	one twenty four
+12:14 pm	twelve fourteen p m
+4:10	four ten
+4:10	four ten
+15:45 PST	fifteen forty five p s t
+16:45 PST	sixteen forty five p s t
+6:22pm	six twenty two p m
+2:00 pm	two p m
+4 a.m.	four a m
+2:24.03	two minutes twenty four seconds and three milliseconds
+2:24.81	two minutes twenty four seconds and eighty one milliseconds
+8:00 PM ET	eight p m e t
+1:15 pm	one fifteen p m
+6:30pm	six thirty p m
+1:52.12	one minute fifty two seconds and twelve milliseconds
+2: 38	two thirty eight
+9:07	nine o seven
+12:28	twelve twenty eight
+7:30pm	seven thirty p m
+10am	ten a m
+5pm	five p m
+9:45 am	nine forty five a m
+10:40	ten forty
+3: 43	three forty three
+8:00pm	eight p m
+4: 25	four twenty five
+1:10	one ten
+3:47	three forty seven
+5:18	five eighteen
+7:01	seven o one
+11am	eleven a m
+4:14	four fourteen
+4:28	four twenty eight
+1:36	one thirty six
+1:57	one fifty seven
+4:12	four twelve
+4:30	four thirty
+9:30	nine thirty
+1:54	one fifty four
+2:06:58	two hours six minutes and fifty eight seconds
+5: 20	five twenty
+2:09	two o nine
+0:10	zero ten
+3:34pm	three thirty four p m
+4:29	four twenty nine
+9:52	nine fifty two
+10:14	ten fourteen
+1:51	one fifty one
+2:10	two ten
+10:10	ten ten
+7pm	seven p m
+5:55 a.m.	five fifty five a m
+1:25 p.m.	one twenty five p m
+1:59.38	one minute fifty nine seconds and thirty eight milliseconds
+4:20	four twenty
+1:46	one forty six
+10 am	ten a m
+7:27	seven twenty seven
+05.02AM IST	five o two a m i s t
+07:00	seven o'clock
+4:07	four o seven
+3:40	three forty
+3:59	three fifty nine
+3:26	three twenty six
+10:00 CET	ten o'clock c e t
+11:00	eleven o'clock
+01:38 UTC	one thirty eight u t c
+07:15 MST	seven fifteen m s t
+17:00	seventeen hundred
+10:00 p.m.	ten p m
+1: 27	one twenty seven
+4:50	four fifty
+17:00	seventeen hundred
+9:52am	nine fifty two a m
+9:30 p.m.	nine thirty p m
+12:23	twelve twenty three
+15:02	fifteen o two
+7:04	seven o four
+2:47	two forty seven
+18:30:00 GMT	eighteen hours thirty minutes and zero seconds g m t
+21:00	twenty one hundred
+01:00	one o'clock
+22:00	twenty two hundred
+00:00	zero hundred
+6:08	six o eight
+13:11	thirteen eleven
+15:37.39	fifteen minutes thirty seven seconds and thirty nine milliseconds
+12:01	twelve o one
+13:04	thirteen o four
+13:36	thirteen thirty six
+15:44	fifteen forty four
+2:11	two eleven
+5:15	five fifteen
+02:30	two thirty
+09:00	nine o'clock
+17:00	seventeen hundred
+05:00	five o'clock
+17:40	seventeen forty
+12:00	twelve o'clock
+8 pm	eight p m
+10:10 p.m. EDT	ten ten p m e d t
+4:09.51	four minutes nine seconds and fifty one milliseconds
+22: 24	twenty two twenty four
+11:30 pm	eleven thirty p m
+10:48 pm	ten forty eight p m
+7:45	seven forty five
+9:26 pm EST	nine twenty six p m e s t
+12:45PM	twelve forty five p m
+4:00 am	four a m
+2:13:24	two hours thirteen minutes and twenty four seconds
+20:00	twenty hundred
+10:00	ten o'clock
+11:13	eleven thirteen
+12:48	twelve forty eight
+06:17	six seventeen
+4:30	four thirty
+21:45	twenty one forty five
+00:40	zero forty
+00:40	zero forty
+20:00:00 EDT	twenty hours zero minutes and zero seconds e d t
+6 AM	six a m
+9 P.M.	nine p m
+3:01:15	three hours one minute and fifteen seconds
+8 PM	eight p m
+4:30	four thirty
+11: 59	eleven fifty nine
+3:36 p.m.	three thirty six p m
+1:15	one fifteen
+2:28:29	two hours twenty eight minutes and twenty nine seconds
+21:40	twenty one forty
+14:01.0	fourteen minutes one second and zero milliseconds
+30:13.06	thirty minutes thirteen seconds and six milliseconds
+3:24	three twenty four
+0:21:34	zero hours twenty one minutes and thirty four seconds
+20:30	twenty thirty
+18:30	eighteen thirty
+5pm	five p m
+7:30	seven thirty
+2:36 p.m.	two thirty six p m
+6:05	six o five
+2:00 p.m.	two p m
+23:21	twenty three twenty one
+11:34	eleven thirty four
+2:37:42	two hours thirty seven minutes and forty two seconds
+5 PM	five p m
+1:18:45	one hour eighteen minutes and forty five seconds
+10:03 a.m.	ten o three a m
+9pm	nine p m
+5:00 PM	five p m
+6:00 PM	six p m
+5:28	five twenty eight
+0:25	zero twenty five
+11:30	eleven thirty
+13:30	thirteen thirty
+09:24:32	nine hours twenty four minutes and thirty two seconds
+3:13	three thirteen
+5 p.m.	five p m
+2 pm	two p m
+00:01	zero o one
+5: 50	five fifty
+1:16	one sixteen
+3:28	three twenty eight
+7:30 p.m.	seven thirty p m
+10 PM	ten p m
+11:30	eleven thirty
+10:30	ten thirty
+10.00am	ten a m
+16:10	sixteen ten
+1.40 pm	one forty p m
+11: 13	eleven thirteen
+2: 26	two twenty six
+1: 19	one nineteen
+11:00	eleven o'clock
+3:00	three o'clock
+12:00	twelve o'clock
+1:00	one o'clock
+3:00	three o'clock
+10:04	ten o four
+11:00 am PDT	eleven a m p d t
+02.02	two o two
+12:00 PM	twelve p m
+5:30	five thirty
+6:32 PM	six thirty two p m
+7:31	seven thirty one
+4:07	four o seven
+10pm EST	ten p m e s t
+5:36	five thirty six
+10 p.m.	ten p m
+10:35	ten thirty five
+7:50	seven fifty
+14:30 GMT	fourteen thirty g m t
+2:30:03	two hours thirty minutes and three seconds
+9:30 PM	nine thirty p m
+13: 39	thirteen thirty nine
+9:00 am	nine a m
+3:00 pm	three p m
+00:00 GMT	zero hundred g m t
+2:43	two forty three
+10:00	ten o'clock
+11:29	eleven twenty nine
+2:11:06	two hours eleven minutes and six seconds
+2:18	two eighteen
+6:30 AM	six thirty a m
+6:30 PM	six thirty p m
+3:50.07	three minutes fifty seconds and seven milliseconds
+9am	nine a m
+11:13 am	eleven thirteen a m
+14:41.28	fourteen minutes forty one seconds and twenty eight milliseconds
+6.40am	six forty a m
+1:43.32	one minute forty three seconds and thirty two milliseconds
+8:35 a.m.	eight thirty five a m
+7PM	seven p m
+7pm	seven p m
+6 am	six a m
+8 am	eight a m
+7:28	seven twenty eight
+8: 51	eight fifty one
+00.00	zero hundred
+21:50	twenty one fifty
+19:04	nineteen o four
+22:56	twenty two fifty six
+14:45	fourteen forty five
+20:24	twenty twenty four
+5:38	five thirty eight
+7:25	seven twenty five
+2:10 PM	two ten p m
+11 am	eleven a m
+5.30 pm	five thirty p m
+12:15 am	twelve fifteen a m
+7:12	seven twelve
+4:27	four twenty seven
+7:10	seven ten
+23:09 UTC	twenty three o nine u t c
+15:08	fifteen o eight
+21:53 UTC	twenty one fifty three u t c
+8:00 pm	eight p m
+10:00 pm EST	ten p m e s t
+13:30	thirteen thirty
+10:00	ten o'clock
+14:00	fourteen hundred
+00:43	zero forty three
+0:02	zero o two
+10pm	ten p m
+13:32.58	thirteen minutes thirty two seconds and fifty eight milliseconds
+8:14.26	eight minutes fourteen seconds and twenty six milliseconds
+2:30 pm MST	two thirty p m m s t
+5:55	five fifty five
+3pm	three p m
+3 p.m.	three p m
+1:36 p.m. CST	one thirty six p m c s t
+19:36 UTC	nineteen thirty six u t c
+7: 26	seven twenty six
+6pm	six p m
+3:33	three thirty three
+22:56	twenty two fifty six
+1: 54	one fifty four
+4: 24	four twenty four
+7:30 AM	seven thirty a m
+2:00 PM	two p m
+1 pm	one p m
+2:32	two thirty two
+3:48	three forty eight
+9:00	nine o'clock
+9:30 pm	nine thirty p m
+4:07	four o seven
+20:12	twenty twelve
+21:15	twenty one fifteen
+21:17	twenty one seventeen
+5:16	five sixteen
+9:12	nine twelve
+3:00 p.m.	three p m
+5:30 a.m.	five thirty a m
+13:20	thirteen twenty
+1:42.67	one minute forty two seconds and sixty seven milliseconds
+10:40 PM	ten forty p m
+4:00 PM	four p m
+2:00	two o'clock
+6:00 pm	six p m
+16:28	sixteen twenty eight
+4:00 pm	four p m
+8:58 p.m.	eight fifty eight p m
+0:26	zero twenty six
+3: 21	three twenty one
+7:00 AM	seven a m
+3:31	three thirty one
+4:59	four fifty nine
+1:48	one forty eight
+11:06pm	eleven o six p m
+23:05	twenty three o five
+4:44	four forty four
+4:59am	four fifty nine a m
+1:12.81	one minute twelve seconds and eighty one milliseconds
+7:27	seven twenty seven
+09:18	nine eighteen
+04:48 UTC	four forty eight u t c
+24: 51	twenty four fifty one
+2 A.M.	two a m
+7:00 JST	seven o'clock j s t
+1:10	one ten
+2:48	two forty eight
+3:13	three thirteen
+3:01	three o one
+8:15 PM CET	eight fifteen p m c e t
+14:21	fourteen twenty one
+19:00	nineteen hundred
+1:55.6	one minute fifty five seconds and six milliseconds
+1:58.9	one minute fifty eight seconds and nine milliseconds
+4: 12	four twelve
+09:00	nine o'clock
+19:30	nineteen thirty
+00:00 UTC	zero hundred u t c
+12:28 PM EST	twelve twenty eight p m e s t
+3:54	three fifty four
+13:49:28 UTC	thirteen hours forty nine minutes and twenty eight seconds u t c
+6pm	six p m
+1:05:15	one hour five minutes and fifteen seconds
+1:10:00	one hour ten minutes and zero seconds
+24: 22	twenty four twenty two
+2:40	two forty
+8:45 am	eight forty five a m
+9:30 am	nine thirty a m
+3:15 pm	three fifteen p m
+17:05	seventeen o five
+6:50 pm	six fifty p m
+8 p.m. ET	eight p m e t
+2:15.39	two minutes fifteen seconds and thirty nine milliseconds
+17: 59	seventeen fifty nine
+1:38 AM	one thirty eight a m
+10:50 pm	ten fifty p m
+10:00	ten o'clock
+10:00 PM	ten p m
+9:00pm	nine p m
+1:54	one fifty four
+10:30 pm IST	ten thirty p m i s t
+2:44 am EST	two forty four a m e s t
+11:35	eleven thirty five
+9pm	nine p m
+10pm	ten p m
+4.45 am	four forty five a m
+14:55	fourteen fifty five
+17:20	seventeen twenty
+11:45	eleven forty five
+12: 18	twelve eighteen
+5:55 PM EDT	five fifty five p m e d t
+3:25	three twenty five
+1:17	one seventeen
+7:00	seven o'clock
+10: 29	ten twenty nine
+11 PM	eleven p m
+1:40 p.m.	one forty p m
+10 pm	ten p m
+1:45	one forty five
+1:07:07	one hour seven minutes and seven seconds
+13:24	thirteen twenty four
+9: 30	nine thirty
+6:33	six thirty three
+3:16	three sixteen
+13:34.9	thirteen minutes thirty four seconds and nine milliseconds
+6:18pm	six eighteen p m
+6 am	six a m
+11:48 p.m. CDT	eleven forty eight p m c d t
+8PM	eight p m
+18:01	eighteen o one
+1:37:59	one hour thirty seven minutes and fifty nine seconds
+10PM	ten p m
+7:04 pm EDT	seven o four p m e d t
+2:18:48	two hours eighteen minutes and forty eight seconds
+2:33:10	two hours thirty three minutes and ten seconds
+1:18	one eighteen
+3:45	three forty five
+4:21	four twenty one
+3:59	three fifty nine
+7:30 pm	seven thirty p m
+3:00	three o'clock
+1:03	one o three
+15:00 UTC	fifteen hundred u t c
+11:47	eleven forty seven
+7:30	seven thirty
+5 p.m.	five p m
+10: 10	ten ten
+6 PM	six p m
+15:15	fifteen fifteen
+8.30 pm	eight thirty p m
+19:30	nineteen thirty
+1:12	one twelve
+16:37 GMT	sixteen thirty seven g m t
+16:03:25 GMT	sixteen hours three minutes and twenty five seconds g m t
+01:32:36 GMT	one hour thirty two minutes and thirty six seconds g m t
+4:00 pm	four p m
+7 am	seven a m
+8 a.m.	eight a m
+10:00 pm	ten p m
+8:44 am EST	eight forty four a m e s t
+05:35 IST	five thirty five i s t
+8am	eight a m
+10 PM	ten p m
+9:17 PM	nine seventeen p m
+2:30pm	two thirty p m
+12:20pm	twelve twenty p m
+1:00pm	one p m
+5 pm	five p m
+9:21 p.m.	nine twenty one p m
+2:10:22	two hours ten minutes and twenty two seconds
+3: 37	three thirty seven
+3:19	three nineteen
+1: 14	one fourteen
+19:00	nineteen hundred
+21:00	twenty one hundred
+8pm	eight p m
+15:38	fifteen thirty eight
+4:40	four forty
+pm2	two p m
+11:00 am	eleven a m
+7:00 pm	seven p m
+0:27	zero twenty seven
+10:00 AM	ten a m
+4:00 PM	four p m
+1:00 PM	one p m
+4:00 PM	four p m
+15:30	fifteen thirty
+11:00 UTC	eleven o'clock u t c
+9:30	nine thirty
+2:30 p.m.	two thirty p m
+5: 17	five seventeen
+9am	nine a m
+10pm	ten p m
+10pm	ten p m
+9: 23	nine twenty three
+8:00 am	eight a m
+3:55pm	three fifty five p m
+1:00 pm	one p m
+07:50	seven fifty
+19: 22	nineteen twenty two
+3:51	three fifty one
+1:00pm	one p m
+19:05	nineteen o five
+11am	eleven a m
+7pm	seven p m
+11 p.m.	eleven p m
+6:00	six o'clock
+8 am	eight a m
+8:00 pm ET	eight p m e t
+13: 24	thirteen twenty four
+3 a.m.	three a m
+7:00 p.m.	seven p m
+07.04	seven o four
+9:31 p.m.	nine thirty one p m
+10:12 p.m.	ten twelve p m
+5:00	five o'clock
+5:30pm	five thirty p m
+16:15	sixteen fifteen
+10:00 a.m.	ten a m
+4:00 p.m.	four p m
+13:24	thirteen twenty four
+3:16	three sixteen
+2:20	two twenty
+5:00pm	five p m
+4 PM	four p m
+3:18	three eighteen
+4:39	four thirty nine
+1:16	one sixteen
+3 a.m.	three a m
+9am	nine a m
+3pm	three p m
+1:24	one twenty four
+10:30 pm	ten thirty p m
+8:00 p.m.	eight p m
+9:00 p.m.	nine p m
+00.30	zero thirty
+10 A.M.	ten a m
+11:15	eleven fifteen
+5:00	five o'clock
+1:27	one twenty seven
+1:17	one seventeen
+9pm	nine p m
+17: 46	seventeen forty six
+6 a.m.	six a m
+1:52.3	one minute fifty two seconds and three milliseconds
+3:06	three o six
+05:35	five thirty five
+20:37	twenty thirty seven
+5am	five a m
+10am	ten a m
+1:37.0	one minute thirty seven seconds and zero milliseconds
+0:07	zero o seven
+8pm ET	eight p m e t
+6pm	six p m
+9:00am	nine a m
+3:30pm	three thirty p m
+7:15 pm	seven fifteen p m
+8:15	eight fifteen
+6 p.m.	six p m
+20:00	twenty hundred
+4:54	four fifty four
+16:30	sixteen thirty
+3:00 PM	three p m
+6:00am	six a m
+15:30	fifteen thirty
+4:45 a.m.	four forty five a m
+9:15	nine fifteen
+11 a.m.	eleven a m
+18:16	eighteen sixteen
+13:16 UTC	thirteen sixteen u t c
+5:00 AM	five a m
+12: 20	twelve twenty
+7 p.m. EDT	seven p m e d t
+5:00 p.m. PST	five p m p s t
+00:00	zero hundred
+21 : 21	twenty one twenty one
+3 a.m.	three a m
+9 pm	nine p m
+4:49	four forty nine
+4:53	four fifty three
+3:23	three twenty three
+5:00 p.m.	five p m
+5:16.5	five minutes sixteen seconds and five milliseconds
+3am	three a m
+15:30	fifteen thirty
+8 pm	eight p m
+8.30 pm	eight thirty p m
+9 pm	nine p m
+7am	seven a m
+11 p.m. CT	eleven p m c t
+10 p.m. ET	ten p m e t
+04.05	four o five
+4 a.m.	four a m
+2:34:35	two hours thirty four minutes and thirty five seconds
+3:26 pm CST	three twenty six p m c s t
+21:36 UTC	twenty one thirty six u t c
+1:31	one thirty one
+1:42	one forty two
+AM1	one a m
+4: 41	four forty one
+3: 30	three thirty
+07:45	seven forty five
+08:19	eight nineteen
+5:55	five fifty five
+3:33	three thirty three
+2:06	two o six
+10:00 GMT	ten o'clock g m t
+2:10	two ten
+11 AM	eleven a m
+3:27	three twenty seven
+4: 14	four fourteen
+6 AM	six a m
+6am	six a m
+4am	four a m
+9pm	nine p m
+8:25	eight twenty five
+6:00	six o'clock
+6:30 a.m.	six thirty a m
+12:56	twelve fifty six
+7 PM	seven p m
+10 PM	ten p m
+2:30	two thirty
+5:00pm	five p m
+1: 38	one thirty eight
+0:57	zero fifty seven
+3:18	three eighteen
+2:08:05	two hours eight minutes and five seconds
+12:40 pm	twelve forty p m
+14: 53	fourteen fifty three
+9 PM	nine p m
+5:30 AM	five thirty a m
+13: 31	thirteen thirty one
+20:11	twenty eleven
+22:23	twenty two twenty three
+15:42	fifteen forty two
+18:15	eighteen fifteen
+2PM	two p m
+10am	ten a m
+5am	five a m
+10am	ten a m
+4.18 pm	four eighteen p m
+2:11	two eleven
+10:25	ten twenty five
+9:00 PM	nine p m
+12:40	twelve forty
+13:05	thirteen o five
+12.00am IST	twelve a m i s t
+11.37am IST	eleven thirty seven a m i s t
+22:49	twenty two forty nine
+11:11	eleven eleven
+9:55	nine fifty five
+1:15 p.m. PST	one fifteen p m p s t
+8:00pm	eight p m
+1:47	one forty seven
+9:55.93	nine minutes fifty five seconds and ninety three milliseconds
+3:51	three fifty one
+6:00 AM	six a m
+11:00 PM	eleven p m
+4:00 pm	four p m
+9:05 am	nine o five a m
+09:00	nine o'clock
+5:30	five thirty
+20:30	twenty thirty
+10:00PM IST	ten p m i s t
+9am	nine a m
+2:59	two fifty nine
+10pm	ten p m
+11:30	eleven thirty
+1:23	one twenty three
+10 p.m.	ten p m
+5:00 PM	five p m
+1.05pm	one o five p m
+7:30 p.m.	seven thirty p m
+3:20 a.m.	three twenty a m
+12:03	twelve o three
+11:00	eleven o'clock
+11 am	eleven a m
+5 pm	five p m
+9 PM	nine p m
+10 am	ten a m
+19:45	nineteen forty five
+7:55 pm	seven fifty five p m
+8:31 pm	eight thirty one p m
+10:30 am	ten thirty a m
+1:15	one fifteen
+2:30 am	two thirty a m
+11:30	eleven thirty
+4:00 p.m.	four p m
+10 pm	ten p m
+19:30	nineteen thirty
+4am	four a m
+2:41	two forty one
+13:27	thirteen twenty seven
+20:00	twenty hundred
+6 pm	six p m
+5:38am	five thirty eight a m
+2:14:22	two hours fourteen minutes and twenty two seconds
+14:00	fourteen hundred
+19:18	nineteen eighteen
+7 p.m.	seven p m
+4:35	four thirty five
+5:45 p.m.	five forty five p m
+10:00 AM	ten a m
+17:00	seventeen hundred
+12:00 UTC	twelve o'clock u t c
+10.30am	ten thirty a m
+18:46	eighteen forty six
+7:30	seven thirty
+3:38	three thirty eight
+3:44	three forty four
+15: 16	fifteen sixteen
+18:26	eighteen twenty six
+7:13	seven thirteen
+3.40 pm	three forty p m
+18:30	eighteen thirty
+18:35	eighteen thirty five
+3:10	three ten
+4:00	four o'clock
+0:44	zero forty four
+20:34	twenty thirty four
+9: 53	nine fifty three
+8:30am	eight thirty a m
+7:30 p.m.	seven thirty p m
+4:08.96	four minutes eight seconds and ninety six milliseconds
+22: 24	twenty two twenty four
+9:00 AM	nine a m
+6:47	six forty seven
+3:41	three forty one
+3:39	three thirty nine
+4:34	four thirty four
+3:23	three twenty three
+4:07	four o seven
+2 p.m.	two p m
+10:53	ten fifty three
+9: 35	nine thirty five
+15: 41	fifteen forty one
+7:47	seven forty seven
+11:00 pm ET	eleven p m e t
+11:30 pm ET	eleven thirty p m e t
+11:11	eleven eleven
+9:00pm	nine p m
+4:30 p.m.	four thirty p m
+2:45	two forty five
+6 p.m. EDT	six p m e d t
+8:17.40	eight minutes seventeen seconds and forty milliseconds
+07:00	seven o'clock
+1:30 A.M.	one thirty a m
+3:40	three forty
+8:15 pm	eight fifteen p m
+12:30	twelve thirty
+23:22	twenty three twenty two
+06.12	six twelve
+06:35	six thirty five
+20: 20	twenty twenty
+8.00 p.m.	eight p m
+2.00 a.m.	two a m
+3 am	three a m
+7:30	seven thirty
+10:45	ten forty five
+8:12	eight twelve
+1:20:27	one hour twenty minutes and twenty seven seconds
+1:50.00	one minute fifty seconds and zero milliseconds
+4 PM	four p m
+5 AM MSK	five a m m s k
+16:06	sixteen o six
+16:30 GMT	sixteen thirty g m t
+00:31:43	zero hours thirty one minutes and forty three seconds
+3:50	three fifty
+10:15	ten fifteen
+5:50	five fifty
+2:20	two twenty
+19:00	nineteen hundred
+3: 26	three twenty six
+2pm	two p m
+2:06	two o six
+10:17	ten seventeen
+20:58	twenty fifty eight
+7PM	seven p m
+18:50	eighteen fifty
+5:15PM	five fifteen p m
+2:25:08	two hours twenty five minutes and eight seconds
+07:15	seven fifteen
+19:30	nineteen thirty
+9: 15	nine fifteen
+9:17	nine seventeen
+6.00pm	six p m
+6.15pm	six fifteen p m
+2:30 am	two thirty a m
+22:30 GMT	twenty two thirty g m t
+10am	ten a m
+2pm	two p m
+5.00pm	five p m
+7.00pm	seven p m
+10 am	ten a m
+10PM	ten p m
+10PM	ten p m
+1:19	one nineteen
+2:18	two eighteen
+05:30 pm	five thirty p m
+1.30pm	one thirty p m
+6:00am	six a m
+8:00pm	eight p m
+9: 28	nine twenty eight
+8PM	eight p m
+18:17	eighteen seventeen
+9:00 PM	nine p m
+18:40	eighteen forty
+1:12	one twelve
+4:45 PM	four forty five p m
+5:45 PM	five forty five p m
+12:05AM	twelve o five a m
+17:14	seventeen fourteen
+22: 43	twenty two forty three
+7 am	seven a m
+11am PST	eleven a m p s t
+04.19	four nineteen
+2:12:23	two hours twelve minutes and twenty three seconds
+12:59.5	twelve minutes fifty nine seconds and five milliseconds
+16:20	sixteen twenty
+1:39	one thirty nine
+3:00am	three a m
+10am	ten a m
+15:00	fifteen hundred
+1.10 p.m.	one ten p m
+12:23	twelve twenty three
+08:30	eight thirty
+4:00	four o'clock
+7:00	seven o'clock
+8:45	eight forty five
+2:55pm	two fifty five p m
+5:45 a.m.	five forty five a m
+7:45 p.m.	seven forty five p m
+10:10	ten ten
+11:40 pm	eleven forty p m
+3:25	three twenty five
+3:45am	three forty five a m
+11:00PM IST	eleven p m i s t
+7:26am	seven twenty six a m
+1:45	one forty five
+12:16pm	twelve sixteen p m
+4:40	four forty
+4:30 a.m.	four thirty a m
+6 pm	six p m
+2 am	two a m
+13:20 PST	thirteen twenty p s t
+11.10pm	eleven ten p m
+15:40	fifteen forty
+11:30pm	eleven thirty p m
+7.00am	seven a m
+2:23 PM ET	two twenty three p m e t
+4 p.m. CDT	four p m c d t
+06:18	six eighteen
+9:00	nine o'clock
+8pm	eight p m
+3am	three a m
+11.00 AM	eleven a m
+5 PM	five p m
+19:00	nineteen hundred
+8:30pm ET	eight thirty p m e t
+4:56	four fifty six
+05:45 AM	five forty five a m
+14:30 PM	two thirty p m
+22:00	twenty two hundred
+6 am	six a m
+10:00 a.m.	ten a m
+3:16	three sixteen
+3:54	three fifty four
+1:07	one o seven
+5:19	five nineteen
+21:19	twenty one nineteen
+10:22	ten twenty two
+6: 27	six twenty seven
+9:30 pm	nine thirty p m
+20:48	twenty forty eight
+11am	eleven a m
+3pm	three p m
+8:48	eight forty eight
+22:20	twenty two twenty
+10:30 am	ten thirty a m
+9:30	nine thirty
+11 a.m.	eleven a m
+1 p.m.	one p m
+1:04	one o four
+08:00	eight o'clock
+15:35	fifteen thirty five
+4:29	four twenty nine
+9:30 pm	nine thirty p m
+1:27:30	one hour twenty seven minutes and thirty seconds
+1:28	one twenty eight
+21:04 JST	twenty one o four j s t
+10.30pm	ten thirty p m
+2:15 P.M.	two fifteen p m
+9 p.m.	nine p m
+8:30 p.m.	eight thirty p m
+2:55.0	two minutes fifty five seconds and zero milliseconds
+15:00	fifteen hundred
+11:21 PM CDT	eleven twenty one p m c d t
+2:36.21	two minutes thirty six seconds and twenty one milliseconds
+2:05 p.m.	two o five p m
+2:20	two twenty
+4:15	four fifteen
+06:10	six ten
+10:00AM	ten a m
+14:47	fourteen forty seven
+05:45	five forty five
+00:30 AM	twelve thirty a m
+1:50	one fifty
+1:39	one thirty nine
+10:00pm	ten p m
+20:30	twenty thirty
+2:56pm EDT	two fifty six p m e d t
+3:08.6	three minutes eight seconds and six milliseconds
+6:46	six forty six
+11:00 P.M.	eleven p m
+5:00 A.M.	five a m
+18:30:00 GMT	eighteen hours thirty minutes and zero seconds g m t
+5pm	five p m
+11pm	eleven p m
+4am	four a m
+05:53	five fifty three
+6: 32	six thirty two
+1:00 am	one a m
+3.51pm	three fifty one p m
+8: 47	eight forty seven
+7:00 AM	seven a m
+11:00 PM	eleven p m
+6.00am	six a m
+04:52	four fifty two
+07:23	seven twenty three
+07:28	seven twenty eight
+2 am	two a m
+1:12:54	one hour twelve minutes and fifty four seconds
+15:15	fifteen fifteen
+6pm	six p m
+15:00	fifteen hundred
+9 p.m.	nine p m
+6:00 p.m.	six p m
+9:12	nine twelve
+6:30 am EDT	six thirty a m e d t
+7:50 am EDT	seven fifty a m e d t
+00:00	zero hundred
+8:30 a.m.	eight thirty a m
+08:30	eight thirty
+1:24	one twenty four
+9:30 PM	nine thirty p m
+5:42 AM	five forty two a m
+11:00	eleven o'clock
+1:37	one thirty seven
+1:53.4	one minute fifty three seconds and four milliseconds
+10:44	ten forty four
+2p.m.	two p m
+14:43 GMT	fourteen forty three g m t
+2:06:39	two hours six minutes and thirty nine seconds
+3am	three a m
+12:00pm	twelve p m
+7:00pm	seven p m
+23: 18	twenty three eighteen
+4:10 pm	four ten p m
+5:45 pm	five forty five p m
+1:50	one fifty
+7pm CST	seven p m c s t
+4 P. M.	four p m
+5:00 a.m.	five a m
+6:00	six o'clock
+11:25 am	eleven twenty five a m
+2:10	two ten
+5:39	five thirty nine
+5am	five a m
+7am	seven a m
+9am	nine a m
+4:30pm	four thirty p m
+6pm	six p m
+2: 35	two thirty five
+4:05	four o five
+2:30:15	two hours thirty minutes and fifteen seconds
+10:32	ten thirty two
+7AM	seven a m
+9:00 am	nine a m
+2:00 pm ET	two p m e t
+1: 19	one nineteen
+11.20pm	eleven twenty p m
+7:08 PM	seven o eight p m
+7.30pm	seven thirty p m
+9 AM	nine a m
+10pm	ten p m
+0:00	zero hundred
+8.50pm	eight fifty p m
+4.30pm	four thirty p m
+6.30pm	six thirty p m
+5am	five a m
+9:10	nine ten
+20:42	twenty forty two
+21:10	twenty one ten
+2:06:51	two hours six minutes and fifty one seconds
+2:21:06	two hours twenty one minutes and six seconds
+02:55	two fifty five
+10:48	ten forty eight
+2:09PM PDT	two o nine p m p d t
+12pm	twelve p m
+8pm	eight p m
+06:00 UTC	six o'clock u t c
+2 am	two a m
+3:12	three twelve
+10pm	ten p m
+5.30 PM	five thirty p m
+6:30am	six thirty a m
+10pm	ten p m
+5:30	five thirty
+2:00	two o'clock
+6:30 AM	six thirty a m
+8:00 AM	eight a m
+18:37	eighteen thirty seven
+9:15 PM	nine fifteen p m
+11:30 a.m.	eleven thirty a m
+23:35	twenty three thirty five
+3:50	three fifty
+4AM	four a m
+2PM	two p m
+1:11 AM	one eleven a m
+1 p.m.	one p m
+5:00pm	five p m
+5:03 PM ET	five o three p m e t
+7:50 am	seven fifty a m
+4:56	four fifty six
+8:48 pm	eight forty eight p m
+5am	five a m
+8:25 pm	eight twenty five p m
+11:45 am	eleven forty five a m
+6 pm	six p m
+9.00am	nine a m
+6.00pm	six p m
+1:20	one twenty
+10:23	ten twenty three
+2:15 pm	two fifteen p m
+9:50	nine fifty
+4:58	four fifty eight
+8:28	eight twenty eight
+8:10	eight ten
+9 am	nine a m
+04.10	four ten
+0:30	zero thirty
+7:26	seven twenty six
+21: 47	twenty one forty seven
+3:30 pm	three thirty p m
+7:00 a.m.	seven a m
+1:39pm	one thirty nine p m
+20:30	twenty thirty
+10:00	ten o'clock
+12:00	twelve o'clock
+10:30 a.m.	ten thirty a m
+1: 18	one eighteen
+1:14	one fourteen
+18:20	eighteen twenty
+19:00	nineteen hundred
+21:30	twenty one thirty
+22:10	twenty two ten
+3:29	three twenty nine
+4:13	four thirteen
+4:29	four twenty nine
+9: 55	nine fifty five
+21:05	twenty one o five
+10:20	ten twenty
+20:54	twenty fifty four
+11:22	eleven twenty two
+9:00	nine o'clock
+4 p.m.	four p m
+3:53.0	three minutes fifty three seconds and zero milliseconds
+7:58.92	seven minutes fifty eight seconds and ninety two milliseconds
+2:07	two o seven
+1:55.2	one minute fifty five seconds and two milliseconds
+10:59 BST	ten fifty nine b s t
+17: 53	seventeen fifty three
+4:11	four eleven
+10am	ten a m
+2pm	two p m
+2 a.m.	two a m
+9 p.m.	nine p m
+1:38 am GMT	one thirty eight a m g m t
+3:12	three twelve
+3:06	three o six
+06:00 GMT	six o'clock g m t
+1:21	one twenty one
+1:35	one thirty five
+05.17	five seventeen
+1pm	one p m
+5pm	five p m
+01.31	one thirty one
+5:20 p.m. EDT	five twenty p m e d t
+6:45 AM	six forty five a m
+7pm	seven p m
+13:35	thirteen thirty five
+20:00	twenty hundred
+4:00 pm	four p m
+21:05	twenty one o five
+11:16	eleven sixteen
+01:35	one thirty five
+5:00pm	five p m
+12:12 pm	twelve twelve p m
+7 a.m.	seven a m
+11 a.m.	eleven a m
+10:02PM	ten o two p m
+9: 58	nine fifty eight
+9: 55	nine fifty five
+5 PM	five p m
+12:21	twelve twenty one
+22: 13	twenty two thirteen
+6:18am	six eighteen a m
+16:29	sixteen twenty nine
+6:00 AM	six a m
+1: 19	one nineteen
+1: 23	one twenty three
+3 PM	three p m
+8.00am	eight a m
+12.00pm	twelve p m
+9:30pm	nine thirty p m
+4:23	four twenty three
+14:00	fourteen hundred
+9: 40	nine forty
+4:00	four o'clock
+5:00	five o'clock
+20:20	twenty twenty
+1:43	one forty three
+08:40	eight forty
+8:00	eight o'clock
+1:25:14	one hour twenty five minutes and fourteen seconds
+3:00pm	three p m
+9PM	nine p m
+3:00PM	three p m
+6:30pm	six thirty p m
+6:45pm ET	six forty five p m e t
+18:30	eighteen thirty
+04.30	four thirty
+3:47	three forty seven
+11 a.m.	eleven a m
+2:30 PM	two thirty p m
+18:30 CEST	eighteen thirty c e s t
+10:55am	ten fifty five a m
+4:00	four o'clock
+22:00	twenty two hundred
+1 a.m.	one a m
+11:09 UTC	eleven o nine u t c
+13:24 UTC	thirteen twenty four u t c
+10 p.m.	ten p m
+9:15 am	nine fifteen a m
+2:30 pm	two thirty p m
+10:00	ten o'clock
+PM2	two p m
+07:00:00 EST	seven hours zero minutes and zero seconds e s t
+6 p.m.	six p m
+2pm	two p m
+11:30	eleven thirty
+5pm	five p m
+8:05AM	eight o five a m
+9:05	nine o five
+1 p.m. EDT	one p m e d t
+01:11 AM	one eleven a m
+10:53	ten fifty three
+0:33	zero thirty three
+02.15	two fifteen
+04.52	four fifty two
+10:40 GMT	ten forty g m t
+1:00 AM	one a m
+14: 48	fourteen forty eight
+2:30 p.m.	two thirty p m
+3:50.2	three minutes fifty seconds and two milliseconds
+21:55	twenty one fifty five
+19:00	nineteen hundred
+3: 43	three forty three
+11.20pm	eleven twenty p m
+08:51	eight fifty one
+22:00	twenty two hundred
+01:00	one o'clock
+15:10	fifteen ten
+17:22	seventeen twenty two
+08.05	eight o five
+5:30 p.m. CST	five thirty p m c s t
+4:14 PM EST	four fourteen p m e s t
+06:00	six o'clock
+5:00pm	five p m
+8:00pm	eight p m
+2:19	two nineteen
+2:50	two fifty
+1:15 pm EST	one fifteen p m e s t
+12:00	twelve o'clock
+00:00	zero hundred
+1:05	one o five
+12:00 UTC	twelve o'clock u t c
+2:11:31	two hours eleven minutes and thirty one seconds
+04:30	four thirty
+9am	nine a m
+1pm	one p m
+12:00 am	twelve a m
+09:45	nine forty five
+1am	one a m
+06:30	six thirty
+2:20	two twenty
+10:00	ten o'clock
+3:34	three thirty four
+20:23	twenty twenty three
+10:15	ten fifteen
+05:06	five o six
+7.34pm	seven thirty four p m
+6:00 a.m.	six a m
+12:30	twelve thirty
+20:00 JST	twenty hundred j s t
+06:00	six o'clock
+PM2	two p m
+4:30	four thirty
+6:05pm	six o five p m
+8:30	eight thirty
+10:05	ten o five
+12.00AM IST	twelve a m i s t
+10:45	ten forty five
+10pm	ten p m
+1:10	one ten
+7:23 AM	seven twenty three a m
+14:00	fourteen hundred
+1:29	one twenty nine
+10 p.m.	ten p m
+10:00 am	ten a m
+3:30 pm	three thirty p m
+7pm	seven p m
+PM3	three p m
+AM1	one a m
+4:45 p.m.	four forty five p m
+18:00	eighteen hundred
+15:51:36	fifteen hours fifty one minutes and thirty six seconds
+6am	six a m
+18:17	eighteen seventeen
+14:15	fourteen fifteen
+6 a.m.	six a m
+11 p.m.	eleven p m
+9:00pm	nine p m
+3:54	three fifty four
+9 PM	nine p m
+7am	seven a m
+1 PM	one p m
+4 PM	four p m
+1:10	one ten
+9 PM	nine p m
+2:10	two ten
+10:30 p.m.	ten thirty p m
+16:49	sixteen forty nine
+11:00 p.m.	eleven p m
+01:00	one o'clock
+4:01	four o one
+12:14:58	twelve hours fourteen minutes and fifty eight seconds
+8 p.m.	eight p m
+10:30 PM	ten thirty p m
+6:05 pm	six o five p m
+4:50	four fifty
+2:35 am	two thirty five a m
+11: 21	eleven twenty one
+5:30 pm	five thirty p m
+10:00 pm	ten p m
+8:00 a.m.	eight a m
+1:02	one o two
+12:20 p.m. MST	twelve twenty p m m s t
+19:38 EDT	nineteen thirty eight e d t
+21:30 UTC	twenty one thirty u t c
+16:50 UTC	sixteen fifty u t c
+10:00pm	ten p m
+03:30	three thirty
+7 am	seven a m
+11 am	eleven a m
+8:00 PM	eight p m
+21:16 UTC	twenty one sixteen u t c
+8 a.m.	eight a m
+9:52 EST	nine fifty two e s t
+14:52 UTC	fourteen fifty two u t c
+10 am	ten a m
+2:00.56	two minutes zero seconds and fifty six milliseconds
+9:45 am	nine forty five a m
+4:00 am	four a m
+8:56 pm	eight fifty six p m
+2:21	two twenty one
+2: 13	two thirteen
+1:32	one thirty two
+10 PM	ten p m
+10pm ET	ten p m e t
+19:00	nineteen hundred
+1: 32	one thirty two
+5:30 p.m. EST	five thirty p m e s t
+7:47am	seven forty seven a m
+6:00 a.m.	six a m
+2:04:27	two hours four minutes and twenty seven seconds
+5:15	five fifteen
+17:06	seventeen o six
+09:26	nine twenty six
+6 p.m.	six p m
+10:21	ten twenty one
+1:47	one forty seven
+22:30	twenty two thirty
+9:15 PM	nine fifteen p m
+6:00am	six a m
+3:52	three fifty two
+5:28	five twenty eight
+17:30	seventeen thirty
+3: 29	three twenty nine
+16:05	sixteen o five
+10:24	ten twenty four
+19:01	nineteen o one
+10:07	ten o seven
+16:47	sixteen forty seven
+16:20	sixteen twenty
+4:48	four forty eight
+18:07	eighteen o seven
+1:21	one twenty one
+3:59	three fifty nine
+09:30	nine thirty
+3:58.25	three minutes fifty eight seconds and twenty five milliseconds
+10:55	ten fifty five
+02:00 a.m.	two a m
+1:43	one forty three
+17:01 UTC	seventeen o one u t c
+4PM	four p m
+10:10	ten ten
+9 a.m.	nine a m
+5 p.m.	five p m
+13:00	thirteen hundred
+3:52	three fifty two
+3:09	three o nine
+1:30am	one thirty a m
+2:14.14	two minutes fourteen seconds and fourteen milliseconds
+1:19 p.m.	one nineteen p m
+01.30	one thirty
+7:30pm	seven thirty p m
+7:45pm ET	seven forty five p m e t
+5 am	five a m
+2pm	two p m
+11:00	eleven o'clock
+12 pm	twelve p m
+4:43	four forty three
+7:00 pm	seven p m
+20:00	twenty hundred
+4:30	four thirty
+9:40	nine forty
+00:00:00 UTC	zero hours zero minutes and zero seconds u t c
+2.30pm	two thirty p m
+17:37	seventeen thirty seven
+14:00	fourteen hundred
+9:59.52	nine minutes fifty nine seconds and fifty two milliseconds
+11 am	eleven a m
+10:30 am	ten thirty a m
+14: 43	fourteen forty three
+10:00am	ten a m
+2:20	two twenty
+6:30	six thirty
+8:00 PM	eight p m
+9pm	nine p m
+3:20	three twenty
+5:00 a.m.	five a m
+14:00	fourteen hundred
+8:15 am	eight fifteen a m
+12:36	twelve thirty six
+5:23	five twenty three
+4:17	four seventeen
+13:30	thirteen thirty
+11:30 UTC	eleven thirty u t c
+9am	nine a m
+6pm	six p m
+4:00	four o'clock
+10 PM	ten p m
+01:04	one o four
+9am	nine a m
+1pm	one p m
+3:31.24	three minutes thirty one seconds and twenty four milliseconds
+1:48.60	one minute forty eight seconds and sixty milliseconds
+4:30 pm EDT	four thirty p m e d t
+2 pm	two p m
+13:00	thirteen hundred
+5:05	five o five
+3:41	three forty one
+5:00pm	five p m
+14:50	fourteen fifty
+2:41	two forty one
+10:04 GMT	ten o four g m t
+PM10	ten p m
+12:49	twelve forty nine
+5: 19	five nineteen
+4:43 PM	four forty three p m
+5pm	five p m
+10PM	ten p m
+17:54	seventeen fifty four
+2:37	two thirty seven
+1:19	one nineteen
+11:46AM	eleven forty six a m
+2:06:18	two hours six minutes and eighteen seconds
+11:22	eleven twenty two
+11:28	eleven twenty eight
+11:30	eleven thirty
+11:33	eleven thirty three
+11:30	eleven thirty
+4:30	four thirty
+17:50	seventeen fifty
+15:46	fifteen forty six
+07:02 EST	seven o two e s t
+11:00 a.m.	eleven a m
+6 am	six a m
+10 pm	ten p m
+4:47	four forty seven
+4:22	four twenty two
+13:54	thirteen fifty four
+13:00	thirteen hundred
+11:00 GMT	eleven o'clock g m t
+1:04	one o four
+28:19.60	twenty eight minutes nineteen seconds and sixty milliseconds
+20:00	twenty hundred
+5pm	five p m
+12:01AM	twelve o one a m
+7: 55	seven fifty five
+04.00	four o'clock
+11am	eleven a m
+8:00pm	eight p m
+13:00	thirteen hundred
+08:19:29	eight hours nineteen minutes and twenty nine seconds
+19:00	nineteen hundred
+2:25.53	two minutes twenty five seconds and fifty three milliseconds
+2:17.55	two minutes seventeen seconds and fifty five milliseconds
+1:03.59	one minute three seconds and fifty nine milliseconds
+9:00am	nine a m
+13:33	thirteen thirty three
+5:29 a.m. CST	five twenty nine a m c s t
+2:26	two twenty six
+3:45	three forty five
+3:57	three fifty seven
+2:14	two fourteen
+4:09	four o nine
+11pm	eleven p m
+4 PM	four p m
+6 PM	six p m
+2:06:52	two hours six minutes and fifty two seconds
+6:27	six twenty seven
+7:08	seven o eight
+5:00	five o'clock
+9 AM	nine a m
+1:14	one fourteen
+1:24.19	one minute twenty four seconds and nineteen milliseconds
+17:10	seventeen ten
+21:10	twenty one ten
+4:55 pm	four fifty five p m
+1:54	one fifty four
+2:45	two forty five
+4:12.14	four minutes twelve seconds and fourteen milliseconds
+8pm	eight p m
+10pm	ten p m
+05:25	five twenty five
+01:00	one o'clock
+12:00	twelve o'clock
+10:00	ten o'clock
+19:23	nineteen twenty three
+7 p.m. ET	seven p m e t
+7 pm	seven p m
+3:29	three twenty nine
+8.25am	eight twenty five a m
+5.30pm	five thirty p m
+6pm	six p m
+2:38	two thirty eight
+1:58	one fifty eight
+09:20	nine twenty
+7: 11	seven eleven
+13:55	thirteen fifty five
+3:39	three thirty nine
+3:25	three twenty five
+8am	eight a m
+5pm	five p m
+2PM	two p m
+2PM	two p m
+2PM	two p m
+2PM	two p m
+12:13	twelve thirteen
+1:43	one forty three
+6:11	six eleven
+11: 46	eleven forty six
+2:11	two eleven
+2:20	two twenty
+00:30	zero thirty
+06:30	six thirty
+06.24 AM IST	six twenty four a m i s t
+1:00pm	one p m
+3:30pm	three thirty p m
+08:29	eight twenty nine
+1: 12	one twelve
+1:30	one thirty
+9am	nine a m
+6pm	six p m
+2:06:14	two hours six minutes and fourteen seconds
+20:17:33	twenty hours seventeen minutes and thirty three seconds
+8:31.6	eight minutes thirty one seconds and six milliseconds
+9: 19	nine nineteen
+1 pm	one p m
+12:47	twelve forty seven
+2:05:29	two hours five minutes and twenty nine seconds
+2:27:07	two hours twenty seven minutes and seven seconds
+3pm	three p m
+2:07:33	two hours seven minutes and thirty three seconds
+7:45	seven forty five
+2:05.8	two minutes five seconds and eight milliseconds
+7: 42	seven forty two
+6 pm	six p m
+07:31:43	seven hours thirty one minutes and forty three seconds
+11:30 am	eleven thirty a m
+2am	two a m
+1.30pm	one thirty p m
+1AM	one a m
+3AM ET	three a m e t
+15:10	fifteen ten
+27:55.66	twenty seven minutes fifty five seconds and sixty six milliseconds
+3:10	three ten
+6:00 am	six a m
+10:00 pm	ten p m
+5:30pm	five thirty p m
+11:00	eleven o'clock
+15:00	fifteen hundred
+10:00	ten o'clock
+16:00	sixteen hundred
+9:00 am	nine a m
+10:00 am	ten a m
+8 a.m.	eight a m
+7:30 a.m.	seven thirty a m
+1 pm	one p m
+08:52	eight fifty two
+1:13:58	one hour thirteen minutes and fifty eight seconds
+08:38	eight thirty eight
+2:10:46	two hours ten minutes and forty six seconds
+1:03	one o three
+00:06 CET	zero o six c e t
+16:00 PST	sixteen hundred p s t
+17:00 PST	seventeen hundred p s t
+6: 46	six forty six
+6:30 pm	six thirty p m
+14:30	fourteen thirty
+7:00 PM ET	seven p m e t
+1:41:52	one hour forty one minutes and fifty two seconds
+1:20	one twenty
+23:00	twenty three hundred
+1:30 pm	one thirty p m
+1:20 pm EDT	one twenty p m e d t
+20:24	twenty twenty four
+5:00pm	five p m
+5:00pm	five p m
+14:16 UTC	fourteen sixteen u t c
+13:02 UTC	thirteen o two u t c
+09:25	nine twenty five
+02.06	two o six
+6.00 pm	six p m
+8.00 pm	eight p m
+6:00 pm	six p m
+1:26	one twenty six
+00:56	zero fifty six
+4:30 AM	four thirty a m
+7:30 p.m.	seven thirty p m
+11:53 PM	eleven fifty three p m
+1:43.5	one minute forty three seconds and five milliseconds
+AM5	five a m
+08:32	eight thirty two
+1:22	one twenty two
+1:42	one forty two
+07:10	seven ten
+7:41PM	seven forty one p m
+8:00 am	eight a m
+3:00 pm	three p m
+1:41	one forty one
+7.30am	seven thirty a m
+14:00	fourteen hundred
+3:54	three fifty four
+9 am	nine a m
+6:30 PM	six thirty p m
+7 PM	seven p m
+11:40 am	eleven forty a m
+3:25	three twenty five
+5:00	five o'clock
+24:00	twenty four hundred
+6am	six a m
+9am	nine a m
+2:05.30	two minutes five seconds and thirty milliseconds
+3:17	three seventeen
+12:30 p.m.	twelve thirty p m
+7am	seven a m
+7:45	seven forty five
+7:44	seven forty four
+20:00	twenty hundred
+09:00	nine o'clock
+3:28	three twenty eight
+3:31	three thirty one
+9:19 AM	nine nineteen a m
+9:30 pm ET	nine thirty p m e t
+2:47	two forty seven
+06.36AM IST	six thirty six a m i s t
+12:32 UTC	twelve thirty two u t c
+00:54 UTC	zero fifty four u t c
+2pm	two p m
+16:00	sixteen hundred
+8:00PM	eight p m
+7:00PM	seven p m
+10:57 pm	ten fifty seven p m
+3:30.60	three minutes thirty seconds and sixty milliseconds
+3:51	three fifty one
+12:30am ET	twelve thirty a m e t
+16:10	sixteen ten
+9: 30	nine thirty
+4:13	four thirteen
+6:43	six forty three
+11:26 p.m. PDT	eleven twenty six p m p d t
+10am	ten a m
+11am	eleven a m
+00:00 JST	zero hundred j s t
+6 am	six a m
+9:02 pm	nine o two p m
+2: 47	two forty seven
+18:12	eighteen twelve
+1:13	one thirteen
+2:10	two ten
+9: 20	nine twenty
+4:25	four twenty five
+1:46	one forty six
+10:12 PM	ten twelve p m
+3:11	three eleven
+3:15	three fifteen
+5pm	five p m
+6pm	six p m
+02:10	two ten
+8:40	eight forty
+9am	nine a m
+08:06	eight o six
+4pm	four p m
+02:06 UTC	two o six u t c
+18:00pm CST	six p m c s t
+3:08	three o eight
+9:15	nine fifteen
+7 AM	seven a m
+10:30 AM	ten thirty a m
+09:00	nine o'clock
+05:45	five forty five
+4:15	four fifteen
+20:12	twenty twelve
+6:44	six forty four
+9:22	nine twenty two
+3:40	three forty
+6:00am	six a m
+9:00am	nine a m
+0:59	zero fifty nine
+32:29.82	thirty two minutes twenty nine seconds and eighty two milliseconds
+15: 38	fifteen thirty eight
+11:00	eleven o'clock
+06:30	six thirty
+1:27	one twenty seven
+12:00	twelve o'clock
+17:40	seventeen forty
+5:00 AM	five a m
+12:45 AM	twelve forty five a m
+8:55.12	eight minutes fifty five seconds and twelve milliseconds
+8:58.18	eight minutes fifty eight seconds and eighteen milliseconds
+8:47.30	eight minutes forty seven seconds and thirty milliseconds
+9 am	nine a m
+6 pm	six p m
+13:50	thirteen fifty
+20:15	twenty fifteen
+21:10	twenty one ten
+12:25 a.m. EST	twelve twenty five a m e s t
+10:46 pm	ten forty six p m
+11:55 pm	eleven fifty five p m
+3:00	three o'clock
+3:12	three twelve
+4.30 am	four thirty a m
+10:26	ten twenty six
+11:55	eleven fifty five
+7:00 PM	seven p m
+6.05 pm	six o five p m
+1:17	one seventeen
+04:00	four o'clock
+1:31 p.m.	one thirty one p m
+8:00 p.m.	eight p m
+9:00 p.m.	nine p m
+12:05 am	twelve o five a m
+03:00	three o'clock
+07:28	seven twenty eight
+2:55	two fifty five
+2:22	two twenty two
+22:00	twenty two hundred
+15:38	fifteen thirty eight
+6: 19	six nineteen
+6:30 PM IST	six thirty p m i s t
+4:10	four ten
+3:46	three forty six
+7am	seven a m
+8:00	eight o'clock
+7: 10	seven ten
+12:50 PM EST	twelve fifty p m e s t
+9:40 pm	nine forty p m
+2:04:45	two hours four minutes and forty five seconds
+2:05	two o five
+4: 27	four twenty seven
+7:30	seven thirty
+2: 18	two eighteen
+1:13	one thirteen
+2 pm	two p m
+7am EST	seven a m e s t
+2:54:39	two hours fifty four minutes and thirty nine seconds
+16:00	sixteen hundred
+13:34	thirteen thirty four
+3:00pm	three p m
+00:26	zero twenty six
+10:20pm	ten twenty p m
+16:06	sixteen o six
+2:11.44	two minutes eleven seconds and forty four milliseconds
+9pm	nine p m
+15:23	fifteen twenty three
+3:30	three thirty
+3:00	three o'clock
+11:11	eleven eleven
+2:18	two eighteen
+1:23	one twenty three
+4:49	four forty nine
+3:52	three fifty two
+11:58 AM	eleven fifty eight a m
+4:59	four fifty nine
+9:58 PM	nine fifty eight p m
+8:30pm	eight thirty p m
+07:45	seven forty five
+07:00 UTC	seven o'clock u t c
+5:26	five twenty six
+5:10	five ten
+4:21	four twenty one
+4:23	four twenty three
+3:27	three twenty seven
+9 am	nine a m
+10:39	ten thirty nine
+5:41	five forty one
+9:00 a.m.	nine a m
+11:30am	eleven thirty a m
+09:22:49	nine hours twenty two minutes and forty nine seconds
+03.25	three twenty five
+19:00	nineteen hundred
+14:12	fourteen twelve
+2: 21	two twenty one
+8:45	eight forty five
+7: 32	seven thirty two
+17:07	seventeen o seven
+20:00	twenty hundred
+09:30	nine thirty
+6:00PM	six p m
+4:17.76	four minutes seventeen seconds and seventy six milliseconds
+0:23	zero twenty three
+2:10	two ten
+1:42	one forty two
+3:55	three fifty five
+3:59	three fifty nine
+17:45	seventeen forty five
+11:59 pm	eleven fifty nine p m
+11:50 a.m.	eleven fifty a m
+19:30	nineteen thirty
+5:00 GMT	five o'clock g m t
+17:00 GMT	seventeen hundred g m t
+04.08am IST	four o eight a m i s t
+3: 28	three twenty eight
+3:00 am	three a m
+4:09	four o nine
+7:30 p.m.	seven thirty p m
+19:00	nineteen hundred
+3: 23	three twenty three
+4:34	four thirty four
+4:23	four twenty three
+22:00	twenty two hundred
+05:00	five o'clock
+10AM	ten a m
+3:13	three thirteen
+16:14	sixteen fourteen
+1 p.m.	one p m
+2:00 p.m. EDT	two p m e d t
+7.00 pm	seven p m
+PM2	two p m
+07:45	seven forty five
+06:15 GMT	six fifteen g m t
+12:07	twelve o seven
+18:00	eighteen hundred
+02:00	two o'clock
+7:30 am	seven thirty a m
+9:12 UTC	nine twelve u t c
+8p.m.	eight p m
+10 pm	ten p m
+1 am	one a m
+11: 33	eleven thirty three
+1:06	one o six
+13:29	thirteen twenty nine
+4:45	four forty five
+21:30:12	twenty one hours thirty minutes and twelve seconds
+10:54 pm	ten fifty four p m
+11:47 pm	eleven forty seven p m
+7pm	seven p m
+14:00	fourteen hundred
+2: 11	two eleven
+4:05	four o five
+11 AM	eleven a m
+1 PM	one p m
+12:00:00	twelve hours zero minutes and zero seconds
+1:16:37	one hour sixteen minutes and thirty seven seconds
+20:51 pm	eight fifty one p m
+11 a.m.	eleven a m
+4: 31	four thirty one
+2:34	two thirty four
+2:10	two ten
+3:12	three twelve
+3:19	three nineteen
+5:30 p.m.	five thirty p m
+4:17	four seventeen
+5:03	five o three
+6:36	six thirty six
+9am	nine a m
+4:20	four twenty
+00:07	zero o seven
+10:30	ten thirty
+1:57	one fifty seven
+12:50	twelve fifty
+5:48	five forty eight
+04:46	four forty six
+10 a.m. EST	ten a m e s t
+1:50	one fifty
+2:27	two twenty seven
+2:28	two twenty eight
+2:34:23	two hours thirty four minutes and twenty three seconds
+02:10	two ten
+0:30:45	zero hours thirty minutes and forty five seconds
+PM2	two p m
+08:15	eight fifteen
+21:26	twenty one twenty six
+18:52	eighteen fifty two
+10:00 am	ten a m
+1:29	one twenty nine
+17:42	seventeen forty two
+17:00	seventeen hundred
+18:45	eighteen forty five
+8 p.m.	eight p m
+10 p.m.	ten p m
+08:07	eight o seven
+4:21	four twenty one
+1 a.m.	one a m
+8:40pm	eight forty p m
+02:26 GMT	two twenty six g m t
+19:30	nineteen thirty
+10:15AM	ten fifteen a m
+5: 35	five thirty five
+3:48	three forty eight
+10 am	ten a m
+3pm	three p m
+8:30	eight thirty
+9 p.m.	nine p m
+21:00	twenty one hundred
+3:30	three thirty
+5:00	five o'clock
+6.40pm	six forty p m
+7.30pm	seven thirty p m
+9pm	nine p m
+2PM	two p m
+6:00 p.m.	six p m
+6 AM	six a m
+6 PM	six p m
+03:00	three o'clock
+10am	ten a m
+8pm	eight p m
+6pm	six p m
+9:11	nine eleven
+3:03	three o three
+3: 37	three thirty seven
+11:00 am	eleven a m
+11:35 am	eleven thirty five a m
+01:00	one o'clock
+8 PM ET	eight p m e t
+9:00 p.m.	nine p m
+4:29	four twenty nine
+2:54	two fifty four
+5:01	five o one
+2:28	two twenty eight
+5:30pm	five thirty p m
+03:50	three fifty
+08:00	eight o'clock
+1:54	one fifty four
+11 p.m. EDT	eleven p m e d t
+8.45 am	eight forty five a m
+8 a.m. EDT	eight a m e d t
+7:13	seven thirteen
+8PM	eight p m
+1:17 p.m.	one seventeen p m
+5:32	five thirty two
+8:10 a.m. EDT	eight ten a m e d t
+3:13:06	three hours thirteen minutes and six seconds
+4:18	four eighteen
+4:02	four o two
+1:16	one sixteen
+1:44	one forty four
+15:00	fifteen hundred
+8: 20	eight twenty
+13:45	thirteen forty five
+14:10	fourteen ten
+18:00 UTC	eighteen hundred u t c
+8AM	eight a m
+5PM	five p m
+5:00 AM	five a m
+0:30 AM	twelve thirty a m
+10:00 pm	ten p m
+2:10:30	two hours ten minutes and thirty seconds
+1:30 am	one thirty a m
+12.35pm	twelve thirty five p m
+11pm	eleven p m
+10:33	ten thirty three
+18:40	eighteen forty
+11.00am	eleven a m
+11pm	eleven p m
+8 PM	eight p m
+8:15 pm	eight fifteen p m
+5:00 a.m.	five a m
+1:02	one o two
+12:30	twelve thirty
+5:30	five thirty
+2:16:45	two hours sixteen minutes and forty five seconds
+02:26 GMT	two twenty six g m t
+15:08:18 GMT	fifteen hours eight minutes and eighteen seconds g m t
+16:58:24 GMT	sixteen hours fifty eight minutes and twenty four seconds g m t
+10:00 am	ten a m
+5:00 pm	five p m
+10:00	ten o'clock
+5 pm	five p m
+6:00 pm	six p m
+8:00 PM KST	eight p m k s t
+19: 39	nineteen thirty nine
+10:50 am	ten fifty a m
+10:10am	ten ten a m
+16:10	sixteen ten
+3 p.m.	three p m
+10:30 p.m.	ten thirty p m
+5am	five a m
+1pm	one p m
+11:00 pm	eleven p m
+05:39	five thirty nine
+04:31	four thirty one
+05:14	five fourteen
+02:50	two fifty
+2:25	two twenty five
+11.30 am	eleven thirty a m
+2: 25	two twenty five
+8:00 PM	eight p m
+1:48.7	one minute forty eight seconds and seven milliseconds
+3:43.1	three minutes forty three seconds and one millisecond
+9:15 a.m.	nine fifteen a m
+2:27:23	two hours twenty seven minutes and twenty three seconds
+9:20pm	nine twenty p m
+7pm	seven p m
+13:05	thirteen o five
+8:30am	eight thirty a m
+08:38	eight thirty eight
+5: 10	five ten
+6: 25	six twenty five
+27:18.17	twenty seven minutes eighteen seconds and seventeen milliseconds
+6:15pm	six fifteen p m
+17:00	seventeen hundred
+11: 15	eleven fifteen
+7:00 a.m.	seven a m
+1:10	one ten
+5:30pm	five thirty p m
+5: 27	five twenty seven
+5pm	five p m
+1:37	one thirty seven
+4:30 pm	four thirty p m
+3:00 pm	three p m
+2:13	two thirteen
+3:00 am	three a m
+1:26	one twenty six
+6:30 p.m.	six thirty p m
+7am	seven a m
+6.30 am	six thirty a m
+5:15	five fifteen
+4 p.m.	four p m
+2:34	two thirty four
+11:30 a.m.	eleven thirty a m
+4:31:54	four hours thirty one minutes and fifty four seconds
+3:50	three fifty
+18:01	eighteen o one
+3:36	three thirty six
+1:55	one fifty five
+11am	eleven a m
+4pm	four p m
+4:01.34	four minutes one second and thirty four milliseconds
+2:35:28	two hours thirty five minutes and twenty eight seconds
+2:06:50	two hours six minutes and fifty seconds
+4:00 am	four a m
+14:18	fourteen eighteen
+8:30 p.m.	eight thirty p m
+9:00 p.m.	nine p m
+1:41	one forty one
+1:42	one forty two
+7:30	seven thirty
+21:00 GMT	twenty one hundred g m t
+28:15.16	twenty eight minutes fifteen seconds and sixteen milliseconds
+11:42 UTC	eleven forty two u t c
+11:51 UTC	eleven fifty one u t c
+0:51	zero fifty one
+1:25	one twenty five
+2:11:52	two hours eleven minutes and fifty two seconds
+9:30	nine thirty
+10 p.m. EST	ten p m e s t
+09:01 PM	nine o one p m
+07:50 GMT	seven fifty g m t
+2:41	two forty one
+3:26	three twenty six
+12:12	twelve twelve
+12:30	twelve thirty
+8am	eight a m
+9am	nine a m
+5 p.m.	five p m
+08:58	eight fifty eight
+4:30pm	four thirty p m
+10:30 p.m.	ten thirty p m
+2:28	two twenty eight
+11 a.m.	eleven a m
+1: 45	one forty five
+1:39.6	one minute thirty nine seconds and six milliseconds
+15:51	fifteen fifty one
+7:30am	seven thirty a m
+19:30	nineteen thirty
+6:28 AM	six twenty eight a m
+7:00 PM	seven p m
+10am	ten a m
+2:13:09	two hours thirteen minutes and nine seconds
+00:02:25	zero hours two minutes and twenty five seconds
+12.35 pm	twelve thirty five p m
+8 a.m.	eight a m
+11 a.m.	eleven a m
+5:13	five thirteen
+05:53	five fifty three
+9:30	nine thirty
+2:28:47	two hours twenty eight minutes and forty seven seconds
+3:37	three thirty seven
+17:00	seventeen hundred
+6:00 a.m.	six a m
+12:00	twelve o'clock
+6:00	six o'clock
+10:00 p.m.	ten p m
+4:01.77	four minutes one second and seventy seven milliseconds
+1:34 pm	one thirty four p m
+3:37	three thirty seven
+11:30 a.m.	eleven thirty a m
+5 PM	five p m
+1:00 PM CST	one p m c s t
+6:15pm	six fifteen p m
+8:00 a.m.	eight a m
+9 p.m.	nine p m
+4:16	four sixteen
+7:30PM	seven thirty p m
+9:30PM ET	nine thirty p m e t
+11 am	eleven a m
+3 pm	three p m
+7:00PM	seven p m
+10am	ten a m
+12pm	twelve p m
+01.09	one o nine
+1:44.57	one minute forty four seconds and fifty seven milliseconds
+01.10	one ten
+2:51.28	two minutes fifty one seconds and twenty eight milliseconds
+8:25.0	eight minutes twenty five seconds and zero milliseconds
+1:30	one thirty
+6:20 AM	six twenty a m
+16:18	sixteen eighteen
+7pm	seven p m
+19:15 GMT	nineteen fifteen g m t
+2pm	two p m
+2am	two a m
+6am	six a m
+7am	seven a m
+7:30 pm	seven thirty p m
+11 p.m. EST	eleven p m e s t
+3:21	three twenty one
+2:38	two thirty eight
+4:05	four o five
+2:47	two forty seven
+11 am	eleven a m
+2:43	two forty three
+6.15 pm	six fifteen p m
+17:40 UTC	seventeen forty u t c
+7:40	seven forty
+8:40	eight forty
+21:00	twenty one hundred
+9pm	nine p m
+9pm	nine p m
+1:12	one twelve
+21: 22	twenty one twenty two
+5:00 am	five a m
+4:00PM	four p m
+7:00PM	seven p m
+10:00	ten o'clock
+5:33	five thirty three
+3pm	three p m
+5 pm	five p m
+7:15 AM	seven fifteen a m
+7:00 PM	seven p m
+9pm	nine p m
+5:28	five twenty eight
+01.08	one o eight
+6:10	six ten
+9:19.33	nine minutes nineteen seconds and thirty three milliseconds
+2:49	two forty nine
+3:12	three twelve
+7:30	seven thirty
+5:30 p.m.	five thirty p m
+7 AM ET	seven a m e t
+9:15 p.m.	nine fifteen p m
+6:10 AM	six ten a m
+15:00	fifteen hundred
+1:40	one forty
+8:15 pm	eight fifteen p m
+15:30	fifteen thirty
+24:57	twenty four fifty seven
+9am	nine a m
+9:30 am	nine thirty a m
+10:30 am	ten thirty a m
+4:45	four forty five
+13:00	thirteen hundred
+13:40 UTC	thirteen forty u t c
+6:00 p.m. ET	six p m e t
+6:32 PM EST	six thirty two p m e s t
+5 PM	five p m
+3:23	three twenty three
+2:16	two sixteen
+3:05	three o five
+09:00	nine o'clock
+4:24	four twenty four
+2:04	two o four
+09:00	nine o'clock
+5:30 PM	five thirty p m
+1:16	one sixteen
+10:30 a.m.	ten thirty a m
+20:00	twenty hundred
+20:30	twenty thirty
+07:18	seven eighteen
+1: 37	one thirty seven
+04:59 UTC	four fifty nine u t c
+5:40 p.m.	five forty p m
+7:10 p.m.	seven ten p m
+5 p.m.	five p m
+7PM KST	seven p m k s t
+10 am	ten a m
+2 pm	two p m
+11PM	eleven p m
+PM10	ten p m
+17:03:05	seventeen hours three minutes and five seconds
+8 A.M.	eight a m
+00.00	zero hundred
+00.00	zero hundred
+03.00	three o'clock
+06:15	six fifteen
+19:30	nineteen thirty
+21:30	twenty one thirty
+7:45 am	seven forty five a m
+8:15 pm	eight fifteen p m
+10.15pm	ten fifteen p m
+9.30 pm	nine thirty p m
+7:45	seven forty five
+5:00 pm	five p m
+2 p.m.	two p m
+2.30pm	two thirty p m
+9:05	nine o five
+6: 29	six twenty nine
+4:00 p.m.	four p m
+8.00pm	eight p m
+9.00pm	nine p m
+4:12PM	four twelve p m
+4 p.m.	four p m
+3:36	three thirty six
+2:07	two o seven
+06:00	six o'clock
+12:00 A.M.	twelve a m
+11:00	eleven o'clock
+4:30	four thirty
+4:15	four fifteen
+5:06	five o six
+4:32	four thirty two
+2:27	two twenty seven
+22:49	twenty two forty nine
+5:40 pm EDT	five forty p m e d t
+21:40 UTC	twenty one forty u t c
+6:27	six twenty seven
+10:49	ten forty nine
+8: 20	eight twenty
+7:16	seven sixteen
+8: 20	eight twenty
+1:33	one thirty three
+1:11.4	one minute eleven seconds and four milliseconds
+15:00	fifteen hundred
+4.30pm	four thirty p m
+19:15	nineteen fifteen
+09:30	nine thirty
+8 a.m.	eight a m
+4:27 am	four twenty seven a m
+10am	ten a m
+5pm	five p m
+7:25	seven twenty five
+8:30 a.m.	eight thirty a m
+03:40	three forty
+7.30 pm	seven thirty p m
+10.15 pm	ten fifteen p m
+7:30PM	seven thirty p m
+11:46pm	eleven forty six p m
+1:25 am	one twenty five a m
+1:06	one o six
+20:00 BST	twenty hundred b s t
+2:00 p.m.	two p m
+8 a.m.	eight a m
+0:49	zero forty nine
+9 a.m.	nine a m
+7:58	seven fifty eight
+18:04 GMT	eighteen o four g m t
+19:04	nineteen o four
+19:34.0	nineteen minutes thirty four seconds and zero milliseconds
+8:30 pm EST	eight thirty p m e s t
+11:30	eleven thirty
+2:30	two thirty
+1pm	one p m
+12: 29	twelve twenty nine
+23:00	twenty three hundred
+3 pm	three p m
+6am	six a m
+10am	ten a m
+20: 43	twenty forty three
+3:30 pm	three thirty p m
+3:49	three forty nine
+02.03	two o three
+2:30 pm	two thirty p m
+8.45pm	eight forty five p m
+12:00	twelve o'clock
+1:00am	one a m
+01:30	one thirty
+3am	three a m
+1:00 pm	one p m
+2:28:11	two hours twenty eight minutes and eleven seconds
+1:18:25	one hour eighteen minutes and twenty five seconds
+7:28	seven twenty eight
+9:00PM ET	nine p m e t
+17:30 UTC	seventeen thirty u t c
+6:30 pm	six thirty p m
+03:00	three o'clock
+10:59:58 UTC	ten hours fifty nine minutes and fifty eight seconds u t c
+0:30:20	zero hours thirty minutes and twenty seconds
+6 A.M.	six a m
+11:45	eleven forty five
+4:12	four twelve
+9: 28	nine twenty eight
+10:40	ten forty
+19:45	nineteen forty five
+7:45	seven forty five
+3:41	three forty one
+3:24	three twenty four
+1:54	one fifty four
+3:41	three forty one
+4:55	four fifty five
+19:55	nineteen fifty five
+21:24	twenty one twenty four
+21:15	twenty one fifteen
+1:22	one twenty two
+2 PM	two p m
+5.30 AM	five thirty a m
+10:30 a.m.	ten thirty a m
+6:00 AM	six a m
+8:00 AM	eight a m
+6.30pm	six thirty p m
+8pm	eight p m
+3:16	three sixteen
+20:30	twenty thirty
+19:00 CET	nineteen hundred c e t
+3:05	three o five
+15:00	fifteen hundred
+16:15	sixteen fifteen
+14:00	fourteen hundred
+12:15	twelve fifteen
+5pm	five p m
+10:01 pm	ten o one p m
+2: 14	two fourteen
+1:24	one twenty four
+01.15	one fifteen
+14:00	fourteen hundred
+3:00	three o'clock
+16:30	sixteen thirty
+22:16	twenty two sixteen
+10:25	ten twenty five
+18:25:51	eighteen hours twenty five minutes and fifty one seconds
+20:39:56 UTC	twenty hours thirty nine minutes and fifty six seconds u t c
+21:00:00Z	twenty one hours zero minutes and zero seconds z
+7 p.m.	seven p m
+3: 17	three seventeen
+2:24.01	two minutes twenty four seconds and one millisecond
+2:24.67	two minutes twenty four seconds and sixty seven milliseconds
+13:00	thirteen hundred
+06:00 UTC	six o'clock u t c
+3:51	three fifty one
+21:02	twenty one o two
+4:31.2	four minutes thirty one seconds and two milliseconds
+4:56.8	four minutes fifty six seconds and eight milliseconds
+1:25	one twenty five
+7:30:12	seven hours thirty minutes and twelve seconds
+9: 33	nine thirty three
+18:59	eighteen fifty nine
+10:38	ten thirty eight
+19: 18	nineteen eighteen
+10 AM	ten a m
+6:06 PM	six o six p m
+5:20	five twenty
+3:23	three twenty three
+3:19	three nineteen
+2:41	two forty one
+8:00 am	eight a m
+5:00 pm	five p m
+6:57	six fifty seven
+5:32	five thirty two
+5:08	five o eight
+10 am	ten a m
+7 pm	seven p m
+0:20	zero twenty
+2AM	two a m
+12:01AM BST	twelve o one a m b s t
+16:00	sixteen hundred
+4:13	four thirteen
+10 pm	ten p m
+13:00	thirteen hundred
+12:31 am	twelve thirty one a m
+14:30 UTC	fourteen thirty u t c
+3:50	three fifty
+3:57	three fifty seven
+4:42	four forty two
+4:18	four eighteen
+3:58	three fifty eight
+3:32	three thirty two
+04:25	four twenty five
+5:30 AM	five thirty a m
+8:30 PM	eight thirty p m
+2:00 a.m.	two a m
+08:50:51	eight hours fifty minutes and fifty one seconds
+6:00 pm	six p m
+09.04	nine o four
+15:51	fifteen fifty one
+09:00	nine o'clock
+10:26	ten twenty six
+12:25	twelve twenty five
+00:50	zero fifty
+14:50	fourteen fifty
+9:59PM	nine fifty nine p m
+7: 18	seven eighteen
+21:48	twenty one forty eight
+22:00	twenty two hundred
+15:00	fifteen hundred
+09:07	nine o seven
+1:15	one fifteen
+23:30	twenty three thirty
+17:04	seventeen o four
+2:36:52	two hours thirty six minutes and fifty two seconds
+4:47	four forty seven
+13:45 GMT	thirteen forty five g m t
+18: 25	eighteen twenty five
+7 p.m.	seven p m
+10:45	ten forty five
+4 PM	four p m
+23:18	twenty three eighteen
+2:24	two twenty four
+12:00 GMT	twelve o'clock g m t
+10.30am	ten thirty a m
+4:15	four fifteen
+3am	three a m
+01.04	one o four
+4 P.M.	four p m
+2:51:50	two hours fifty one minutes and fifty seconds
+13:36	thirteen thirty six
+13:30	thirteen thirty
+1:50	one fifty
+3:55.1	three minutes fifty five seconds and one millisecond
+13:25	thirteen twenty five
+13:36	thirteen thirty six
+6:30 PM PDT	six thirty p m p d t
+07:37	seven thirty seven
+4:11	four eleven
+05:30	five thirty
+06:44	six forty four
+10:02	ten o two
+10:41	ten forty one
+15:15 HKT	fifteen fifteen h k t
+10: 13	ten thirteen
+3:00 a.m. ET	three a m e t
+8:00 p.m. ET	eight p m e t
+2PM	two p m
+06:00	six o'clock
+00:00	zero hundred
+2pm	two p m
+11:59	eleven fifty nine
+03:00	three o'clock
+04:00	four o'clock
+20:30	twenty thirty
+05:00	five o'clock
+6:30am	six thirty a m
+4:21.78	four minutes twenty one seconds and seventy eight milliseconds
+12 a.m.	twelve a m
+1:00pm	one p m
+3:00pm	three p m
+12:00am	twelve a m
+7:00pm	seven p m
+4:30	four thirty
+10:30 a.m.	ten thirty a m
+22:44	twenty two forty four
+23:35	twenty three thirty five
+2:08	two o eight
+10:00	ten o'clock
+8 am	eight a m
+11 pm	eleven p m
+8:22 pm	eight twenty two p m
+08:00	eight o'clock
+19:06 UTC	nineteen o six u t c
+05:12 UTC	five twelve u t c
+00.00 CET	zero hundred c e t
+8:52	eight fifty two
+9:57	nine fifty seven
+10:10	ten ten
+05.50	five fifty
+06:00 UTC	six o'clock u t c
+3:00pm	three p m
+22:00	twenty two hundred
+10:00	ten o'clock
+3:45	three forty five
+7:12	seven twelve
+3:36	three thirty six
+4:07	four o seven
+3:24	three twenty four
+7:30	seven thirty
+20:30	twenty thirty
+5 p.m.	five p m
+3:28	three twenty eight
+09:00	nine o'clock
+1:06	one o six
+0:41:54	zero hours forty one minutes and fifty four seconds
+22: 47	twenty two forty seven
+1:00 pm	one p m
+5:00 pm	five p m
+7:00 pm	seven p m
+1: 15	one fifteen
+7.00pm	seven p m
+9:00 PM CST	nine p m c s t
+08:48:40 UTC	eight hours forty eight minutes and forty seconds u t c
+3:09	three o nine
+3:14	three fourteen
+1:46	one forty six
+3:28	three twenty eight
+1:59	one fifty nine
+2:33	two thirty three
+2:58	two fifty eight
+3:22	three twenty two
+16:13.05	sixteen minutes thirteen seconds and five milliseconds
+1 a.m.	one a m
+2:03.68	two minutes three seconds and sixty eight milliseconds
+10:26 a.m.	ten twenty six a m
+11pm	eleven p m
+3:23	three twenty three
+3:23	three twenty three
+1:26	one twenty six
+02:55	two fifty five
+8 p.m.	eight p m
+3:33	three thirty three
+13:00	thirteen hundred
+2:41	two forty one
+3:57	three fifty seven
+8:00	eight o'clock
+9:00 pm	nine p m
+9:00	nine o'clock
+10:00 pm	ten p m
+1:50	one fifty
+2am	two a m
+1:36.2	one minute thirty six seconds and two milliseconds
+8:11am	eight eleven a m
+12:18 UTC	twelve eighteen u t c
+5:40 p.m.	five forty p m
+5.00am	five a m
+6:00 am	six a m
+3:14 p.m.	three fourteen p m
+9:33 pm	nine thirty three p m
+9:15am	nine fifteen a m
+18:17	eighteen seventeen
+5:08	five o eight
+06.55	six fifty five
+08:40	eight forty
+2PM	two p m
+16:30	sixteen thirty
+16:34	sixteen thirty four
+3AM	three a m
+02.02	two o two
+8PM ET	eight p m e t
+8 p.m.	eight p m
+4:18	four eighteen
+10:00	ten o'clock
+22:00	twenty two hundred
+11:00 a.m. CST	eleven a m c s t
+10 a.m.	ten a m
+19:00	nineteen hundred
+3:56	three fifty six
+11:47	eleven forty seven
+2 PM	two p m
+1:20	one twenty
+8:37	eight thirty seven
+9:46	nine forty six
+13:00	thirteen hundred
+04:00 GMT	four o'clock g m t
+0:01:30	zero hours one minute and thirty seconds
+4:52	four fifty two
+20:40	twenty forty
+3:00 pm	three p m
+2:53	two fifty three
+9:35AM	nine thirty five a m
+10 am	ten a m
+0:18	zero eighteen
+2:29	two twenty nine
+3:06	three o six
+4:51	four fifty one
+7:00pm	seven p m
+01.09	one o nine
+00:00	zero hundred
+8:30 a.m.	eight thirty a m
+9:00 pm	nine p m
+23:00	twenty three hundred
+1:00	one o'clock
+1:00	one o'clock
+00:00	zero hundred
+4:40 PM	four forty p m
+4:08	four o eight
+14:25	fourteen twenty five
+2:14:16	two hours fourteen minutes and sixteen seconds
+4:36	four thirty six
+18:58	eighteen fifty eight
+14:50	fourteen fifty
+10 pm	ten p m
+2pm	two p m
+3:00 PM	three p m
+12: 25	twelve twenty five
+12:30	twelve thirty
+12:25	twelve twenty five
+1 a.m.	one a m
+9 p.m. ET	nine p m e t
+1:02:12	one hour two minutes and twelve seconds
+9 PM	nine p m
+4:12.01	four minutes twelve seconds and one millisecond
+25:15:24	twenty five hours fifteen minutes and twenty four seconds
+2:35:08	two hours thirty five minutes and eight seconds
+2:18	two eighteen
+3:08	three o eight
+4:41	four forty one
+30:04.18	thirty minutes four seconds and eighteen milliseconds
+20:20	twenty twenty
+14:17	fourteen seventeen
+1:28	one twenty eight
+3:00 am	three a m
+10 p.m.	ten p m
+4am	four a m
+12:30	twelve thirty
+3:47.36	three minutes forty seven seconds and thirty six milliseconds
+14:50.59	fourteen minutes fifty seconds and fifty nine milliseconds
+9 a.m.	nine a m
+11 pm	eleven p m
+8:30	eight thirty
+9:00 pm	nine p m
+5pm	five p m
+1:30	one thirty
+11: 12	eleven twelve
+10:00 pm EDT	ten p m e d t
+5 AM	five a m
+4:00 a.m.	four a m
+6:00 p.m.	six p m
+21:25	twenty one twenty five
+2: 43	two forty three
+23:35	twenty three thirty five
+4:00 PM	four p m
+23: 13	twenty three thirteen
+7:04 PM	seven o four p m
+18:45	eighteen forty five
+8:41	eight forty one
+9:52	nine fifty two
+06:00	six o'clock
+8:00 pm	eight p m
+18:20	eighteen twenty
+7:05 PM	seven o five p m
+1:58.54	one minute fifty eight seconds and fifty four milliseconds
+17:00	seventeen hundred
+17:25	seventeen twenty five
+11:10	eleven ten
+16:00	sixteen hundred
+23:00	twenty three hundred
+0:17	zero seventeen
+8:00	eight o'clock
+9:00 a.m. ET	nine a m e t
+8:30pm	eight thirty p m
+4: 14	four fourteen
+7 AM	seven a m
+22:04 MSK	twenty two o four m s k
+8:00PM	eight p m
+2:44:26	two hours forty four minutes and twenty six seconds
+11:00 pm	eleven p m
+6:00	six o'clock
+1:20	one twenty
+8:02	eight o two
+4:00	four o'clock
+3:04	three o four
+3:55	three fifty five
+16:32.6	sixteen minutes thirty two seconds and six milliseconds
+08:22	eight twenty two
+11:40	eleven forty
+2:09:13	two hours nine minutes and thirteen seconds
+2:29:55	two hours twenty nine minutes and fifty five seconds
+10PM	ten p m
+05:30	five thirty
+5:20 p.m.	five twenty p m
+15:45	fifteen forty five
+12:09	twelve o nine
+10 p.m.	ten p m
+1:22	one twenty two
+20:02	twenty o two
+16:51	sixteen fifty one
+17:10	seventeen ten
+18:30	eighteen thirty
+18:30	eighteen thirty
+2:17	two seventeen
+3:00	three o'clock
+6:00am	six a m
+6:00	six o'clock
+9:00am ET	nine a m e t
+2:19	two nineteen
+10:15am	ten fifteen a m
+10:15am	ten fifteen a m
+14:25	fourteen twenty five
+22:20	twenty two twenty
+4 am	four a m
+2:56	two fifty six
+2:15	two fifteen
+3:13	three thirteen
+1:27	one twenty seven
+3:32	three thirty two
+4AM	four a m
+4AM	four a m
+8:07.02	eight minutes seven seconds and two milliseconds
+9: 14	nine fourteen
+2:02	two o two
+15: 29	fifteen twenty nine
+7 p.m. CST	seven p m c s t
+7:00pm	seven p m
+5:00am	five a m
+11 p.m.	eleven p m
+5:40	five forty
+6 p.m.	six p m
+2:21:14	two hours twenty one minutes and fourteen seconds
+5: 52	five fifty two
+9:30	nine thirty
+10:00 AM	ten a m
+6:30	six thirty
+8:30	eight thirty
+7:00 am	seven a m
+8:00 am	eight a m
+2 am	two a m
+4:00 p.m.	four p m
+1:38	one thirty eight
+7:30 p.m.	seven thirty p m
+9:30 p.m.	nine thirty p m
+10:40	ten forty
+5:15	five fifteen
+6PM	six p m
+9PM	nine p m
+12:31	twelve thirty one
+6:00am	six a m
+7:00am	seven a m
+8:00am	eight a m
+12:00pm	twelve p m
+5:00pm	five p m
+7:00 pm	seven p m
+5:30 p.m.	five thirty p m
+3:09	three o nine
+00:36	zero thirty six
+01:59	one fifty nine
+03:54	three fifty four
+00:10	zero ten
+04:25	four twenty five
+12:00AM	twelve a m
+10:30 pm	ten thirty p m
+6am	six a m
+10am	ten a m
+21:47	twenty one forty seven
+00:40	zero forty
+22:39 UTC	twenty two thirty nine u t c
+09.31 GMT	nine thirty one g m t
+19:30	nineteen thirty
+19:00	nineteen hundred
+23:00	twenty three hundred
+23: 38	twenty three thirty eight
+11 AM	eleven a m
+3: 27	three twenty seven
+6:30 p.m.	six thirty p m
+5:30 p.m.	five thirty p m
+22:27	twenty two twenty seven
+0:59	zero fifty nine
+17:45	seventeen forty five
+09:00	nine o'clock
+20:00	twenty hundred
+4:45	four forty five
+2:03 p.m. CST	two o three p m c s t
+18:32	eighteen thirty two
+24:10	twenty four ten
+14:00	fourteen hundred
+16:30	sixteen thirty
+04:00	four o'clock
+23:30	twenty three thirty
+1:30 AM	one thirty a m
+1:11	one eleven
+9:00 PM	nine p m
+9:00	nine o'clock
+04.29am IST	four twenty nine a m i s t
+3:30 p.m. EST	three thirty p m e s t
+10 p.m.	ten p m
+11:59 PM	eleven fifty nine p m
+4:30 p.m. CST	four thirty p m c s t
+5:00	five o'clock
+6:00	six o'clock
+2:10	two ten
+3:15 AM	three fifteen a m
+12:16 P.M.	twelve sixteen p m
+37:58.1	thirty seven minutes fifty eight seconds and one millisecond
+09:18	nine eighteen
+6:00 pm	six p m
+1:06	one o six
+08:24:41 BST	eight hours twenty four minutes and forty one seconds b s t
+7:33	seven thirty three
+20:00	twenty hundred
+5:22 pm	five twenty two p m
+6AM	six a m
+8PM	eight p m
+2:33	two thirty three
+7 p.m.	seven p m
+5: 13	five thirteen
+7:30	seven thirty
+2AM	two a m
+11:10 pm	eleven ten p m
+1: 29	one twenty nine
+10:00	ten o'clock
+1am	one a m
+1:05:08	one hour five minutes and eight seconds
+8:00pm	eight p m
+17:56 UTC	seventeen fifty six u t c
+10:00	ten o'clock
+9:40 am	nine forty a m
+4:00 am	four a m
+14:56	fourteen fifty six
+4:22	four twenty two
+8:00	eight o'clock
+21:21	twenty one twenty one
+5:07	five o seven
+12:20	twelve twenty
+8:30 PM ET	eight thirty p m e t
+7: 31	seven thirty one
+03:38	three thirty eight
+3 pm	three p m
+5 pm	five p m
+11 P.M.	eleven p m
+3:55 PM	three fifty five p m
+12:00 A.M.	twelve a m
+2:44	two forty four
+2:26	two twenty six
+1:30	one thirty
+1:00 AM	one a m
+15:30	fifteen thirty
+1:30	one thirty
+09:08 EST	nine o eight e s t
+14:08:08 UTC	fourteen hours eight minutes and eight seconds u t c
+5 p.m.	five p m
+11:42 UTC	eleven forty two u t c
+02:50 UTC	two fifty u t c
+7:30 p.m. PDT	seven thirty p m p d t
+09:53 UTC	nine fifty three u t c
+10:59 UTC	ten fifty nine u t c
+11:30am	eleven thirty a m
+11:00pm	eleven p m
+11:48 pm EST	eleven forty eight p m e s t
+7:53 pm	seven fifty three p m
+8 a.m.	eight a m
+13:00 CEST	thirteen hundred c e s t
+2:20.35	two minutes twenty seconds and thirty five milliseconds
+3 p.m.	three p m
+2:28	two twenty eight
+3:16	three sixteen
+2.00 pm	two p m
+9 PM ET	nine p m e t
+05:37 PM	five thirty seven p m
+13:00	thirteen hundred
+1:15 pm	one fifteen p m
+9:24 p.m. CST	nine twenty four p m c s t
+17:00	seventeen hundred
+2:52	two fifty two
+5pm	five p m
+10:25	ten twenty five
+2:13	two thirteen
+18:30	eighteen thirty
+5:30pm	five thirty p m
+9:30pm	nine thirty p m
+9:41pm	nine forty one p m
+6:14	six fourteen
+10:00 PM PDT	ten p m p d t
+9:40	nine forty
+10:22	ten twenty two
+11:46	eleven forty six
+19:07	nineteen o seven
+18:33	eighteen thirty three
+19:46	nineteen forty six
+8:50 pm	eight fifty p m
+7:39 p.m.	seven thirty nine p m
+1:39	one thirty nine
+18:44	eighteen forty four
+9:45	nine forty five
+10: 59	ten fifty nine
+8pm	eight p m
+6 p.m.	six p m
+5.42 pm	five forty two p m
+11:00 am	eleven a m
+12:00 AM	twelve a m
+10:15	ten fifteen
+16:10:11	sixteen hours ten minutes and eleven seconds
+9.00 p.m.	nine p m
+7:42	seven forty two
+5:05	five o five
+9:25	nine twenty five
+10.20 pm	ten twenty p m
+3:19	three nineteen
+05.26	five twenty six
+5.00pm	five p m
+14:00	fourteen hundred
+3:52	three fifty two
+3:50	three fifty
+4:18	four eighteen
+4:48	four forty eight
+16:03 UTC	sixteen o three u t c
+11:00 a.m.	eleven a m
+9:45	nine forty five
+1:50	one fifty
+1:44.62	one minute forty four seconds and sixty two milliseconds
+3:05:07	three hours five minutes and seven seconds
+2 a.m.	two a m
+18:00	eighteen hundred
+16:00	sixteen hundred
+3: 36	three thirty six
+8:00	eight o'clock
+8:30 pm	eight thirty p m
+3: 17	three seventeen
+7:30 a.m.	seven thirty a m
+4:52 am WST	four fifty two a m w s t
+5:30pm	five thirty p m
+11:00am	eleven a m
+19:16	nineteen sixteen
+24:12	twenty four twelve
+2:26	two twenty six
+21: 35	twenty one thirty five
+1: 33	one thirty three
+15:12	fifteen twelve
+8:11	eight eleven
+4PM	four p m
+08:00	eight o'clock
+6:15 a.m.	six fifteen a m
+5:34	five thirty four
+20:45 GMT	twenty forty five g m t
+05:45	five forty five
+6 am	six a m
+12:30 pm	twelve thirty p m
+9:00 pm	nine p m
+9pm	nine p m
+19:52	nineteen fifty two
+14:26	fourteen twenty six
+11:39	eleven thirty nine
+10:50 AM EST	ten fifty a m e s t
+5:53	five fifty three
+2:05	two o five
+9:16:00	nine hours sixteen minutes and zero seconds
+9:16:15	nine hours sixteen minutes and fifteen seconds
+5:42 pm	five forty two p m
+4:37:00	four hours thirty seven minutes and zero seconds
+9:37:00 UTC	nine hours thirty seven minutes and zero seconds u t c
+20:25	twenty twenty five
+16: 16	sixteen sixteen
+1:30 pm	one thirty p m
+3: 49	three forty nine
+4:25 PM ET	four twenty five p m e t
+1:48.73	one minute forty eight seconds and seventy three milliseconds
+6:03 PM	six o three p m
+4 PM EDT	four p m e d t
+10:30am	ten thirty a m
+8: 43	eight forty three
+1:33	one thirty three
+2:15	two fifteen
+12:45	twelve forty five
+10 a.m.	ten a m
+12:32	twelve thirty two
+02.59AM IST	two fifty nine a m i s t
+2:23	two twenty three
+13:12	thirteen twelve
+16: 24	sixteen twenty four
+2:08:09	two hours eight minutes and nine seconds
+5:24	five twenty four
+5:24	five twenty four
+4:42	four forty two
+2:00 p.m. ET	two p m e t
+7:30 AM	seven thirty a m
+7 pm	seven p m
+9 p.m.	nine p m
+1 am	one a m
+11pm	eleven p m
+1am	one a m
+10:00PM ET	ten p m e t
+6pm	six p m
+2am	two a m
+11:30 AM	eleven thirty a m
+05:50 AM	five fifty a m
+9:00 am	nine a m
+7:30	seven thirty
+19:00	nineteen hundred
+11:59 p.m.	eleven fifty nine p m
+6: 25	six twenty five
+23: 21	twenty three twenty one
+1:59.83	one minute fifty nine seconds and eighty three milliseconds
+1:59.84	one minute fifty nine seconds and eighty four milliseconds
+15:00 GMT	fifteen hundred g m t
+8.08 pm	eight o eight p m
+5:05:50	five hours five minutes and fifty seconds
+5:05:53	five hours five minutes and fifty three seconds
+1:08.20	one minute eight seconds and twenty milliseconds
+1:03.83	one minute three seconds and eighty three milliseconds
+10 AM	ten a m
+5 PM	five p m
+02:23	two twenty three
+1:43	one forty three
+9:44 pm	nine forty four p m
+9:55 pm CST	nine fifty five p m c s t
+11:11	eleven eleven
+7:33	seven thirty three
+11:30	eleven thirty
+2:37	two thirty seven
+4:48	four forty eight
+5:24	five twenty four
+6:47	six forty seven
+8:10	eight ten
+16:20	sixteen twenty
+08:40	eight forty
+15:47	fifteen forty seven
+2:55	two fifty five
+3: 10	three ten
+5:00 pm	five p m
+8:15 a.m.	eight fifteen a m
+5 am	five a m
+3:41	three forty one
+4:10	four ten
+4pm	four p m
+11.44 p.m.	eleven forty four p m
+6pm	six p m
+00:55	zero fifty five
+10pm	ten p m
+6am	six a m
+11.30am	eleven thirty a m
+09:00	nine o'clock
+8pm	eight p m
+8am	eight a m
+4.38pm	four thirty eight p m
+7:30	seven thirty
+5:49	five forty nine
+3:06	three o six
+4:52	four fifty two
+11:56.51	eleven minutes fifty six seconds and fifty one milliseconds
+2.25am	two twenty five a m
+7:04	seven o four
+6:26	six twenty six
+07:36 GMT	seven thirty six g m t
+1:14	one fourteen
+6pm	six p m
+3:41	three forty one
+4:04	four o four
+9 p.m.	nine p m
+3:30	three thirty
+2:49	two forty nine
+3:06	three o six
+3:11	three eleven
+3:33	three thirty three
+3:36	three thirty six
+1:01:07	one hour one minute and seven seconds
+2:35	two thirty five
+4:05	four o five
+9pm	nine p m
+9:03 am	nine o three a m
+9:00pm	nine p m
+15:26	fifteen twenty six
+16:13	sixteen thirteen
+AM13	one p m
+2:24 p.m.	two twenty four p m
+9:30PM	nine thirty p m
+9:45PM	nine forty five p m
+9:20 a.m. PDT	nine twenty a m p d t
+3:46 p.m.	three forty six p m
+AM3	three a m
+1:07	one o seven
+5 : 12	five twelve
+2:04.36	two minutes four seconds and thirty six milliseconds
+10:30 a.m.	ten thirty a m
+24:03	twenty four o three
+2:06:29	two hours six minutes and twenty nine seconds
+10:40	ten forty
+2pm	two p m
+9:43 am	nine forty three a m
+2 p.m.	two p m
+17:00	seventeen hundred
+4 pm	four p m
+8pm	eight p m
+17:59:47	seventeen hours fifty nine minutes and forty seven seconds
+8:37.25	eight minutes thirty seven seconds and twenty five milliseconds
+8.00 AM	eight a m
+8.00 PM	eight p m
+18:44	eighteen forty four
+16:45	sixteen forty five
+02.39am IST	two thirty nine a m i s t
+14:00	fourteen hundred
+02:30	two thirty
+12:15	twelve fifteen
+3:16	three sixteen
+12:46 GMT	twelve forty six g m t
+1:43	one forty three
+2:35	two thirty five
+1A.M.	one a m
+2:56	two fifty six
+17:27	seventeen twenty seven
+2am	two a m
+1:35	one thirty five
+9:00	nine o'clock
+11:00	eleven o'clock
+10:16	ten sixteen
+16:41 BST	sixteen forty one b s t
+18: 56	eighteen fifty six
+1:10	one ten
+2:45 pm	two forty five p m
+11:35 am	eleven thirty five a m
+14:51	fourteen fifty one
+2:16:13	two hours sixteen minutes and thirteen seconds
+PM1	one p m
+9:38:16	nine hours thirty eight minutes and sixteen seconds
+20: 23	twenty twenty three
+2:15:15	two hours fifteen minutes and fifteen seconds
+5:52	five fifty two
+4:30	four thirty
+10am	ten a m
+9pm	nine p m
+5:05pm	five o five p m
+10PM CT	ten p m c t
+7:30 a.m.	seven thirty a m
+18:03	eighteen o three
+4:37 pm	four thirty seven p m
+1 pm	one p m
+4 pm	four p m
+02:40	two forty
+4:30	four thirty
+19:30	nineteen thirty
+02.02	two o two
+19:21 UTC	nineteen twenty one u t c
+8pm	eight p m
+06:12 GMT	six twelve g m t
+9:00 p.m.	nine p m
+10:00AM	ten a m
+4:00 PM	four p m
+05:43	five forty three
+00:12	zero twelve
+1 a.m.	one a m
+1:29	one twenty nine
+06:00	six o'clock
+00:00	zero hundred
+7:00 pm	seven p m
+1:10	one ten
+6pm	six p m
+10: 45	ten forty five
+6:20	six twenty
+13: 17	thirteen seventeen
+21:22	twenty one twenty two
+1:00 am	one a m
+2: 21	two twenty one
+2 pm	two p m
+4:45	four forty five
+10:00 pm	ten p m
+9:00 pm	nine p m
+5 p.m.	five p m
+8 pm	eight p m
+12:45	twelve forty five
+2:30:57	two hours thirty minutes and fifty seven seconds
+1:00:00	one hour zero minutes and zero seconds
+8 a.m.	eight a m
+2:10	two ten
+4:32	four thirty two
+1:57.34	one minute fifty seven seconds and thirty four milliseconds
+13:01	thirteen o one
+13:07	thirteen o seven
+10am	ten a m
+11am	eleven a m
+3pm	three p m
+2:12.25	two minutes twelve seconds and twenty five milliseconds
+15:25	fifteen twenty five
+01:00	one o'clock
+2 p.m.	two p m
+1 PM ET	one p m e t
+01:00	one o'clock
+3:30 p.m.	three thirty p m
+06:50	six fifty
+06:00	six o'clock
+16:00	sixteen hundred
+18:00pm CST	six p m c s t
+12:00 pm CST	twelve p m c s t
+14:00 EET	fourteen hundred e e t
+3:28.86	three minutes twenty eight seconds and eighty six milliseconds
+20:15 EST	twenty fifteen e s t
+4:27	four twenty seven
+5:06	five o six
+5:01	five o one
+6:10	six ten
+7:39.35	seven minutes thirty nine seconds and thirty five milliseconds
+8:52.06	eight minutes fifty two seconds and six milliseconds
+3 PM	three p m
+04:30	four thirty
+9:47 am	nine forty seven a m
+11 p.m. EST	eleven p m e s t
+03:00	three o'clock
+4:17	four seventeen
+4:09:10	four hours nine minutes and ten seconds
+20: 10	twenty ten
+19:00	nineteen hundred
+17:00	seventeen hundred
+4: 15	four fifteen
+3 a.m.	three a m
+6:18	six eighteen
+3:15pm	three fifteen p m
+1:04:34	one hour four minutes and thirty four seconds
+10pm	ten p m
+2:01.1	two minutes one second and one millisecond
+11:07 pm	eleven o seven p m
+11:59 pm	eleven fifty nine p m
+6PM EST	six p m e s t
+8:00 am	eight a m
+5:54 PM IST	five fifty four p m i s t
+3:06	three o six
+02.46PM IST	two forty six p m i s t
+10 a.m.	ten a m
+1:10:17	one hour ten minutes and seventeen seconds
+11 p.m.	eleven p m
+4:36	four thirty six
+1:30 AM	one thirty a m
+11:11	eleven eleven
+06:08	six o eight
+15: 58	fifteen fifty eight
+8pm	eight p m
+10pm	ten p m
+5 am	five a m
+5:30 am	five thirty a m
+8:00 p.m.	eight p m
+9:00 p.m.	nine p m
+9.00am	nine a m
+3am	three a m
+4AM	four a m
+5:22	five twenty two
+7:35	seven thirty five
+7:30	seven thirty
+15: 33	fifteen thirty three
+4:36	four thirty six
+3:23	three twenty three
+1:39	one thirty nine
+4:05 PM	four o five p m
+7:30	seven thirty
+8:00 ET	eight o'clock e t
+1:48	one forty eight
+1:22	one twenty two
+3:40	three forty
+06:00 GMT	six o'clock g m t
+9 pm	nine p m
+22:00	twenty two hundred
+10am	ten a m
+2pm	two p m
+6 pm PST	six p m p s t
+8:00 PM	eight p m
+2:19	two nineteen
+8.30am	eight thirty a m
+17:55	seventeen fifty five
+10:00	ten o'clock
+17:30	seventeen thirty
+4:30	four thirty
+13:08:45	thirteen hours eight minutes and forty five seconds
+13:49:41	thirteen hours forty nine minutes and forty one seconds
+6:30pm	six thirty p m
+4:21	four twenty one
+9am	nine a m
+5pm	five p m
+2:08:30	two hours eight minutes and thirty seconds
+7:17	seven seventeen
+5: 22	five twenty two
+20:24	twenty twenty four
+5.25 pm	five twenty five p m
+1: 20	one twenty
+4:09	four o nine
+7:15	seven fifteen
+9:20 am	nine twenty a m
+7:30 pm	seven thirty p m
+6: 15	six fifteen
+11:00	eleven o'clock
+7 am	seven a m
+09.10	nine ten
+11:00	eleven o'clock
+22:20	twenty two twenty
+7:00 p.m.	seven p m
+5:00	five o'clock
+8:11 AM	eight eleven a m
+04.28	four twenty eight
+2:53	two fifty three
+1:06	one o six
+1:00 am	one a m
+5pm	five p m
+8pm	eight p m
+3:00 p.m. AST	three p m a s t
+9pm	nine p m
+2:39:16	two hours thirty nine minutes and sixteen seconds
+6: 40	six forty
+9: 52	nine fifty two
+3 pm	three p m
+7pm	seven p m
+8:00 am	eight a m
+4:00 pm	four p m
+23: 10	twenty three ten
+06:36 p.m. EST	six thirty six p m e s t
+20:00	twenty hundred
+2 : 17	two seventeen
+10:00 a.m.	ten a m
+8.30pm	eight thirty p m
+4:12 pm EST	four twelve p m e s t
+3:41	three forty one
+13:00	thirteen hundred
+02:30	two thirty
+4am	four a m
+3:30	three thirty
+9:51	nine fifty one
+18:14	eighteen fourteen
+15: 37	fifteen thirty seven
+8:00 p.m. EDT	eight p m e d t
+4am	four a m
+8:30 pm	eight thirty p m
+01:18	one eighteen
+15:18	fifteen eighteen
+10am	ten a m
+4pm	four p m
+11:13am	eleven thirteen a m
+7: 31	seven thirty one
+6:12	six twelve
+1:11	one eleven
+1:49.01	one minute forty nine seconds and one millisecond
+9:45 a.m.	nine forty five a m
+9:00 AM	nine a m
+1:50	one fifty
+2:28:50	two hours twenty eight minutes and fifty seconds
+8:00 A.M.	eight a m
+2:26:36	two hours twenty six minutes and thirty six seconds
+21:24:39	twenty one hours twenty four minutes and thirty nine seconds
+3:19pm	three nineteen p m
+15:00	fifteen hundred
+4:15	four fifteen
+2am	two a m
+07:52:55	seven hours fifty two minutes and fifty five seconds
+3:00 pm	three p m
+01.42	one forty two
+5:00	five o'clock
+6:00	six o'clock
+10.40am	ten forty a m
+8:30	eight thirty
+8:30	eight thirty
+07:00	seven o'clock
+07:11	seven eleven
+1 a.m.	one a m
+22:48 GMT	twenty two forty eight g m t
+8:30 p.m. EST	eight thirty p m e s t
+1:59.47	one minute fifty nine seconds and forty seven milliseconds
+3:38:45	three hours thirty eight minutes and forty five seconds
+12:00:00	twelve hours zero minutes and zero seconds
+6:00 AM	six a m
+4:29	four twenty nine
+4:40	four forty
+10:30 am	ten thirty a m
+8.30 pm	eight thirty p m
+1:22pm EDT	one twenty two p m e d t
+10:40	ten forty
+21: 37	twenty one thirty seven
+6.45 pm	six forty five p m
+19:00	nineteen hundred
+09:02	nine o two
+8:49	eight forty nine
+9am	nine a m
+11am	eleven a m
+1:13:27	one hour thirteen minutes and twenty seven seconds
+1:29	one twenty nine
+9:30 p.m.	nine thirty p m
+7pm	seven p m
+18:13	eighteen thirteen
+16:00	sixteen hundred
+18:00	eighteen hundred
+2:19	two nineteen
+2:30	two thirty
+6pm	six p m
+10pm	ten p m
+9:00 AM	nine a m
+6:00 PM	six p m
+4:56.29	four minutes fifty six seconds and twenty nine milliseconds
+5:02.18	five minutes two seconds and eighteen milliseconds
+2:37	two thirty seven
+5:47	five forty seven
+7PM	seven p m
+7:30PM	seven thirty p m
+1:30 p.m.	one thirty p m
+00:00:00	zero hours zero minutes and zero seconds
+00:00:00	zero hours zero minutes and zero seconds
+1:44.5	one minute forty four seconds and five milliseconds
+10:53	ten fifty three
+5pm	five p m
+1:00pm	one p m
+16: 11	sixteen eleven
+7:53	seven fifty three
+8:00PM IST	eight p m i s t
+1:28pm PST	one twenty eight p m p s t
+1:54	one fifty four
+02:00	two o'clock
+03:00	three o'clock
+9:00 p.m.	nine p m
+1: 11	one eleven
+7 p.m.	seven p m
+PM2	two p m
+7:30	seven thirty
+11:58 am EST	eleven fifty eight a m e s t
+8:00	eight o'clock
+9:00 pm	nine p m
+4:04.6	four minutes four seconds and six milliseconds
+3:00am	three a m
+3:57	three fifty seven
+3:00 AM	three a m
+1: 47	one forty seven
+2:00	two o'clock
+1:55	one fifty five
+3:04	three o four
+2:00 p.m.	two p m
+15:14	fifteen fourteen
+11 am	eleven a m
+11 pm	eleven p m
+5:15	five fifteen
+8am	eight a m
+2:57	two fifty seven
+11pm	eleven p m
+2:10	two ten
+4:29	four twenty nine
+5:06	five o six
+11:50	eleven fifty
+3:44	three forty four
+2:51	two fifty one
+3:27	three twenty seven
+4 p.m. EST	four p m e s t
+10:51 AM	ten fifty one a m
+2:54	two fifty four
+2:48	two forty eight
+4pm	four p m
+22:29	twenty two twenty nine
+12:30 p.m.	twelve thirty p m
+2: 41	two forty one
+20:22	twenty twenty two
+6:42	six forty two
+3:23	three twenty three
+4:30	four thirty
+2:41	two forty one
+1:27	one twenty seven
+4:49	four forty nine
+2:20:02	two hours twenty minutes and two seconds
+2:35	two thirty five
+11:30am	eleven thirty a m
+8:00 pm	eight p m
+5: 15	five fifteen
+19:51	nineteen fifty one
+11 p.m. EDT	eleven p m e d t
+11.45pm	eleven forty five p m
+9:00	nine o'clock
+12:04 PM	twelve o four p m
+4 p.m.	four p m
+9:01am EDT	nine o one a m e d t
+7: 10	seven ten
+1:55	one fifty five
+10 PM ET	ten p m e t
+11 AM	eleven a m
+1 PM	one p m
+10 PM ET	ten p m e t
+4:45 pm	four forty five p m
+15: 35	fifteen thirty five
+17: 39	seventeen thirty nine
+2:11 am GMT	two eleven a m g m t
+00:00	zero hundred
+24:15	twenty four fifteen
+10 PM	ten p m
+7 AM	seven a m
+3:15	three fifteen
+05:34 PM	five thirty four p m
+4: 15	four fifteen
+3 pm	three p m
+03:20 PM CDT	three twenty p m c d t
+7:09	seven o nine
+6 am	six a m
+5 pm	five p m
+6:00 p.m.	six p m
+5:15 PM	five fifteen p m
+3:35	three thirty five
+6:00am	six a m
+11:00am	eleven a m
+8:00 pm ET	eight p m e t
+2:34	two thirty four
+4:33	four thirty three
+11am	eleven a m
+6 am	six a m
+8:58	eight fifty eight
+17:45	seventeen forty five
+4 13 PM	four thirteen p m
+11:41	eleven forty one
+9:30 p.m.	nine thirty p m
+11:30	eleven thirty
+10:00PM IST	ten p m i s t
+3:07	three o seven
+21: 39	twenty one thirty nine
+9:00 PM	nine p m
+14:50	fourteen fifty
+11:06 GMT	eleven o six g m t
+12:30pm	twelve thirty p m
+6: 12	six twelve
+3PM	three p m
+7:21	seven twenty one
+20:45	twenty forty five
+6:30pm	six thirty p m
+1:42	one forty two
+12:00	twelve o'clock
+17:00	seventeen hundred
+1:12	one twelve
+8:06 am MDT	eight o six a m m d t
+6:06	six o six
+04.04	four o four
+2:00.39	two minutes zero seconds and thirty nine milliseconds
+12:53 UTC	twelve fifty three u t c
+10am	ten a m
+8:09	eight o nine
+6:14 p.m.	six fourteen p m
+2:11	two eleven
+8:00 pm	eight p m
+4:00 am	four a m
+5 p.m.	five p m
+9am	nine a m
+8:00PM	eight p m
+10:00	ten o'clock
+6:00 AM	six a m
+15:42:32	fifteen hours forty two minutes and thirty two seconds
+9:45 p.m.	nine forty five p m
+3 pm	three p m
+5 pm	five p m
+3 am	three a m
+6.30pm	six thirty p m
+4:15	four fifteen
+9:30 a.m.	nine thirty a m
+11:00	eleven o'clock
+16:25	sixteen twenty five
+29:31.99	twenty nine minutes thirty one seconds and ninety nine milliseconds
+13:56.82	thirteen minutes fifty six seconds and eighty two milliseconds
+9 pm	nine p m
+3:00 p.m.	three p m
+2:30	two thirty
+5:00	five o'clock
+1:10	one ten
+6:30pm	six thirty p m
+3:51	three fifty one
+16:10	sixteen ten
+10 p.m.	ten p m
+8:00pm	eight p m
+4:12 PM MDT	four twelve p m m d t
+21:00	twenty one hundred
+11:20 a.m.	eleven twenty a m
+AM2	two a m
+17:15	seventeen fifteen
+2:04	two o four
+1:13	one thirteen
+3:41	three forty one
+4:06.8	four minutes six seconds and eight milliseconds
+2:01	two o one
+01:07 BST	one o seven b s t
+4:12	four twelve
+1: 52	one fifty two
+2AM	two a m
+11:00 A.M.	eleven a m
+PM5	five p m
+1 AM	one a m
+12:10 p.m.	twelve ten p m
+5:36	five thirty six
+5.30 a.m.	five thirty a m
+6.00 a.m.	six a m
+1:03.83	one minute three seconds and eighty three milliseconds
+6:00pm	six p m
+1.15 am	one fifteen a m
+12: 15	twelve fifteen
+1:36	one thirty six
+5:30PM	five thirty p m
+4pm	four p m
+3:04	three o four
+7 pm	seven p m
+0:52	zero fifty two
+13: 27	thirteen twenty seven
+7:40	seven forty
+10:11 PM IST	ten eleven p m i s t
+4:26	four twenty six
+6:00 p.m.	six p m
+10:00	ten o'clock
+20:00 CET	twenty hundred c e t
+11 p.m.	eleven p m
+10:33	ten thirty three
+6 pm	six p m
+10 pm	ten p m
+8 pm	eight p m
+9pm	nine p m
+01:00 UTC	one o'clock u t c
+04.11	four eleven
+9 P.M.	nine p m
+8 P.M.	eight p m
+19:30	nineteen thirty
+6:24	six twenty four
+14:23	fourteen twenty three
+6 a.m.	six a m
+5: 27	five twenty seven
+13:05	thirteen o five
+6:25 AM PDT	six twenty five a m p d t
+6:03	six o three
+2 pm	two p m
+5:07	five o seven
+7:30	seven thirty
+02:30	two thirty
+6am	six a m
+10am	ten a m
+4:00 PM	four p m
+06.20	six twenty
+1:34.52	one minute thirty four seconds and fifty two milliseconds
+01:33	one thirty three
+9am	nine a m
+12pm	twelve p m
+08:46	eight forty six
+01.00	one o'clock
+2:08	two o eight
+3:33	three thirty three
+3:47 EST	three forty seven e s t
+07:00	seven o'clock
+1:36	one thirty six
+9:00 pm	nine p m
+11:14 am	eleven fourteen a m
+8:15 PM	eight fifteen p m
+10:30 pm	ten thirty p m
+10:16	ten sixteen
+10.30am	ten thirty a m
+22:00	twenty two hundred
+01:00	one o'clock
+02:00	two o'clock
+03:00	three o'clock
+04:00	four o'clock
+5:18	five eighteen
+12am	twelve a m
+12:00	twelve o'clock
+3:55	three fifty five
+14:00	fourteen hundred
+09:35	nine thirty five
+02:47 am	two forty seven a m
+5.30 pm	five thirty p m
+8pm	eight p m
+12:30 pm	twelve thirty p m
+4:01	four o one
+5:00am	five a m
+8:00 a.m.	eight a m
+13:30	thirteen thirty
+7:13	seven thirteen
+3am	three a m
+5 p.m.	five p m
+7:13	seven thirteen
+03:30	three thirty
+18:29	eighteen twenty nine
+PM1	one p m
+9:00 EDT	nine o'clock e d t
+8:30 am	eight thirty a m
+04.27	four twenty seven
+4:36	four thirty six
+8:00 pm	eight p m
+3:54	three fifty four
+4:21	four twenty one
+4:04	four o four
+4:18	four eighteen
+10:23	ten twenty three
+3:19.33	three minutes nineteen seconds and thirty three milliseconds
+9 am	nine a m
+1:42	one forty two
+8:49 am	eight forty nine a m
+2:27:17	two hours twenty seven minutes and seventeen seconds
+11: 39	eleven thirty nine
+2:32 PM	two thirty two p m
+1:15am	one fifteen a m
+4:30pm	four thirty p m
+3:55pm	three fifty five p m
+8:30 PM	eight thirty p m
+21:55	twenty one fifty five
+0:38	zero thirty eight
+7:30 PM	seven thirty p m
+08:00	eight o'clock
+09:55	nine fifty five
+3:08	three o eight
+19:00	nineteen hundred
+0:47	zero forty seven
+0:11	zero eleven
+0:40	zero forty
+1:49:14	one hour forty nine minutes and fourteen seconds
+03:00	three o'clock
+08:00	eight o'clock
+4:42	four forty two
+18:00	eighteen hundred
+20:00	twenty hundred
+16:50	sixteen fifty
+16:00	sixteen hundred
+10pm	ten p m
+3:24:24	three hours twenty four minutes and twenty four seconds
+3:02.60	three minutes two seconds and sixty milliseconds
+10:12 pm	ten twelve p m
+5pm	five p m
+11:45 p.m.	eleven forty five p m
+4:13	four thirteen
+2:20	two twenty
+2:22	two twenty two
+14:07	fourteen o seven
+11 pm	eleven p m
+2:16	two sixteen
+11:55	eleven fifty five
+11:30	eleven thirty
+18:15	eighteen fifteen
+18:00	eighteen hundred
+10: 27	ten twenty seven
+13:45	thirteen forty five
+1:45 PM	one forty five p m
+8.00pm	eight p m
+9 AM	nine a m
+2:00	two o'clock
+19:00	nineteen hundred
+40:20:40	forty hours twenty minutes and forty seconds
+14:32	fourteen thirty two
+3:13	three thirteen
+7:12	seven twelve
+5:16	five sixteen
+9:00 AM	nine a m
+5:00 PM	five p m
+8:30pm	eight thirty p m
+1:48am	one forty eight a m
+2:48:06	two hours forty eight minutes and six seconds
+AM5	five a m
+1:40pm	one forty p m
+7:30	seven thirty
+2:20	two twenty
+11:10	eleven ten
+05.11	five eleven
+10:50 BST	ten fifty b s t
+08:30	eight thirty
+0:46	zero forty six
+06:00	six o'clock
+12:57	twelve fifty seven
+9.56pm	nine fifty six p m
+8:25.4	eight minutes twenty five seconds and four milliseconds
+1:14.1	one minute fourteen seconds and one millisecond
+1 a.m.	one a m
+10:30 am	ten thirty a m
+2:30 pm	two thirty p m
+20:42 GMT	twenty forty two g m t
+09:00	nine o'clock
+8.00pm EST	eight p m e s t
+5 pm	five p m
+2 am	two a m
+10 am	ten a m
+23:10	twenty three ten
+3 a.m.	three a m
+6.30 p.m.	six thirty p m
+15:34	fifteen thirty four
+3:49	three forty nine
+7:00 am	seven a m
+8:00 am	eight a m
+3: 23	three twenty three
+6:00	six o'clock
+10:00 pm	ten p m
+8:00 PM CST	eight p m c s t
+4 a.m.	four a m
+3:21	three twenty one
+3:05	three o five
+2:55	two fifty five
+13:00	thirteen hundred
+5:45	five forty five
+12:50 pm AEST	twelve fifty p m a e s t
+4:46.2	four minutes forty six seconds and two milliseconds
+00:00	zero hundred
+00:05:00	zero hours five minutes and zero seconds
+3:48	three forty eight
+4:02	four o two
+3:58	three fifty eight
+3 p.m.	three p m
+11:22 p.m.	eleven twenty two p m
+1:54.45	one minute fifty four seconds and forty five milliseconds
+3pm	three p m
+08:00	eight o'clock
+10:21 GMT	ten twenty one g m t
+3:50	three fifty
+9:05 am	nine o five a m
+11:45 am	eleven forty five a m
+6:45 pm	six forty five p m
+08:49:56 UTC	eight hours forty nine minutes and fifty six seconds u t c
+3:14	three fourteen
+6.45 a.m.	six forty five a m
+17:25	seventeen twenty five
+4:10 pm	four ten p m
+4:04	four o four
+08:09 UTC	eight o nine u t c
+11:30 am	eleven thirty a m
+18:10	eighteen ten
+10.52am	ten fifty two a m
+2:47 am	two forty seven a m
+4:47 am	four forty seven a m
+10:55	ten fifty five
+3:20	three twenty
+10:00	ten o'clock
+10:15	ten fifteen
+9:00 am	nine a m
+21:16	twenty one sixteen
+11: 11	eleven eleven
+4:11	four eleven
+2:08:03	two hours eight minutes and three seconds
+22:00	twenty two hundred
+1:34	one thirty four
+9:00	nine o'clock
+17:00	seventeen hundred
+1:20	one twenty
+8pm	eight p m
+9am	nine a m
+10am	ten a m
+0:04	zero o four
+01:00	one o'clock
+00:30	zero thirty
+10:00pm	ten p m
+6:00am	six a m
+12:00 am KST	twelve a m k s t
+5:05	five o five
+12:00	twelve o'clock
+5 a.m.	five a m
+9 p.m.	nine p m
+6:00am	six a m
+10:30am	ten thirty a m
+5:00pm	five p m
+8:00pm	eight p m
+4:39	four thirty nine
+10.30pm	ten thirty p m
+7pm	seven p m
+15: 33	fifteen thirty three
+9:14am	nine fourteen a m
+11:06	eleven o six
+2pm	two p m
+2:05:50	two hours five minutes and fifty seconds
+7:00	seven o'clock
+10: 14	ten fourteen
+13:36	thirteen thirty six
+14:04	fourteen o four
+16:10	sixteen ten
+06:09PM	six o nine p m
+06:09PM	six o nine p m
+2:02.65	two minutes two seconds and sixty five milliseconds
+4:15.75	four minutes fifteen seconds and seventy five milliseconds
+16:00	sixteen hundred
+4 p.m.	four p m
+3:28	three twenty eight
+1: 11	one eleven
+9 AM	nine a m
+1:53	one fifty three
+2:00.29	two minutes zero seconds and twenty nine milliseconds
+13:19.56	thirteen minutes nineteen seconds and fifty six milliseconds
+15:30	fifteen thirty
+4:26	four twenty six
+11:30	eleven thirty
+14:00	fourteen hundred
+06:00 UTC	six o'clock u t c
+1:12	one twelve
+00:00:00Z	zero hours zero minutes and zero seconds z
+10:34	ten thirty four
+01: 37	one thirty seven
+06:00	six o'clock
+13:11	thirteen eleven
+00:04:13	zero hours four minutes and thirteen seconds
+9 am	nine a m
+8: 46	eight forty six
+4:20	four twenty
+12 p.m.	twelve p m
+7am	seven a m
+7pm	seven p m
+6:00 pm	six p m
+3.20pm	three twenty p m
+1am	one a m
+3am	three a m
+4am	four a m
+2:00 pm	two p m
+10:00	ten o'clock
+2 PM	two p m
+1: 27	one twenty seven
+7pm	seven p m
+19:23	nineteen twenty three
+19:55	nineteen fifty five
+09:00	nine o'clock
+5.15 pm	five fifteen p m
+1:24	one twenty four
+10:17	ten seventeen
+2:15	two fifteen
+4:16	four sixteen
+1:18	one eighteen
+3:15	three fifteen
+10:30	ten thirty
+6:53	six fifty three
+07:38	seven thirty eight
+10:50	ten fifty
+7: 20	seven twenty
+9:30 p.m.	nine thirty p m
+3:32 PM	three thirty two p m
+1:26	one twenty six
+15:40	fifteen forty
+22:13	twenty two thirteen
+8:10AM PST	eight ten a m p s t
+2:35	two thirty five
+3:12	three twelve
+15:20	fifteen twenty
+06:05	six o five
+07:05	seven o five
+08:05	eight o five
+4: 16	four sixteen
+7:30 p.m.	seven thirty p m
+7:00	seven o'clock
+2pm	two p m
+6pm	six p m
+10:30 a.m.	ten thirty a m
+19: 48	nineteen forty eight
+5:57 am	five fifty seven a m
+2:53	two fifty three
+04: 10	four ten
+11:45	eleven forty five
+9am	nine a m
+8:27 pm	eight twenty seven p m
+9.30pm	nine thirty p m
+06.27	six twenty seven
+11:30 am ET	eleven thirty a m e t
+1:05am	one o five a m
+5:01	five o one
+3:37	three thirty seven
+2:45	two forty five
+12:30	twelve thirty
+7am	seven a m
+9:00am	nine a m
+2:37.25	two minutes thirty seven seconds and twenty five milliseconds
+1:48	one forty eight
+7:16 a.m. EDT	seven sixteen a m e d t
+0:20	zero twenty
+3:00 a.m. ET	three a m e t
+08.27	eight twenty seven
+5:40 a.m.	five forty a m
+03.09	three o nine
+6.00 pm	six p m
+11 p.m.	eleven p m
+12: 58	twelve fifty eight
+12:35	twelve thirty five
+12:17	twelve seventeen
+7:18	seven eighteen
+5:00 pm	five p m
+3:04	three o four
+5:00 pm	five p m
+13:35	thirteen thirty five
+17:00	seventeen hundred
+8:30 AM	eight thirty a m
+8:37	eight thirty seven
+9:32	nine thirty two
+9:55	nine fifty five
+5a.m.	five a m
+8:30pm	eight thirty p m
+4 p.m.	four p m
+22:00	twenty two hundred
+08:54	eight fifty four
+00:46:43	zero hours forty six minutes and forty three seconds
+22:00 MYT	twenty two hundred m y t
+6:00	six o'clock
+7:00	seven o'clock
+23:00	twenty three hundred
+20:17	twenty seventeen
+1:42:35	one hour forty two minutes and thirty five seconds
+10:28	ten twenty eight
+6:55	six fifty five
+10:00 pm	ten p m
+10:30 pm	ten thirty p m
+4:23	four twenty three
+4:15	four fifteen
+23:10	twenty three ten
+1:15	one fifteen
+22:10	twenty two ten
+3:45 pm	three forty five p m
+5:40	five forty
+10 pm	ten p m
+0:59:00	zero hours fifty nine minutes and zero seconds
+8:00 am	eight a m
+10 AM	ten a m
+14:56	fourteen fifty six
+0:12	zero twelve
+4:54	four fifty four
+5:48	five forty eight
+8:38	eight thirty eight
+3:00	three o'clock
+5 A.M.	five a m
+2:40:16	two hours forty minutes and sixteen seconds
+2:14	two fourteen
+5:23pm	five twenty three p m
+15:15:00	fifteen hours fifteen minutes and zero seconds
+9:01	nine o one
+2:30	two thirty
+2:45	two forty five
+1:50.60	one minute fifty seconds and sixty milliseconds
+02:00 PM ET	two p m e t
+1:11	one eleven
+4:24	four twenty four
+12:00	twelve o'clock
+21:05 GMT	twenty one o five g m t
+4:15	four fifteen
+11:54	eleven fifty four
+18:44	eighteen forty four
+11:51	eleven fifty one
+1:49	one forty nine
+8:27.58	eight minutes twenty seven seconds and fifty eight milliseconds
+30:47.59	thirty minutes forty seven seconds and fifty nine milliseconds
+1:27:28	one hour twenty seven minutes and twenty eight seconds
+8:12	eight twelve
+2:35.2	two minutes thirty five seconds and two milliseconds
+3:45	three forty five
+1:36.99	one minute thirty six seconds and ninety nine milliseconds
+5pm	five p m
+3:06	three o six
+1:19.38	one minute nineteen seconds and thirty eight milliseconds
+19:10	nineteen ten
+1:36	one thirty six
+10:45 p.m.	ten forty five p m
+8:30 pm	eight thirty p m
+10:45AM	ten forty five a m
+10:07 am	ten o seven a m
+19:00	nineteen hundred
+21:00	twenty one hundred
+16:10	sixteen ten
+3:32	three thirty two
+5:03	five o three
+10 am	ten a m
+09.59AM IST	nine fifty nine a m i s t
+13:30	thirteen thirty
+9:17 AM EST	nine seventeen a m e s t
+2:29:37	two hours twenty nine minutes and thirty seven seconds
+1:47.28	one minute forty seven seconds and twenty eight milliseconds
+8 p.m.	eight p m
+9 p.m.	nine p m
+1:55.57	one minute fifty five seconds and fifty seven milliseconds
+00:50:53	zero hours fifty minutes and fifty three seconds
+1:21	one twenty one
+5:26	five twenty six
+0:09	zero o nine
+3:32	three thirty two
+9PM	nine p m
+13:52	thirteen fifty two
+9:43	nine forty three
+9 a.m.	nine a m
+6:55 am	six fifty five a m
+16:00 ET	sixteen hundred e t
+3:53	three fifty three
+3:45	three forty five
+4:19	four nineteen
+4:32	four thirty two
+3:30 p.m.	three thirty p m
+24:11	twenty four eleven
+10:30 a.m.	ten thirty a m
+17:15	seventeen fifteen
+19:02	nineteen o two
+5:25	five twenty five
+1:30	one thirty
+9pm	nine p m
+6: 47	six forty seven
+18:00	eighteen hundred
+2:08:34	two hours eight minutes and thirty four seconds
+1:41.01	one minute forty one seconds and one millisecond
+10:00	ten o'clock
+18:00	eighteen hundred
+06:32pm	six thirty two p m
+11:00	eleven o'clock
+5.17 pm	five seventeen p m
+3:16	three sixteen
+1:58	one fifty eight
+06:00	six o'clock
+15:14	fifteen fourteen
+3 pm	three p m
+7: 31	seven thirty one
+04:48 UTC	four forty eight u t c
+8:00	eight o'clock
+3:42.31	three minutes forty two seconds and thirty one milliseconds
+3:11	three eleven
+3:30	three thirty
+11pm	eleven p m
+5:00 a.m.	five a m
+1:41	one forty one
+10.30am	ten thirty a m
+9:00am	nine a m
+4:00pm	four p m
+10:00am	ten a m
+2:00pm	two p m
+1:00	one o'clock
+9:00 a.m.	nine a m
+0:17:35	zero hours seventeen minutes and thirty five seconds
+10pm	ten p m
+12am	twelve a m
+3:04	three o four
+8:30 PM EST	eight thirty p m e s t
+4:05	four o five
+4:00	four o'clock
+12:55 a.m.	twelve fifty five a m
+6 am	six a m
+5:45 p.m. EDT	five forty five p m e d t
+5:00 AM	five a m
+12:45 AM	twelve forty five a m
+19:16	nineteen sixteen
+8:30	eight thirty
+17:30	seventeen thirty
+06:43	six forty three
+1:24	one twenty four
+18:01:43	eighteen hours one minute and forty three seconds
+4:00	four o'clock
+12:43	twelve forty three
+15: 56	fifteen fifty six
+5:00	five o'clock
+5:30	five thirty
+11.00am	eleven a m
+6.30pm	six thirty p m
+5:30 AM	five thirty a m
+19:10:07	nineteen hours ten minutes and seven seconds
+2:17	two seventeen
+17:30	seventeen thirty
+13:35	thirteen thirty five
+04:35 UTC	four thirty five u t c
+5:30 p.m.	five thirty p m
+6:00 p.m.	six p m
+10 p.m.	ten p m
+6:00AM	six a m
+05:55	five fifty five
+2:14	two fourteen
+2:13	two thirteen
+08:30	eight thirty
+5pm ET	five p m e t
+8pm ET	eight p m e t
+00:04	zero o four
+20:00	twenty hundred
+3:30 PM	three thirty p m
+02 pm	two p m
+1:19	one nineteen
+2:29:57	two hours twenty nine minutes and fifty seven seconds
+09:57:02 EDT	nine hours fifty seven minutes and two seconds e d t
+1: 29	one twenty nine
+02.06	two o six
+8:50 am	eight fifty a m
+11 pm	eleven p m
+8.30 am	eight thirty a m
+9:00 p.m.	nine p m
+05:30	five thirty
+8 a.m.	eight a m
+1:58.80	one minute fifty eight seconds and eighty milliseconds
+1:58.89	one minute fifty eight seconds and eighty nine milliseconds
+4:30 pm	four thirty p m
+5:00pm	five p m
+7:00pm	seven p m
+11:29 pm	eleven twenty nine p m
+02:38:39 UTC	two hours thirty eight minutes and thirty nine seconds u t c
+6:00PM	six p m
+1:48	one forty eight
+23:59	twenty three fifty nine
+01:08	one o eight
+19:30	nineteen thirty
+1:50	one fifty
+8:17 am	eight seventeen a m
+10:00am	ten a m
+1:30pm	one thirty p m
+5:00pm	five p m
+8:00pm	eight p m
+07:52	seven fifty two
+pm7	seven p m
+9pm	nine p m
+11pm	eleven p m
+10pm	ten p m
+1am	one a m
+8pm	eight p m
+12am	twelve a m
+7 a.m.	seven a m
+9am	nine a m
+8: 47	eight forty seven
+2 am	two a m
+6:41	six forty one
+8:41	eight forty one
+8 AM	eight a m
+4:30 PM	four thirty p m
+16:55	sixteen fifty five
+12pm	twelve p m
+5pm	five p m
+13:53:35	thirteen hours fifty three minutes and thirty five seconds
+21:55	twenty one fifty five
+8:10	eight ten
+16:27	sixteen twenty seven
+17:15	seventeen fifteen
+20:25	twenty twenty five
+21:25	twenty one twenty five
+3:16	three sixteen
+09:30	nine thirty
+10:30	ten thirty
+12:30pm	twelve thirty p m
+12:30pm	twelve thirty p m
+12:45	twelve forty five
+0:36 pm	twelve thirty six p m
+4:30	four thirty
+2:00	two o'clock
+2:15	two fifteen
+2:40	two forty
+3:10 PM	three ten p m
+9:30	nine thirty
+02:00 pm	two p m
+12:05 pm MDT	twelve o five p m m d t
+18:05 UTC	eighteen o five u t c
+17:17	seventeen seventeen
+18:20	eighteen twenty
+21:35	twenty one thirty five
+3:51	three fifty one
+2:05	two o five
+15:09	fifteen o nine
+9:00pm	nine p m
+12pm	twelve p m
+11:03	eleven o three
+05:30	five thirty
+6:00	six o'clock
+6:30	six thirty
+11:00 p.m.	eleven p m
+6:17.76	six minutes seventeen seconds and seventy six milliseconds
+1:40	one forty
+18:43	eighteen forty three
+4:28	four twenty eight
+1 p.m.	one p m
+19:00	nineteen hundred
+12:30	twelve thirty
+12:55	twelve fifty five
+5:31 am	five thirty one a m
+0:05	zero o five
+3:25 am	three twenty five a m
+22:30	twenty two thirty
+18:00	eighteen hundred
+7:30 a.m. ET	seven thirty a m e t
+9:28am BST	nine twenty eight a m b s t
+4pm	four p m
+8pm	eight p m
+5:00	five o'clock
+10:30pm	ten thirty p m
+4:50 p.m.	four fifty p m
+23:27	twenty three twenty seven
+9:38	nine thirty eight
+8:40	eight forty
+9:30	nine thirty
+1:31 PM	one thirty one p m
+3:21PM PDT	three twenty one p m p d t
+04:00 GMT	four o'clock g m t
+6:30 PM	six thirty p m
+11:15	eleven fifteen
+11:45 AM	eleven forty five a m
+18:00	eighteen hundred
+5:13.77	five minutes thirteen seconds and seventy seven milliseconds
+13:30 GMT	thirteen thirty g m t
+10PM	ten p m
+4:40pm	four forty p m
+5:37pm	five thirty seven p m
+1:03 p.m. EST	one o three p m e s t
+5 PM	five p m
+1:28	one twenty eight
+06.00	six o'clock
+7 pm	seven p m
+6 pm	six p m
+1:41	one forty one
+1:30 p.m. MST	one thirty p m m s t
+10:00 p.m.	ten p m
+21:00	twenty one hundred
+7:25	seven twenty five
+2:30 p.m.	two thirty p m
+02:46	two forty six
+6:07 pm	six o seven p m
+7 pm	seven p m
+12:03 am EST	twelve o three a m e s t
+4 a.m.	four a m
+5 a.m.	five a m
+12:15 PM EST	twelve fifteen p m e s t
+7:30 p.m. PDT	seven thirty p m p d t
+21:10	twenty one ten
+3:56	three fifty six
+4:28	four twenty eight
+4:24	four twenty four
+4:20	four twenty
+5:09	five o nine
+8:15pm	eight fifteen p m
+2:17	two seventeen
+6 p.m.	six p m
+1pm	one p m
+3:13	three thirteen
+15:45	fifteen forty five
+9:00pm	nine p m
+7:45 a.m.	seven forty five a m
+20:27	twenty twenty seven
+5:00	five o'clock
+4:44	four forty four
+2 a.m.	two a m
+2:15am	two fifteen a m
+3.00 pm	three p m
+15:50	fifteen fifty
+9.35am	nine thirty five a m
+4:30	four thirty
+3:14	three fourteen
+5:57	five fifty seven
+2:22:12	two hours twenty two minutes and twelve seconds
+1:14	one fourteen
+1:29.8	one minute twenty nine seconds and eight milliseconds
+22: 10	twenty two ten
+0:50	zero fifty
+1:49	one forty nine
+1:06.8	one minute six seconds and eight milliseconds
+8:30 pm	eight thirty p m
+11:00 P.M. ET	eleven p m e t
+7pm	seven p m
+05:05	five o five
+05:53	five fifty three
+04:13	four thirteen
+09:43	nine forty three
+4:00 a.m.	four a m
+3:15	three fifteen
+10.55 pm	ten fifty five p m
+8:35 am	eight thirty five a m
+18:00	eighteen hundred
+20:00	twenty hundred
+18:00 UTC	eighteen hundred u t c
+14:10	fourteen ten
+10:27	ten twenty seven
+6pm	six p m
+22:25	twenty two twenty five
+14:25 UTC	fourteen twenty five u t c
+1:52	one fifty two
+4:30 am	four thirty a m
+2 pm	two p m
+2:48	two forty eight
+22:14	twenty two fourteen
+10:00	ten o'clock
+19:06	nineteen o six
+18:32	eighteen thirty two
+16:02	sixteen o two
+10:00	ten o'clock
+18:00	eighteen hundred
+10:31	ten thirty one
+10:21	ten twenty one
+05:30	five thirty
+2:45	two forty five
+07:55	seven fifty five
+10:49	ten forty nine
+10:33	ten thirty three
+09:30	nine thirty
+17:15 GMT	seventeen fifteen g m t
+02.14	two fourteen
+20:30	twenty thirty
+9PM	nine p m
+10:00 am	ten a m
+10:30 pm	ten thirty p m
+4:43	four forty three
+8:10	eight ten
+12: 39	twelve thirty nine
+10:39	ten thirty nine
+9:08	nine o eight
+9:20	nine twenty
+7:00pm	seven p m
+22:00	twenty two hundred
+05:37	five thirty seven
+3:37	three thirty seven
+01:22	one twenty two
+1:16	one sixteen
+20:20	twenty twenty
+00:22	zero twenty two
+1:30	one thirty
+6 pm	six p m
+9am	nine a m
+3:30pm	three thirty p m
+21:30	twenty one thirty
+3:07:00	three hours seven minutes and zero seconds
+2:07:53	two hours seven minutes and fifty three seconds
+2:27:38	two hours twenty seven minutes and thirty eight seconds
+04.00	four o'clock
+5:00pm	five p m
+10:04	ten o four
+19:36	nineteen thirty six
+7:54 pm	seven fifty four p m
+8:12 pm	eight twelve p m
+5:00 AM	five a m
+1:52 AM	one fifty two a m
+05:05	five o five
+5:00 PM	five p m
+3am	three a m
+10:00 p.m.	ten p m
+16:45	sixteen forty five
+9:30pm EST	nine thirty p m e s t
+3:50	three fifty
+2:55	two fifty five
+3:06	three o six
+4:14	four fourteen
+4:19	four nineteen
+10:00 PST	ten o'clock p s t
+5:56 pm	five fifty six p m
+9:14AM PDT	nine fourteen a m p d t
+5:24	five twenty four
+12: 37	twelve thirty seven
+3:48	three forty eight
+10pm	ten p m
+17:30	seventeen thirty
+4:43PM	four forty three p m
+5:20 a.m.	five twenty a m
+8:30pm	eight thirty p m
+4:17:06	four hours seventeen minutes and six seconds
+1:50	one fifty
+9pm ET	nine p m e t
+18:47	eighteen forty seven
+9:30 PM ET	nine thirty p m e t
+1:14	one fourteen
+4:35	four thirty five
+4:15	four fifteen
+7:55 am	seven fifty five a m
+2:40 pm	two forty p m
+9:13 p.m.	nine thirteen p m
+09:37	nine thirty seven
+6 p.m.	six p m
+6:35 a.m.	six thirty five a m
+6 PM	six p m
+06:12	six twelve
+10:00 pm	ten p m
+3:30 pm	three thirty p m
+03.04	three o four
+1:06.50	one minute six seconds and fifty milliseconds
+2:23	two twenty three
+1:06	one o six
+8.00pm	eight p m
+9.00pm	nine p m
+5:10PM PST	five ten p m p s t
+2: 33	two thirty three
+12:30	twelve thirty
+16:44	sixteen forty four
+3:15	three fifteen
+2:17	two seventeen
+9 AM	nine a m
+2 PM	two p m
+7:08	seven o eight
+7:43	seven forty three
+10:30	ten thirty
+2:30	two thirty
+6:30 AM	six thirty a m
+5:37	five thirty seven
+06:52	six fifty two
+8 am	eight a m
+3:48.41	three minutes forty eight seconds and forty one milliseconds
+10:45	ten forty five
+4:35	four thirty five
+17:46	seventeen forty six
+8am	eight a m
+5pm	five p m
+5:48:56	five hours forty eight minutes and fifty six seconds
+11:17 pm	eleven seventeen p m
+11:49 pm	eleven forty nine p m
+16:36.21	sixteen minutes thirty six seconds and twenty one milliseconds
+16:35.21	sixteen minutes thirty five seconds and twenty one milliseconds
+1:08.50	one minute eight seconds and fifty milliseconds
+1:07.93	one minute seven seconds and ninety three milliseconds
+03.03	three o three
+09.03	nine o three
+5:00 AM	five a m
+6am	six a m
+2pm	two p m
+20:30	twenty thirty
+22:31	twenty two thirty one
+7: 44	seven forty four
+3:35	three thirty five
+12:32 UTC	twelve thirty two u t c
+5:45AM	five forty five a m
+8PM	eight p m
+0:48	zero forty eight
+02.02	two o two
+1:30	one thirty
+13:45	thirteen forty five
+09:30	nine thirty
+11:45	eleven forty five
+8: 24	eight twenty four
+9:18	nine eighteen
+09:00	nine o'clock
+8:30 AM	eight thirty a m
+10 am	ten a m
+0:25	zero twenty five
+9:15 am	nine fifteen a m
+8:30 am	eight thirty a m
+2:39.4	two minutes thirty nine seconds and four milliseconds
+9 am	nine a m
+0:36:30	zero hours thirty six minutes and thirty seconds
+5.00pm	five p m
+6.00pm	six p m
+3: 36	three thirty six
+09:37	nine thirty seven
+4:46	four forty six
+06:00 UTC	six o'clock u t c
+22:55	twenty two fifty five
+22:05	twenty two o five
+22:00	twenty two hundred
+9 am	nine a m
+4 pm	four p m
+20:18 PM IST	eight eighteen p m i s t
+4 pm	four p m
+2: 45	two forty five
+2PM	two p m
+13:46	thirteen forty six
+1:12	one twelve
+2:07:54	two hours seven minutes and fifty four seconds
+3:34.13	three minutes thirty four seconds and thirteen milliseconds
+7:46	seven forty six
+2:29:48	two hours twenty nine minutes and forty eight seconds
+10pm	ten p m
+2:16	two sixteen
+1:31 p.m.	one thirty one p m
+1:10	one ten
+2:11	two eleven
+7.45pm	seven forty five p m
+8:26.95	eight minutes twenty six seconds and ninety five milliseconds
+21:04	twenty one o four
+7 am	seven a m
+2: 10	two ten
+3am	three a m
+5 p.m.	five p m
+7 p.m.	seven p m
+11 p.m.	eleven p m
+12:30 am	twelve thirty a m
+1:00	one o'clock
+2:33:11	two hours thirty three minutes and eleven seconds
+1:10:30	one hour ten minutes and thirty seconds
+1:10	one ten
+10:00 p.m.	ten p m
+11:36	eleven thirty six
+23: 10	twenty three ten
+18:01:34	eighteen hours one minute and thirty four seconds
+17:18	seventeen eighteen
+3:12	three twelve
+8 am	eight a m
+4 pm	four p m
+2.00pm	two p m
+2:12:35	two hours twelve minutes and thirty five seconds
+13:00	thirteen hundred
+6:30 pm	six thirty p m
+1:48.38	one minute forty eight seconds and thirty eight milliseconds
+10:00 am	ten a m
+1:00 pm	one p m
+1:57	one fifty seven
+3:40	three forty
+2.15pm	two fifteen p m
+05:13:40	five hours thirteen minutes and forty seconds
+4:06PM	four o six p m
+10 am	ten a m
+4 pm	four p m
+10 pm	ten p m
+20:45	twenty forty five
+2:30 am	two thirty a m
+10:00 pm	ten p m
+5:15 AM	five fifteen a m
+8:45 PM	eight forty five p m
+5:02 PM	five o two p m
+3:49	three forty nine
+07.51AM IST	seven fifty one a m i s t
+10:00	ten o'clock
+06:40	six forty
+07:10	seven ten
+10:53 pm ET	ten fifty three p m e t
+15:25	fifteen twenty five
+20:06	twenty o six
+2:20:46	two hours twenty minutes and forty six seconds
+4:30	four thirty
+5:30pm	five thirty p m
+7:00pm	seven p m
+9:30pm	nine thirty p m
+3:00	three o'clock
+6:00 pm	six p m
+7:30	seven thirty
+22: 38	twenty two thirty eight
+5: 36	five thirty six
+9:30 am	nine thirty a m
+01.00	one o'clock
+10pm	ten p m
+07:13:25	seven hours thirteen minutes and twenty five seconds
+14:08	fourteen o eight
+10:40	ten forty
+14:33	fourteen thirty three
+6:27	six twenty seven
+11:30 am	eleven thirty a m
+2.00 pm	two p m
+5:00	five o'clock
+00.00	zero hundred
+9 p.m.	nine p m
+10:00 AM ET	ten a m e t
+5.30pm	five thirty p m
+4:37 pm	four thirty seven p m
+2:54	two fifty four
+1:51:36	one hour fifty one minutes and thirty six seconds
+3:50	three fifty
+4:20	four twenty
+3:51	three fifty one
+4:57	four fifty seven
+17:20	seventeen twenty
+06:50	six fifty
+19:00	nineteen hundred
+18:30	eighteen thirty
+03:20	three twenty
+2:44	two forty four
+5: 35	five thirty five
+22: 23	twenty two twenty three
+10:00	ten o'clock
+13:30	thirteen thirty
+10:00 MST	ten o'clock m s t
+14:15	fourteen fifteen
+5:35pm	five thirty five p m
+2 a.m.	two a m
+23:13:36	twenty three hours thirteen minutes and thirty six seconds
+11:59 p.m.	eleven fifty nine p m
+6am	six a m
+10am	ten a m
+1:45.0	one minute forty five seconds and zero milliseconds
+0:39	zero thirty nine
+3:00 a.m.	three a m
+4:33	four thirty three
+3:30.24	three minutes thirty seconds and twenty four milliseconds
+16:10	sixteen ten
+8:00 P.M.	eight p m
+5 AM	five a m
+17:00	seventeen hundred
+7:00	seven o'clock
+9:30	nine thirty
+2:15 a.m.	two fifteen a m
+20: 29	twenty twenty nine
+1:25 pm UTC	one twenty five p m u t c
+0:40	zero forty
+6am	six a m
+8am	eight a m
+8 p.m.	eight p m
+03:45	three forty five
+01.10	one ten
+16:15	sixteen fifteen
+17:30 EET	seventeen thirty e e t
+1:01.00	one minute one second and zero milliseconds
+13:00	thirteen hundred
+23:00	twenty three hundred
+17:39	seventeen thirty nine
+5:33	five thirty three
+3:18:48	three hours eighteen minutes and forty eight seconds
+18:30	eighteen thirty
+20:00 EET	twenty hundred e e t
+10:00	ten o'clock
+18:00	eighteen hundred
+18:00pm CST	six p m c s t
+8:58	eight fifty eight
+8:58	eight fifty eight
+3:10 a.m. EST	three ten a m e s t
+8:00 a.m. EST	eight a m e s t
+4:42:42	four hours forty two minutes and forty two seconds
+3:00	three o'clock
+6:00 pm	six p m
+02.58pm IST	two fifty eight p m i s t
+9p.m.	nine p m
+3: 30	three thirty
+03.30 am	three thirty a m
+04.00 am	four a m
+3am	three a m
+9pm	nine p m
+10:45 a.m.	ten forty five a m
+1:05:50	one hour five minutes and fifty seconds
+20 : 18	twenty eighteen
+3.53pm	three fifty three p m
+12: 27	twelve twenty seven
+12:00 am	twelve a m
+16:56.73	sixteen minutes fifty six seconds and seventy three milliseconds
+2:30 p.m.	two thirty p m
+00:36	zero thirty six
+2:59.95	two minutes fifty nine seconds and ninety five milliseconds
+AM2	two a m
+1:14	one fourteen
+2:53	two fifty three
+0:55	zero fifty five
+10am	ten a m
+2: 28	two twenty eight
+2:00 pm	two p m
+10 pm	ten p m
+7:00 pm	seven p m
+2: 13	two thirteen
+7:32.72	seven minutes thirty two seconds and seventy two milliseconds
+10:10	ten ten
+9 p.m.	nine p m
+3:23	three twenty three
+2:10	two ten
+4:16	four sixteen
+1:55.17	one minute fifty five seconds and seventeen milliseconds
+2:10:22	two hours ten minutes and twenty two seconds
+09:03	nine o three
+9:34:32	nine hours thirty four minutes and thirty two seconds
+5:19	five nineteen
+1:00	one o'clock
+8:00pm	eight p m
+6 PM	six p m
+1:10	one ten
+9am	nine a m
+3:17	three seventeen
+16:13	sixteen thirteen
+6:38	six thirty eight
+07.05	seven o five
+1:07:07	one hour seven minutes and seven seconds
+03:00	three o'clock
+1:14	one fourteen
+2:40	two forty
+1:18	one eighteen
+17:23	seventeen twenty three
+17:29	seventeen twenty nine
+23:32	twenty three thirty two
+9:00 PM	nine p m
+12:00 AM	twelve a m
+1:30 AM	one thirty a m
+3:00 AM	three a m
+11:00	eleven o'clock
+15:15	fifteen fifteen
+15:58	fifteen fifty eight
+6:00 a.m.	six a m
+1:24	one twenty four
+7:30	seven thirty
+5:00pm	five p m
+6:00am	six a m
+7:00am	seven a m
+8 a.m.	eight a m
+20:30	twenty thirty
+13:03	thirteen o three
+10:00 AM	ten a m
+6 pm	six p m
+1.30am	one thirty a m
+6.20pm	six twenty p m
+08.23	eight twenty three
+1:50	one fifty
+16:00	sixteen hundred
+10:00	ten o'clock
+6pm	six p m
+11:15pm	eleven fifteen p m
+AM2	two a m
+1:19	one nineteen
+10:59 a.m.	ten fifty nine a m
+7:30 p.m.	seven thirty p m
+5:30 a.m.	five thirty a m
+8:00 p.m.	eight p m
+5:25	five twenty five
+5:52	five fifty two
+07:10:16 UTC	seven hours ten minutes and sixteen seconds u t c
+16:10:43	sixteen hours ten minutes and forty three seconds
+9:30pm	nine thirty p m
+5:39	five thirty nine
+2:40:29	two hours forty minutes and twenty nine seconds
+03.10am IST	three ten a m i s t
+1:55 PM	one fifty five p m
+3:20 PM	three twenty p m
+1: 33	one thirty three
+6:12	six twelve
+2:00.94	two minutes zero seconds and ninety four milliseconds
+1:09	one o nine
+9 p.m.	nine p m
+1:03am AEDT	one o three a m a e d t
+6:34	six thirty four
+10:07	ten o seven
+10 pm	ten p m
+8:20	eight twenty
+15:00	fifteen hundred
+12:47pm WST	twelve forty seven p m w s t
+16:00	sixteen hundred
+14:20	fourteen twenty
+05:40	five forty
+2:18	two eighteen
+15:34	fifteen thirty four
+18: 51	eighteen fifty one
+12:45 pm	twelve forty five p m
+3:36	three thirty six
+5:49	five forty nine
+6:25pm	six twenty five p m
+3:35	three thirty five
+2:14	two fourteen
+4:17	four seventeen
+1:44 UTC	one forty four u t c
+4:21	four twenty one
+6 pm	six p m
+14:00	fourteen hundred
+06:50 UTC	six fifty u t c
+21:45	twenty one forty five
+07:51	seven fifty one
+13:04	thirteen o four
+19:53:25	nineteen hours fifty three minutes and twenty five seconds
+9:30	nine thirty
+11:00am	eleven a m
+9:30	nine thirty
+9:00	nine o'clock
+7 p.m.	seven p m
+9 a.m.	nine a m
+6:35	six thirty five
+9am	nine a m
+9pm	nine p m
+07:10am	seven ten a m
+18:00 UTC	eighteen hundred u t c
+18:00 UTC	eighteen hundred u t c
+23:08 UTC	twenty three o eight u t c
+02:14 UTC	two fourteen u t c
+14:00	fourteen hundred
+14:30	fourteen thirty
+10:25	ten twenty five
+18:08	eighteen o eight
+2:00	two o'clock
+2:13	two thirteen
+1:00	one o'clock
+3:30	three thirty
+4pm	four p m
+7:58.53	seven minutes fifty eight seconds and fifty three milliseconds
+9:15	nine fifteen
+18:27	eighteen twenty seven
+2:56:41	two hours fifty six minutes and forty one seconds
+11:30am	eleven thirty a m
+10 PM	ten p m
+3:00 PM	three p m
+02:11:10 UTC	two hours eleven minutes and ten seconds u t c
+12:00	twelve o'clock
+23:22	twenty three twenty two
+04:25	four twenty five
+9: 10	nine ten
+6:30 a.m.	six thirty a m
+5:30 am	five thirty a m
+5:07 p.m.	five o seven p m
+5:20am	five twenty a m
+9:30 PM	nine thirty p m
+4.45 AM	four forty five a m
+10.35 AM	ten thirty five a m
+0:05:29	zero hours five minutes and twenty nine seconds
+4 am	four a m
+4 AM	four a m
+8 AM	eight a m
+4 PM	four p m
+8 PM	eight p m
+05:15	five fifteen
+3:30 pm	three thirty p m
+8 a.m.	eight a m
+9 pm GMT	nine p m g m t
+3:48.62	three minutes forty eight seconds and sixty two milliseconds
+5 a.m.	five a m
+1:28	one twenty eight
+7:30 pm	seven thirty p m
+22:30	twenty two thirty
+3:28	three twenty eight
+9 pm	nine p m
+10:00	ten o'clock
+19:35	nineteen thirty five
+2:42	two forty two
+8:12	eight twelve
+10:44	ten forty four
+11:14	eleven fourteen
+8:42	eight forty two
+1:33	one thirty three
+03:30	three thirty
+10:20 am	ten twenty a m
+12:50 pm	twelve fifty p m
+10:15	ten fifteen
+6:55 pm	six fifty five p m
+8:30 PM	eight thirty p m
+1:21	one twenty one
+11:00am	eleven a m
+12:00 AM	twelve a m
+1 PM	one p m
+1:30 PM ET	one thirty p m e t
+10 PM	ten p m
+02:55 JST	two fifty five j s t
+2PM	two p m
+2PM	two p m
+7pm	seven p m
+01.06	one o six
+6:35	six thirty five
+9am	nine a m
+7pm	seven p m
+16:00 IRDT	sixteen hundred i r d t
+19:00	nineteen hundred
+2:54	two fifty four
+2:36	two thirty six
+19:50 pm	seven fifty p m
+14:59	fourteen fifty nine
+04:35	four thirty five
+7pm ET	seven p m e t
+10am	ten a m
+1:18	one eighteen
+2pm	two p m
+6:55	six fifty five
+11:58 am	eleven fifty eight a m
+1: 29	one twenty nine
+6 a.m.	six a m
+14:01	fourteen o one
+3:14	three fourteen
+11 a.m.	eleven a m
+2 p.m.	two p m
+3:37.86	three minutes thirty seven seconds and eighty six milliseconds
+10:27 pm	ten twenty seven p m
+6 p.m.	six p m
+1:50	one fifty
+8:08 am EDT	eight o eight a m e d t
+5:14	five fourteen
+0:35	zero thirty five
+1.10pm	one ten p m
+10am	ten a m
+2:56	two fifty six
+4:43	four forty three
+2pm	two p m
+3:48	three forty eight
+2:11.47	two minutes eleven seconds and forty seven milliseconds
+27:44.05	twenty seven minutes forty four seconds and five milliseconds
+4:24.25	four minutes twenty four seconds and twenty five milliseconds
+1:43	one forty three
+3:44	three forty four
+00:01:05	zero hours one minute and five seconds
+00:03:30	zero hours three minutes and thirty seconds
+8 am	eight a m
+10:39 p.m.	ten thirty nine p m
+1:38	one thirty eight
+4:57	four fifty seven
+7:21 pm	seven twenty one p m
+8:20 pm	eight twenty p m
+20:30	twenty thirty
+4 pm	four p m
+23:00	twenty three hundred
+15:41 GMT	fifteen forty one g m t
+15:44	fifteen forty four
+00:41:02	zero hours forty one minutes and two seconds
+11 A.M.	eleven a m
+18:24:12 GMT	eighteen hours twenty four minutes and twelve seconds g m t
+2:46:10	two hours forty six minutes and ten seconds
+14:59	fourteen fifty nine
+11 pm	eleven p m
+3:56:48	three hours fifty six minutes and forty eight seconds
+5:15 PM	five fifteen p m
+10:00 pm	ten p m
+9:00 pm	nine p m
+8:00pm	eight p m
+4:06	four o six
+9: 59	nine fifty nine
+15:05:40 UTC	fifteen hours five minutes and forty seconds u t c
+9am	nine a m
+11.00am	eleven a m
+4 pm	four p m
+15:47:25	fifteen hours forty seven minutes and twenty five seconds
+2:00.91	two minutes zero seconds and ninety one milliseconds
+2:49	two forty nine
+7:00 am	seven a m
+6:00pm	six p m
+17:52	seventeen fifty two
+12:50	twelve fifty
+10 p.m.	ten p m
+06:45	six forty five
+23:30	twenty three thirty
+07:00	seven o'clock
+23:30	twenty three thirty
+0:28:30	zero hours twenty eight minutes and thirty seconds
+0:29:30	zero hours twenty nine minutes and thirty seconds
+0:44:00	zero hours forty four minutes and zero seconds
+9pm ET	nine p m e t
+6am	six a m
+17:05	seventeen o five
+09:05 UTC	nine o five u t c
+4:17	four seventeen
+5:10	five ten
+10:05 pm	ten o five p m
+4:40	four forty
+4:00pm	four p m
+22:40	twenty two forty
+5:22	five twenty two
+18:21	eighteen twenty one
+08:40	eight forty
+16:00	sixteen hundred
+2:27:17	two hours twenty seven minutes and seventeen seconds
+3 p.m.	three p m
+2:46	two forty six
+7PM	seven p m
+11:04 pm	eleven o four p m
+11 am	eleven a m
+12:00 PM	twelve p m
+1:00 PM	one p m
+10PM ET	ten p m e t
+2:55 pm NZST	two fifty five p m n z s t
+3:38	three thirty eight
+17:15	seventeen fifteen
+03:00	three o'clock
+8:00	eight o'clock
+22:52:28	twenty two hours fifty two minutes and twenty eight seconds
+10:12	ten twelve
+10:50 pm	ten fifty p m
+8:30	eight thirty
+1:45.45	one minute forty five seconds and forty five milliseconds
+1:50.93	one minute fifty seconds and ninety three milliseconds
+5:32	five thirty two
+9am	nine a m
+12pm	twelve p m
+2:05.26	two minutes five seconds and twenty six milliseconds
+9:00 p.m.	nine p m
+18:17	eighteen seventeen
+2:30 am	two thirty a m
+2:50	two fifty
+16:10	sixteen ten
+6:30 am	six thirty a m
+10:30 am	ten thirty a m
+12:15 pm	twelve fifteen p m
+5:00pm EST	five p m e s t
+12:20	twelve twenty
+9: 20	nine twenty
+21:00	twenty one hundred
+22: 47	twenty two forty seven
+20:49	twenty forty nine
+21:30	twenty one thirty
+14:00	fourteen hundred
+10 AM	ten a m
+5 PM	five p m
+20:13	twenty thirteen
+20:20	twenty twenty
+7:02 a.m.	seven o two a m
+11:30	eleven thirty
+6:30	six thirty
+6 pm	six p m
+11 pm	eleven p m
+1:49.36	one minute forty nine seconds and thirty six milliseconds
+6:35	six thirty five
+16:10	sixteen ten
+20:20	twenty twenty
+20:25	twenty twenty five
+5:00	five o'clock
+16:45	sixteen forty five
+1:17:16	one hour seventeen minutes and sixteen seconds
+09:18	nine eighteen
+09:24	nine twenty four
+11:00 pm	eleven p m
+1:23	one twenty three
+16:14	sixteen fourteen
+20:11	twenty eleven
+2:56	two fifty six
+5:00pm	five p m
+10.20 pm	ten twenty p m
+12:20am	twelve twenty a m
+3:45	three forty five
+2:45PM PST	two forty five p m p s t
+3: 36	three thirty six
+5:15 pm	five fifteen p m
+4:26	four twenty six
+3:47	three forty seven
+3:57	three fifty seven
+3:50	three fifty
+9 AM	nine a m
+2pm	two p m
+11.30am	eleven thirty a m
+9 a.m.	nine a m
+5 p.m.	five p m
+01:31	one thirty one
+07.31	seven thirty one
+5: 45	five forty five
+5:25	five twenty five
+9 am	nine a m
+9 pm	nine p m
+10:00 p.m.	ten p m
+6: 25	six twenty five
+18:45	eighteen forty five
+1:11	one eleven
+6am	six a m
+7pm	seven p m
+6am	six a m
+12pm	twelve p m
+18:00	eighteen hundred
+0:50	zero fifty
+09:00	nine o'clock
+10:00 IST	ten o'clock i s t
+6:30 a.m.	six thirty a m
+AM2	two a m
+7:00	seven o'clock
+2:33 pm	two thirty three p m
+8:00 PM	eight p m
+09:59	nine fifty nine
+9:00 AM	nine a m
+1:00 PM	one p m
+3:39	three thirty nine
+4:26:30	four hours twenty six minutes and thirty seconds
+05:00 AM	five a m
+12:00 AM	twelve a m
+12:00	twelve o'clock
+4 pm	four p m
+7 pm	seven p m
+6:30 PM	six thirty p m
+8 PM	eight p m
+4:30am	four thirty a m
+5am	five a m
+1pm	one p m
+7:00 AM	seven a m
+3:20	three twenty
+7:12	seven twelve
+4:00 AM	four a m
+12:00	twelve o'clock
+2:01.71	two minutes one second and seventy one milliseconds
+2am	two a m
+5am	five a m
+6:11	six eleven
+1:14	one fourteen
+5 am	five a m
+9:36:33	nine hours thirty six minutes and thirty three seconds
+15:00	fifteen hundred
+1:07	one o seven
+7:00 am	seven a m
+16:16	sixteen sixteen
+7: 31	seven thirty one
+2:27:11	two hours twenty seven minutes and eleven seconds
+1:11	one eleven
+11: 50	eleven fifty
+10:30 pm	ten thirty p m
+9:30 pm	nine thirty p m
+4:10 am	four ten a m
+09:00	nine o'clock
+23:22	twenty three twenty two
+16:00	sixteen hundred
+11:00AM	eleven a m
+8: 33	eight thirty three
+1:55	one fifty five
+2:46:13	two hours forty six minutes and thirteen seconds
+5:00	five o'clock
+6:07 PM	six o seven p m
+09:15	nine fifteen
+8:13	eight thirteen
+2: 37	two thirty seven
+8:15am	eight fifteen a m
+9:00 a.m.	nine a m
+7:05 pm	seven o five p m
+1:41	one forty one
+08:30	eight thirty
+9:08 p.m.	nine o eight p m
+10:23	ten twenty three
+22:33	twenty two thirty three
+1 a.m.	one a m
+00:47:57	zero hours forty seven minutes and fifty seven seconds
+15:43	fifteen forty three
+02:44 UTC	two forty four u t c
+8 am	eight a m
+8 pm	eight p m
+00:54:00	zero hours fifty four minutes and zero seconds
+8:30 p.m. CDT	eight thirty p m c d t
+21:27	twenty one twenty seven
+9 am	nine a m
+2:35	two thirty five
+12:12 CET	twelve twelve c e t
+7:16 a.m. EDT	seven sixteen a m e d t
+5:40	five forty
+03.38	three thirty eight
+12:30 p.m.	twelve thirty p m
+7:45.02	seven minutes forty five seconds and two milliseconds
+9PM	nine p m
+12:51	twelve fifty one
+9pm	nine p m
+10:30PM	ten thirty p m
+8pm	eight p m
+0:24	zero twenty four
+9:00 AM	nine a m
+10PM	ten p m
+7:00 pm PDT	seven p m p d t
+11:30 AM PDT	eleven thirty a m p d t
+00.00	zero hundred
+09.15	nine fifteen
+20:29	twenty twenty nine
+3:20	three twenty
+13:14	thirteen fourteen
+4 a.m.	four a m
+03:35	three thirty five
+14:00	fourteen hundred
+2:25:03	two hours twenty five minutes and three seconds
+6:00 am	six a m
+2:39	two thirty nine
+20:45	twenty forty five
+15: 39	fifteen thirty nine
+3:12	three twelve
+2:29 pm	two twenty nine p m
+18:29 UTC	eighteen twenty nine u t c
+3:33	three thirty three
+04:45 UTC	four forty five u t c
+9:35pm	nine thirty five p m
+4:44	four forty four
+00.05	zero o five
+10:27	ten twenty seven
+19:08	nineteen o eight
+8:46	eight forty six
+8:52	eight fifty two
+12:01am	twelve o one a m
+5:51	five fifty one
+8:00am	eight a m
+9 a.m.	nine a m
+15:15	fifteen fifteen
+13:30	thirteen thirty
+17:00	seventeen hundred
+10am	ten a m
+3pm	three p m
+21: 13	twenty one thirteen
+11:32 pm	eleven thirty two p m
+2:55PM	two fifty five p m
+19:45 GMT	nineteen forty five g m t
+15:00	fifteen hundred
+5pm	five p m
+4:45	four forty five
+22: 24	twenty two twenty four
+3 pm	three p m
+7 pm	seven p m
+18:02	eighteen o two
+10: 37	ten thirty seven
+04:00	four o'clock
+4:42	four forty two
+12:00	twelve o'clock
+4:15	four fifteen
+2:00 p.m.	two p m
+11am	eleven a m
+03:55	three fifty five
+3:21	three twenty one
+3:11	three eleven
+3:20	three twenty
+3:12	three twelve
+7am	seven a m
+8.30am	eight thirty a m
+7: 23	seven twenty three
+06.26	six twenty six
+6:00am	six a m
+5:00 pm CST	five p m c s t
+20:00	twenty hundred
+5:30 CET	five thirty c e t
+2:34.4	two minutes thirty four seconds and four milliseconds
+16:00	sixteen hundred
+20:50	twenty fifty
+3:30	three thirty
+04:39	four thirty nine
+11:30	eleven thirty
+3:24	three twenty four
+4:42pm PST	four forty two p m p s t
+04:20:44 UTC	four hours twenty minutes and forty four seconds u t c
+10:35:16 UTC	ten hours thirty five minutes and sixteen seconds u t c
+14:00	fourteen hundred
+3:40	three forty
+3 p.m.	three p m
+12:01 am BST	twelve o one a m b s t
+8:05pm	eight o five p m
+3:35 p.m.	three thirty five p m
+9.00 pm	nine p m
+12:35 p.m.	twelve thirty five p m
+13:00	thirteen hundred
+12:20am	twelve twenty a m
+4: 10	four ten
+06:59:30 UTC	six hours fifty nine minutes and thirty seconds u t c
+22:25	twenty two twenty five
+09:29:58 UTC	nine hours twenty nine minutes and fifty eight seconds u t c
+05:59:57 UTC	five hours fifty nine minutes and fifty seven seconds u t c
+15:06	fifteen o six
+15:57 GMT	fifteen fifty seven g m t
+2:59	two fifty nine
+11:03	eleven o three
+17:00	seventeen hundred
+11:05	eleven o five
+1:25	one twenty five
+7:45 a.m.	seven forty five a m
+5:19	five nineteen
+2:00 PM	two p m
+0:41	zero forty one
+6:19	six nineteen
+3: 26	three twenty six
+2pm	two p m
+7pm	seven p m
+07.53AM IST	seven fifty three a m i s t
+3:43.2	three minutes forty three seconds and two milliseconds
+14:00	fourteen hundred
+9:53pm	nine fifty three p m
+6pm	six p m
+7pm	seven p m
+12:08 PM	twelve o eight p m
+11: 23	eleven twenty three
+6:00 AM	six a m
+1pm	one p m
+3 PM	three p m
+7:30	seven thirty
+7:57 EDT	seven fifty seven e d t
+2:15.1	two minutes fifteen seconds and one millisecond
+8:06.7	eight minutes six seconds and seven milliseconds
+16:13.1	sixteen minutes thirteen seconds and one millisecond
+1:19	one nineteen
+5:12	five twelve
+8:19	eight nineteen
+10:30pm	ten thirty p m
+10:15	ten fifteen
+15: 33	fifteen thirty three
+14:20	fourteen twenty
+1:19	one nineteen
+00:00	zero hundred
+07.45pm IST	seven forty five p m i s t
+4:31	four thirty one
+6:00 a.m.	six a m
+8:26	eight twenty six
+12:56 a.m.	twelve fifty six a m
+24: 24	twenty four twenty four
+10.22AM IST	ten twenty two a m i s t
+1:00	one o'clock
+06:00	six o'clock
+08:20:24 UTC	eight hours twenty minutes and twenty four seconds u t c
+4pm	four p m
+3pm	three p m
+9: 17	nine seventeen
+6pm	six p m
+11pm	eleven p m
+2:45am	two forty five a m
+4 pm	four p m
+19:22	nineteen twenty two
+16:16	sixteen sixteen
+11pm	eleven p m
+1am	one a m
+18:15	eighteen fifteen
+18:10	eighteen ten
+3:16	three sixteen
+06.22	six twenty two
+06.53	six fifty three
+07.24	seven twenty four
+07.55	seven fifty five
+08.27	eight twenty seven
+8:00 am	eight a m
+1:00pm	one p m
+3:00pm	three p m
+4:00 am EDT	four a m e d t
+11 pm	eleven p m
+7 am	seven a m
+20:52	twenty fifty two
+12:15am	twelve fifteen a m
+17:20	seventeen twenty
+9:30 PM	nine thirty p m
+15:00	fifteen hundred
+10 p.m.	ten p m
+18:00 UTC	eighteen hundred u t c
+15:12 EET	fifteen twelve e e t
+14:10:56	fourteen hours ten minutes and fifty six seconds
+14:34	fourteen thirty four
+0:55	zero fifty five
+7:30 AM	seven thirty a m
+2:07.17	two minutes seven seconds and seventeen milliseconds
+10:30am	ten thirty a m
+2:00 AM	two a m
+2:24:26	two hours twenty four minutes and twenty six seconds
+5:05	five o five
+13:37.97	thirteen minutes thirty seven seconds and ninety seven milliseconds
+18:30	eighteen thirty
+2 PM	two p m
+2:52	two fifty two
+5:05	five o five
+12:20 pm NZST	twelve twenty p m n z s t
+20:31	twenty thirty one
+16:00	sixteen hundred
+20:33	twenty thirty three
+06:45	six forty five
+17:28	seventeen twenty eight
+17:28	seventeen twenty eight
+6am	six a m
+9pm	nine p m
+04:40	four forty
+AM2	two a m
+3pm	three p m
+4:35	four thirty five
+4:16	four sixteen
+09:02:57	nine hours two minutes and fifty seven seconds
+09:04:57	nine hours four minutes and fifty seven seconds
+7 AM	seven a m
+3:35	three thirty five
+05:30	five thirty
+07:00	seven o'clock
+18:20	eighteen twenty
+19:00	nineteen hundred
+1:16.43	one minute sixteen seconds and forty three milliseconds
+1:57.96	one minute fifty seven seconds and ninety six milliseconds
+4:14.90	four minutes fourteen seconds and ninety milliseconds
+8:11.03	eight minutes eleven seconds and three milliseconds
+4: 49	four forty nine
+14:17	fourteen seventeen
+6:13	six thirteen
+11:45 p.m.	eleven forty five p m
+10:45 p.m.	ten forty five p m
+2:10	two ten
+3:05	three o five
+10:24	ten twenty four
+17:31	seventeen thirty one
+7:05 am	seven o five a m
+14:24	fourteen twenty four
+10:40	ten forty
+3:30	three thirty
+5:15pm	five fifteen p m
+17:16 GMT	seventeen sixteen g m t
+2:46:48	two hours forty six minutes and forty eight seconds
+04:40	four forty
+24: 46	twenty four forty six
+4:13	four thirteen
+4:26	four twenty six
+12:09 am	twelve o nine a m
+09:00	nine o'clock
+10:30 pm	ten thirty p m
+10:30pm	ten thirty p m
+10:11 BST	ten eleven b s t
+3:43	three forty three
+23:00	twenty three hundred
+18:00	eighteen hundred
+19:00	nineteen hundred
+19:00	nineteen hundred
+20:00	twenty hundred
+20:00	twenty hundred
+21:00	twenty one hundred
+08.08	eight o eight
+3:10 a.m.	three ten a m
+2:31:26	two hours thirty one minutes and twenty six seconds
+4:00 AM	four a m
+6:00 AM	six a m
+12 am	twelve a m
+8pm	eight p m
+23:40	twenty three forty
+11.50 pm	eleven fifty p m
+15: 18	fifteen eighteen
+9:30am	nine thirty a m
+11:30am	eleven thirty a m
+7:00pm	seven p m
+5:39	five thirty nine
+5:52	five fifty two
+3:12.11	three minutes twelve seconds and eleven milliseconds
+13:57 UTC	thirteen fifty seven u t c
+9:30 pm	nine thirty p m
+13:46	thirteen forty six
+10PM	ten p m
+7pm IST	seven p m i s t
+5:39	five thirty nine
+3:16	three sixteen
+1:30 am	one thirty a m
+10 am	ten a m
+11:15am	eleven fifteen a m
+2pm	two p m
+4:15pm	four fifteen p m
+7:30pm	seven thirty p m
+10:30 p.m.	ten thirty p m
+2:08	two o eight
+12:00	twelve o'clock
+14:00	fourteen hundred
+3:04	three o four
+12.00AM IST	twelve a m i s t
+1:53	one fifty three
+06:14	six fourteen
+7:13	seven thirteen
+8: 45	eight forty five
+4:12	four twelve
+00.15	zero fifteen
+1:36:45	one hour thirty six minutes and forty five seconds
+3: 15	three fifteen
+5 a.m.	five a m
+1 a.m.	one a m
+4:00 AM	four a m
+4:41.1	four minutes forty one seconds and one millisecond
+1:20pm	one twenty p m
+5:35 am	five thirty five a m
+6:15 am	six fifteen a m
+2:08	two o eight
+17:50:15	seventeen hours fifty minutes and fifteen seconds
+10AM	ten a m
+11:24 KST	eleven twenty four k s t
+12:55	twelve fifty five
+23:00	twenty three hundred
+2:50 p.m.	two fifty p m
+2:56	two fifty six
+5:58	five fifty eight
+22:44	twenty two forty four
+23:57	twenty three fifty seven
+09:57	nine fifty seven
+12:27	twelve twenty seven
+15:50	fifteen fifty
+09:57	nine fifty seven
+12:27	twelve twenty seven
+14:30	fourteen thirty
+15:50	fifteen fifty
+17:08	seventeen o eight
+8 AM	eight a m
+6:00 pm	six p m
+4:21	four twenty one
+4:42	four forty two
+4:13	four thirteen
+4:56	four fifty six
+8:00 pm	eight p m
+17:01	seventeen o one
+7:00	seven o'clock
+18:00 UTC	eighteen hundred u t c
+2:50	two fifty
+3:09.21	three minutes nine seconds and twenty one milliseconds
+3:09.52	three minutes nine seconds and fifty two milliseconds
+3:09.89	three minutes nine seconds and eighty nine milliseconds
+8:18 AM ET	eight eighteen a m e t
+10PM ET	ten p m e t
+10:30 p.m.	ten thirty p m
+8 p.m. ET	eight p m e t
+3:34.34	three minutes thirty four seconds and thirty four milliseconds
+1: 28	one twenty eight
+21:55	twenty one fifty five
+15:16	fifteen sixteen
+6:02	six o two
+4:53	four fifty three
+1:30pm	one thirty p m
+20:30	twenty thirty
+01.01	one o one
+4:03	four o three
+2:50	two fifty
+1 am CST	one a m c s t
+10 pm	ten p m
+10:00	ten o'clock
+2 P.M.	two p m
+3:04 PM	three o four p m
+28:18.8	twenty eight minutes eighteen seconds and eight milliseconds
+8 p.m.	eight p m
+6 a.m.	six a m
+6PM	six p m
+2:27:29	two hours twenty seven minutes and twenty nine seconds
+2:30	two thirty
+5:50pm	five fifty p m
+1:57	one fifty seven
+3:00	three o'clock
+24: 15	twenty four fifteen
+03.40	three forty
+7:42 PM	seven forty two p m
+4pm	four p m
+7pm	seven p m
+6 PM	six p m
+9 PM	nine p m
+18:51	eighteen fifty one
+8:30 a.m.	eight thirty a m
+3:22	three twenty two
+05.16AM IST	five sixteen a m i s t
+8 pm	eight p m
+1:08.9	one minute eight seconds and nine milliseconds
+4:18.02	four minutes eighteen seconds and two milliseconds
+10 pm	ten p m
+02.59am IST	two fifty nine a m i s t
+10 am	ten a m
+6 pm	six p m
+5:37	five thirty seven
+7:30	seven thirty
+6:30 p.m.	six thirty p m
+2:07.35	two minutes seven seconds and thirty five milliseconds
+AM2	two a m
+6:00pm	six p m
+11:00am	eleven a m
+6:00pm	six p m
+9am	nine a m
+2pm	two p m
+3:04	three o four
+11:24	eleven twenty four
+12:00:00Z	twelve hours zero minutes and zero seconds z
+16: 41	sixteen forty one
+9pm	nine p m
+15:10	fifteen ten
+1:50	one fifty
+3pm	three p m
+8 a.m.	eight a m
+12:30	twelve thirty
+5 PM EDT	five p m e d t
+22:12	twenty two twelve
+1: 50	one fifty
+12:50 pm	twelve fifty p m
+1:28	one twenty eight
+15:30	fifteen thirty
+2:12:22	two hours twelve minutes and twenty two seconds
+8:28 pm	eight twenty eight p m
+4:00 p.m.	four p m
+1:40:15	one hour forty minutes and fifteen seconds
+15:44	fifteen forty four
+3:16	three sixteen
+04:15AM	four fifteen a m
+9:45 PM	nine forty five p m
+6:37.28	six minutes thirty seven seconds and twenty eight milliseconds
+5PM	five p m
+19:21	nineteen twenty one
+4 am	four a m
+8:29 AM	eight twenty nine a m
+12:11	twelve eleven
+3:35.91	three minutes thirty five seconds and ninety one milliseconds
+2am	two a m
+3:37	three thirty seven
+7:21	seven twenty one
+7:42	seven forty two
+12:00	twelve o'clock
+1:30pm	one thirty p m
+9pm	nine p m
+20:30	twenty thirty
+8:32	eight thirty two
+10:30pm	ten thirty p m
+2:33PM	two thirty three p m
+2:15 pm	two fifteen p m
+2:04.84	two minutes four seconds and eighty four milliseconds
+2:25	two twenty five
+16:00	sixteen hundred
+00:00	zero hundred
+9am	nine a m
+9pm	nine p m
+1pm	one p m
+19:13 GMT	nineteen thirteen g m t
+4:34	four thirty four
+2:30	two thirty
+2:34	two thirty four
+03:16 UTC	three sixteen u t c
+8pm	eight p m
+12:03	twelve o three
+20:30	twenty thirty
+8:20 AM	eight twenty a m
+15:24	fifteen twenty four
+8 am	eight a m
+3:31.93	three minutes thirty one seconds and ninety three milliseconds
+5 p.m.	five p m
+7 p.m.	seven p m
+11 p.m.	eleven p m
+8:00pm	eight p m
+1: 22	one twenty two
+5:00 PM	five p m
+7:30	seven thirty
+4:32	four thirty two
+06:40:54 EDT	six hours forty minutes and fifty four seconds e d t
+6:00 AM	six a m
+11:30 PM	eleven thirty p m
+1 a.m.	one a m
+09.30	nine thirty
+7pm	seven p m
+21:00	twenty one hundred
+14:47	fourteen forty seven
+3am	three a m
+1:00 p.m.	one p m
+21:45	twenty one forty five
+10:00	ten o'clock
+07:08	seven o eight
+9 p.m.	nine p m
+08:50	eight fifty
+7am	seven a m
+10pm	ten p m
+9am	nine a m
+6.30pm	six thirty p m
+10.30pm	ten thirty p m
+17:05	seventeen o five
+11am	eleven a m
+11:24 pm	eleven twenty four p m
+11:48 pm	eleven forty eight p m
+00:34:36 UTC	zero hours thirty four minutes and thirty six seconds u t c
+6 a.m.	six a m
+9 a.m.	nine a m
+2:30 PM	two thirty p m
+12:00	twelve o'clock
+12: 15	twelve fifteen
+10 p.m.	ten p m
+2:14:54	two hours fourteen minutes and fifty four seconds
+11pm	eleven p m
+3am	three a m
+8:05 a.m.	eight o five a m
+2:50 p.m.	two fifty p m
+3: 28	three twenty eight
+17:43	seventeen forty three
+4:05	four o five
+9:00PM	nine p m
+11am	eleven a m
+15:00	fifteen hundred
+9pm	nine p m
+11am	eleven a m
+23:31	twenty three thirty one
+24:28	twenty four twenty eight
+8:24	eight twenty four
+6:26	six twenty six
+12:00 pm	twelve p m
+4:45 p.m.	four forty five p m
+21:19	twenty one nineteen
+9:40 pm	nine forty p m
+1:10 am	one ten a m
+7:53	seven fifty three
+8:11	eight eleven
+8:00	eight o'clock
+6:30pm	six thirty p m
+23:11	twenty three eleven
+9:30	nine thirty
+10:30am	ten thirty a m
+11am	eleven a m
+6:15 pm	six fifteen p m
+5 p.m.	five p m
+5:30 p.m.	five thirty p m
+6 p.m.	six p m
+11 p.m.	eleven p m
+10 p.m.	ten p m
+3:00	three o'clock
+6:45 P. M.	six forty five p m
+1: 39	one thirty nine
+5:00AM	five a m
+18:10	eighteen ten
+3:38	three thirty eight
+20:15	twenty fifteen
+22:30	twenty two thirty
+12.00AM IST	twelve a m i s t
+20:07	twenty o seven
+2:00 am	two a m
+10:00 am	ten a m
+21:20	twenty one twenty
+7: 43	seven forty three
+2 p.m.	two p m
+10:30	ten thirty
+21:10	twenty one ten
+3:09	three o nine
+5:12	five twelve
+2: 20	two twenty
+07:00	seven o'clock
+15:00	fifteen hundred
+12:00	twelve o'clock
+1:38	one thirty eight
+6AM	six a m
+8PM	eight p m
+20:00	twenty hundred
+1:08	one o eight
+2:30 PM	two thirty p m
+5 pm	five p m
+7:30 AM	seven thirty a m
+4pm	four p m
+6pm	six p m
+9:00 AM	nine a m
+10.15 AM	ten fifteen a m
+7: 29	seven twenty nine
+4:16	four sixteen
+5:39	five thirty nine
+3:03:27	three hours three minutes and twenty seven seconds
+06:00	six o'clock
+1:47.31	one minute forty seven seconds and thirty one milliseconds
+4:30 P.M.	four thirty p m
+1:51	one fifty one
+1:21	one twenty one
+1:28	one twenty eight
+10am	ten a m
+2pm	two p m
+8am	eight a m
+3:55.17	three minutes fifty five seconds and seventeen milliseconds
+12:30 p.m.	twelve thirty p m
+9:25	nine twenty five
+7pm	seven p m
+1am	one a m
+2:12 p.m.	two twelve p m
+6 am	six a m
+24:11	twenty four eleven
+5:00 AM	five a m
+18:23	eighteen twenty three
+7:30 am	seven thirty a m
+16:20 EET	sixteen twenty e e t
+14:20 UTC	fourteen twenty u t c
+10pm ET	ten p m e t
+10:00	ten o'clock
+10:50 a.m.	ten fifty a m
+10:00 CST	ten o'clock c s t
+1:15	one fifteen
+7:00 A.M.	seven a m
+7:00 P.M.	seven p m
+05:40	five forty
+7: 38	seven thirty eight
+11:21	eleven twenty one
+6:00 am	six a m
+1:43	one forty three
+2:10:45	two hours ten minutes and forty five seconds
+10:00	ten o'clock
+10.45 AM	ten forty five a m
+4:10 pm	four ten p m
+0:11	zero eleven
+10:00 am	ten a m
+8:30 p.m.	eight thirty p m
+3:50 am	three fifty a m
+2:15 a.m.	two fifteen a m
+00:00 UTC	zero hundred u t c
+1:24.6	one minute twenty four seconds and six milliseconds
+11:48 UTC	eleven forty eight u t c
+10 a.m.	ten a m
+7:30 p.m.	seven thirty p m
+18:30	eighteen thirty
+22:30 EST	twenty two thirty e s t
+9:41:55	nine hours forty one minutes and fifty five seconds
+5:07	five o seven
+4:48	four forty eight
+1 a.m.	one a m
+2am	two a m
+6:15	six fifteen
+6:12	six twelve
+8pm	eight p m
+22:03	twenty two o three
+03:00	three o'clock
+1:08:22	one hour eight minutes and twenty two seconds
+6:13	six thirteen
+23:01	twenty three o one
+04.53am IST	four fifty three a m i s t
+2:10.34	two minutes ten seconds and thirty four milliseconds
+17:11	seventeen eleven
+18:36	eighteen thirty six
+13:00	thirteen hundred
+19:06	nineteen o six
+6 AM	six a m
+12:30 AM	twelve thirty a m
+7:42 AM	seven forty two a m
+2:22:11	two hours twenty two minutes and eleven seconds
+2:42	two forty two
+41:21:23	forty one hours twenty one minutes and twenty three seconds
+18:54	eighteen fifty four
+19:38	nineteen thirty eight
+19:55	nineteen fifty five
+18:38	eighteen thirty eight
+09:27am	nine twenty seven a m
+9:30 p.m.	nine thirty p m
+1:04	one o four
+1:38	one thirty eight
+1:04	one o four
+0:54	zero fifty four
+14:00	fourteen hundred
+1:32	one thirty two
+2pm	two p m
+3 p.m.	three p m
+04:10	four ten
+2:15	two fifteen
+3:42	three forty two
+9pm	nine p m
+15:00 GMT	fifteen hundred g m t
+10pm	ten p m
+4:15	four fifteen
+8 a.m.	eight a m
+3:39.11	three minutes thirty nine seconds and eleven milliseconds
+22:45	twenty two forty five
+01:00	one o'clock
+9:00 PM	nine p m
+23:34 pm	eleven thirty four p m
+2:13	two thirteen
+2pm	two p m
+6pm	six p m
+20: 19	twenty nineteen
+19:00	nineteen hundred
+18:56	eighteen fifty six
+3:53.3	three minutes fifty three seconds and three milliseconds
+8:50 p.m.	eight fifty p m
+3:00 PM	three p m
+7pm	seven p m
+20:31	twenty thirty one
+05:47	five forty seven
+6.10 pm	six ten p m
+1:30 AM	one thirty a m
+3:00 a.m.	three a m
+5:06 AM	five o six a m
+1:54 AM	one fifty four a m
+10:28	ten twenty eight
+9:00 pm	nine p m
+1:14:00	one hour fourteen minutes and zero seconds
+07:02	seven o two
+21:03	twenty one o three
+9: 11	nine eleven
+11pm ET	eleven p m e t
+10:28 PM	ten twenty eight p m
+4:12	four twelve
+4:46PM GMT	four forty six p m g m t
+7: 35	seven thirty five
+16:56	sixteen fifty six
+9 am	nine a m
+5 pm	five p m
+6:33:58	six hours thirty three minutes and fifty eight seconds
+6:35 pm	six thirty five p m
+10pm	ten p m
+1am	one a m
+19:00	nineteen hundred
+8 PM	eight p m
+1:50	one fifty
+9:00	nine o'clock
+1:54	one fifty four
+11:00am	eleven a m
+1:00pm	one p m
+6 p.m.	six p m
+17:00	seventeen hundred
+6:37PM PDT	six thirty seven p m p d t
+18:00	eighteen hundred
+19:26 IST	nineteen twenty six i s t
+0:07:00	zero hours seven minutes and zero seconds
+20:30	twenty thirty
+23:11	twenty three eleven
+9:17 AM	nine seventeen a m
+4:30 PM	four thirty p m
+09:48 UTC	nine forty eight u t c
+8:30 p.m.	eight thirty p m
+2:14	two fourteen
+9: 33	nine thirty three
+23: 20	twenty three twenty
+20: 23	twenty twenty three
+20:28	twenty twenty eight
+07:30	seven thirty
+11:30	eleven thirty
+13:00	thirteen hundred
+16:30	sixteen thirty
+10am	ten a m
+7pm	seven p m
+9am	nine a m
+4pm	four p m
+22:00	twenty two hundred
+19:05:55	nineteen hours five minutes and fifty five seconds
+7:30 p.m.	seven thirty p m
+0:21	zero twenty one
+04:23	four twenty three
+10:53	ten fifty three
+13:00	thirteen hundred
+9am	nine a m
+3pm	three p m
+8:30	eight thirty
+10:00	ten o'clock
+8pm	eight p m
+7pm	seven p m
+7:01 p.m.	seven o one p m
+9.10 am	nine ten a m
+6:30 p.m.	six thirty p m
+14:02	fourteen o two
+1:19	one nineteen
+08:19	eight nineteen
+7.30 am	seven thirty a m
+9.30 am	nine thirty a m
+6:21.51	six minutes twenty one seconds and fifty one milliseconds
+2:30	two thirty
+8 p.m.	eight p m
+4 p.m.	four p m
+9:11	nine eleven
+4:25 pm	four twenty five p m
+5:42 pm	five forty two p m
+10:23 pm	ten twenty three p m
+8 AM	eight a m
+11:30	eleven thirty
+3:33	three thirty three
+11: 14	eleven fourteen
+2:46	two forty six
+6.30pm	six thirty p m
+8.30pm	eight thirty p m
+12:10 p.m.	twelve ten p m
+9:00 PM	nine p m
+5:16	five sixteen
+4:40	four forty
+2:47	two forty seven
+18:30:00 GMT	eighteen hours thirty minutes and zero seconds g m t
+6.00am	six a m
+10pm	ten p m
+12:00	twelve o'clock
+19:15	nineteen fifteen
+5:00am	five a m
+2:14	two fourteen
+4 PM	four p m
+1 PM	one p m
+2:20 PM CDT	two twenty p m c d t
+2am	two a m
+3:41am	three forty one a m
+1:00PM IST	one p m i s t
+2.30am	two thirty a m
+8:40pm	eight forty p m
+5:20 p.m.	five twenty p m
+2AM	two a m
+7pm	seven p m
+16:12:21	sixteen hours twelve minutes and twenty one seconds
+19:17	nineteen seventeen
+2PM	two p m
+2pm	two p m
+7pm	seven p m
+9 a.m.	nine a m
+24: 51	twenty four fifty one
+6:40	six forty
+10:30 p.m.	ten thirty p m
+15:52	fifteen fifty two
+14:17	fourteen seventeen
+11:23	eleven twenty three
+5:17	five seventeen
+3am	three a m
+13:49	thirteen forty nine
+2am	two a m
+20:10	twenty ten
+1:10	one ten
+06.03	six o three
+2:40:50	two hours forty minutes and fifty seconds
+3 AM	three a m
+2:41	two forty one
+1 a.m.	one a m
+01.10	one ten
+8:23 PM	eight twenty three p m
+05:11 UTC	five eleven u t c
+2:30	two thirty
+1:30	one thirty
+2:23pm	two twenty three p m
+8 pm	eight p m
+1:58.3	one minute fifty eight seconds and three milliseconds
+1:13.7	one minute thirteen seconds and seven milliseconds
+2:15	two fifteen
+7:30	seven thirty
+14: 19	fourteen nineteen
+13:37:19 UTC	thirteen hours thirty seven minutes and nineteen seconds u t c
+10:00am	ten a m
+3:12	three twelve
+3:11	three eleven
+8:06.11	eight minutes six seconds and eleven milliseconds
+1pm	one p m
+15:02 UTC	fifteen o two u t c
+4:00 pm CST	four p m c s t
+1:05	one o five
+09.00	nine o'clock
+10pm	ten p m
+8pm	eight p m
+2:18	two eighteen
+1:40	one forty
+4:00 pm	four p m
+9 AM,	nine a m
+24:35	twenty four thirty five
+7 pm ET	seven p m e t
+16:00	sixteen hundred
+22: 13	twenty two thirteen
+2:30 pm	two thirty p m
+7:30 PM	seven thirty p m
+AM3	three a m
+5:00 pm	five p m
+6:00 pm	six p m
+6 a.m.	six a m
+1:27	one twenty seven
+3:10	three ten
+9:17	nine seventeen
+3:22	three twenty two
+7:30 pm	seven thirty p m
+06:25	six twenty five
+2:25	two twenty five
+3:14	three fourteen
+2:06:58	two hours six minutes and fifty eight seconds
+7.10 p.m.	seven ten p m
+7.40 p.m.	seven forty p m
+11.00 am	eleven a m
+3:36	three thirty six
+12:54.12	twelve minutes fifty four seconds and twelve milliseconds
+9pm	nine p m
+11:11	eleven eleven
+09:14pm	nine fourteen p m
+2:10:45	two hours ten minutes and forty five seconds
+11:58 AM	eleven fifty eight a m
+22:00	twenty two hundred
+1:55	one fifty five
+20: 14	twenty fourteen
+2:06:50	two hours six minutes and fifty seconds
+2:05	two o five
+10:20	ten twenty
+3:24	three twenty four
+06.15	six fifteen
+14:54	fourteen fifty four
+1:43PM	one forty three p m
+3:51	three fifty one
+3:50	three fifty
+3:57.99	three minutes fifty seven seconds and ninety nine milliseconds
+7:50	seven fifty
+13:33	thirteen thirty three
+09.09	nine o nine
+10:30 p.m.	ten thirty p m
+4:40pm	four forty p m
+9am	nine a m
+3:53.23	three minutes fifty three seconds and twenty three milliseconds
+5:15	five fifteen
+12:00	twelve o'clock
+7:20	seven twenty
+5:05	five o five
+1:55.1	one minute fifty five seconds and one millisecond
+1:54.8	one minute fifty four seconds and eight milliseconds
+7:30pm	seven thirty p m
+9:03 AM EST	nine o three a m e s t
+05:33 PM	five thirty three p m
+3:42 p.m. CDT	three forty two p m c d t
+7pm	seven p m
+1:30 am	one thirty a m
+20:36 BST	twenty thirty six b s t
+19:54	nineteen fifty four
+3:59.81	three minutes fifty nine seconds and eighty one milliseconds
+2.00pm	two p m
+7am	seven a m
+21:55	twenty one fifty five
+3:01	three o one
+2:54:48	two hours fifty four minutes and forty eight seconds
+5:44	five forty four
+9 PM	nine p m
+21:55	twenty one fifty five
+19:00 GMT	nineteen hundred g m t
+00:33	zero thirty three
+7:44.71	seven minutes forty four seconds and seventy one milliseconds
+2:53 p.m.	two fifty three p m
+7:00 pm	seven p m
+3 a.m.	three a m
+4: 20	four twenty
+6pm	six p m
+3:29 p.m. PST	three twenty nine p m p s t
+5:10 pm	five ten p m
+5:50pm	five fifty p m
+18:07	eighteen o seven
+20:11	twenty eleven
+10:53 pm	ten fifty three p m
+13:43	thirteen forty three
+1:19:55	one hour nineteen minutes and fifty five seconds
+11pm	eleven p m
+1:58.62	one minute fifty eight seconds and sixty two milliseconds
+05:30	five thirty
+12:34 pm	twelve thirty four p m
+5:07	five o seven
+9 pm	nine p m
+4 AM	four a m
+4 AM	four a m
+1:43 PM	one forty three p m
+11:38 a.m.	eleven thirty eight a m
+15:08	fifteen o eight
+17:55	seventeen fifty five
+2:00.0	two minutes zero seconds and zero milliseconds
+5:23	five twenty three
+5:13	five thirteen
+2:43	two forty three
+11.35am	eleven thirty five a m
+12.05pm	twelve o five p m
+01.09	one o nine
+13: 41	thirteen forty one
+8pm	eight p m
+5am	five a m
+02:55	two fifty five
+9PM	nine p m
+08:55	eight fifty five
+5:44pm	five forty four p m
+5:44pm	five forty four p m
+2:18	two eighteen
+3:46	three forty six
+8:00am	eight a m
+10:50pm	ten fifty p m
+8:00am	eight a m
+4:00pm	four p m
+16:30	sixteen thirty
+18:15 EET	eighteen fifteen e e t
+3:36	three thirty six
+23:32	twenty three thirty two
+4:24.63	four minutes twenty four seconds and sixty three milliseconds
+1:06	one o six
+4.09 pm	four o nine p m
+06:55	six fifty five
+15:25.48	fifteen minutes twenty five seconds and forty eight milliseconds
+1:55.64	one minute fifty five seconds and sixty four milliseconds
+7:45.37	seven minutes forty five seconds and thirty seven milliseconds
+1:16	one sixteen
+11 PM	eleven p m
+10pm	ten p m
+10.30pm	ten thirty p m
+9pm	nine p m
+5:40	five forty
+9:30pm ET	nine thirty p m e t
+11:30 PM	eleven thirty p m
+4:07	four o seven
+17:15	seventeen fifteen
+12: 43	twelve forty three
+01.02	one o two
+7:00 p.m.	seven p m
+10pm	ten p m
+2:23:51	two hours twenty three minutes and fifty one seconds
+10:00 PM	ten p m
+8 p.m. ET	eight p m e t
+2:12.43	two minutes twelve seconds and forty three milliseconds
+5:47	five forty seven
+2: 47	two forty seven
+6.30 p.m.	six thirty p m
+5: 41	five forty one
+12:30	twelve thirty
+4:02 p.m. EST	four o two p m e s t
+2:06	two o six
+06:02:35	six hours two minutes and thirty five seconds
+8:00 pm ET	eight p m e t
+2pm	two p m
+2:14	two fourteen
+10:35 p.m.	ten thirty five p m
+2:14:22	two hours fourteen minutes and twenty two seconds
+3:43	three forty three
+3:00	three o'clock
+5:21	five twenty one
+2:21	two twenty one
+12:00am	twelve a m
+00:03 EST	zero o three e s t
+17:30	seventeen thirty
+2:49	two forty nine
+9:00pm	nine p m
+9pm	nine p m
+7:30 PM EST	seven thirty p m e s t
+10pm	ten p m
+17:21	seventeen twenty one
+6am	six a m
+6pm	six p m
+4:29	four twenty nine
+10:20	ten twenty
+8:30pm	eight thirty p m
+8:30	eight thirty
+11pm	eleven p m
+07:00	seven o'clock
+12:00	twelve o'clock
+5 pm	five p m
+5:29	five twenty nine
+5:02	five o two
+10:36	ten thirty six
+3:32	three thirty two
+6:30 PM	six thirty p m
+5:06	five o six
+2:59 IST	two fifty nine i s t
+18:29	eighteen twenty nine
+04.15	four fifteen
+4:12	four twelve
+7:00 pm	seven p m
+11:30	eleven thirty
+1: 18	one eighteen
+4:10	four ten
+10:25	ten twenty five
+06:36	six thirty six
+21:31	twenty one thirty one
