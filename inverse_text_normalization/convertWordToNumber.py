@@ -111,7 +111,7 @@ def readNumber(string):
 def readDigit(string):
     #DIGIT
     dict_digit  = {'o': 0 ,'one':1, 'two':2 , 'three':3,'four':4 \
-        ,'five':5,'six':6,'seven':7,'eight':8,'nine':9}
+        ,'five':5,'six':6,'seven':7,'eight':8,'nine':9 , 'zero':0}
 
     list_token = string.split()
     result = []
@@ -254,34 +254,38 @@ def readMeasureWithNum(string, dict_measure):
 
 
 def decompotionNumberString(string):
-    dict_value = {'billion':'','million':'','thousand':'','hundred':'','unit':''}
-    unit = ['billion','million','thousand','hundred']
-    current_string = string
+	dict_value = {'trillion':'','billion':'','million':'','thousand':'','hundred':'','unit':''}
+	current_string = string
 
-    list_token = current_string.split('billion',1)
-    if len(list_token) > 1 : 
-        dict_value['billion'] = list_token[0].strip()
-        current_string = " ".join(list_token[1:])
+	list_token = current_string.split('trillion',1)
+	if len(list_token) > 1 : 
+		dict_value['trillion'] = list_token[0].strip()
+		current_string = " ".join(list_token[1:])
 
-    list_token = current_string.split('million',1)
-    if len(list_token) > 1 :
-        dict_value['million'] = list_token[0].strip()
-        current_string = " ".join(list_token[1:])
+	list_token = current_string.split('billion',1)
+	if len(list_token) > 1 : 
+		dict_value['billion'] = list_token[0].strip()
+		current_string = " ".join(list_token[1:])
 
-    list_token = current_string.split('thousand',1)
-    if len(list_token) >  1:
-        dict_value['thousand'] = list_token[0].strip()
-        current_string = " ".join(list_token[1:])
+	list_token = current_string.split('million',1)
+	if len(list_token) > 1 :
+		dict_value['million'] = list_token[0].strip()
+		current_string = " ".join(list_token[1:])
 
-    list_token = current_string.split('hundred',1)
-    if len(list_token) >  1:
-        dict_value['hundred'] = list_token[0].strip()
-        current_string = " ".join(list_token[1:])   
+	list_token = current_string.split('thousand',1)
+	if len(list_token) >  1:
+		dict_value['thousand'] = list_token[0].strip()
+		current_string = " ".join(list_token[1:])
 
-    dict_value['unit'] = current_string.strip()
+	list_token = current_string.split('hundred',1)
+	if len(list_token) >  1:
+		dict_value['hundred'] = list_token[0].strip()
+		current_string = " ".join(list_token[1:])   
+
+	dict_value['unit'] = current_string.strip()
 
 
-    return dict_value
+	return dict_value
     
 def checkValidUnit(string):
     if string =='':
@@ -851,14 +855,69 @@ def readVERBATIM(string):
     return " ".join(result)
 
 
+def readNumberEnglish(string):
+	try:
+		decompose = decompotionNumberString(string)
+		result = 0 
+		if decompose['trillion'] != '':
+			result += w2n.word_to_num(decompose['trillion']) * pow(10,12)
+		if decompose['billion'] != '':
+			result += w2n.word_to_num(decompose['billion']) * pow(10,9)
+		if decompose['million'] != '':
+			result += w2n.word_to_num(decompose['million']) * pow(10,6)
+		if decompose['thousand'] != '':
+			result += w2n.word_to_num(decompose['thousand']) * pow(10,3)
+		if decompose['hundred'] != '':
+			result += w2n.word_to_num(decompose['hundred']) * pow(10,2)	
+		if decompose['unit'] != '':
+			result += w2n.word_to_num(decompose['unit'])
+		return result
+	except:
+		return string
+
+def readDecimal(string):
+    
+    string = replaceZeroInAddress(string)
+    if 'minus' in string:
+        isMinus = True
+    else:
+        isMinus = False
+    string = string.replace('minus','')
+    tail_num = string.split()[-1]
+    if tail_num in ['trillion', 'billion','million', 'thousand', 'hundred']:
+        string = " ".join(string.split()[:-1])
+        containUnit = True 
+        unit = tail_num
+    else:
+        containUnit = False
+    if containUnit == False :
+        result = readDecimalNum(string)
+    else:
+        result = readDecimalNum(string) +" "+unit
+    if isMinus == True:
+        return '-'+result
+    else:
+        return result
+
+def readDecimalNum(string):
+    if 'point' not in string:
+        return str(readNumber(string))
+    else:
+        list_segment = string.split('point')
+        if len(list_segment) != 2:
+            return string 
+        else:
+            intege = list_segment[0]
+            decima = list_segment[1]
+            result_num = ''
+            if intege != '':
+                result_num += readNumber(intege)
+            result_num+='.'
+            if decima != '':
+                result_num += readDigit(decima)
+            return result_num  
+    
+
 if __name__ == "__main__":
-    # text = 'three hundred forty nine thousand eight hundred fifty seven dollars and twenty five cents'
-    # text = '14515'
-    # print(hanldeMixNumberMoney(text))
-    # text = 'thirty one thousand three hundred eighty nine dollars'
-    # text ='two billion eight million thirteen thousand three hundred eighty five'
-    # text ='two o one five sil one six sil n b a'
-    # text ='Interstate c c c Abcs '
-    # print(readTelePhone(text))
-    text = 'and sigma'
-    print(readVERBATIM(text))
+	text = 'point two o o two'
+	print(readDecimal(text))
