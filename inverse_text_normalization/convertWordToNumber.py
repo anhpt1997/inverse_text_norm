@@ -67,8 +67,28 @@ def readYear(string):
     if 'thousand' in string :
         return str(w2n.word_to_num(string))
     else:
-        head , tail = string.split()[0] , " ".join(string.split()[1:])
-        return str(w2n.word_to_num(head)) + str(w2n.word_to_num(tail))
+        # head , tail = string.split()[0] , " ".join(string.split()[1:])
+        # return str(w2n.word_to_num(head)) + str(w2n.word_to_num(tail))
+
+        isEndOfyear= False
+        if string[-4:] =='ties':
+            string = string[:-4] +'ty'
+            isEndOfyear = True 
+        if string[-1] =='s':
+            string = string[:-1]
+            isEndOfyear = True 
+
+        if 'hundred' not in string:
+            head , tail = string.split()[0] , " ".join(string.split()[1:])
+            if isEndOfyear == True:
+                return str(w2n.word_to_num(head)) + str(w2n.word_to_num(tail))+"s"
+            else:
+                return str(w2n.word_to_num(head)) + str(w2n.word_to_num(tail))
+        else:
+            if isEndOfyear == True:
+                return str(w2n.word_to_num(string.replace('hundred','').strip()))+"00" + "s"
+            else:
+                return str(w2n.word_to_num(string.replace('hundred','').strip()))+"00"
 
 def readDay(string):
     try:
@@ -78,8 +98,26 @@ def readDay(string):
 
 def readDate(string):
     #type date 
-    result = ''
+
+    days = ['monday',
+'tuesday',
+'wednesday',
+'thursday'
+,'friday',
+'saturday',
+'sunday']
+    containDay = False
+    for day in days :
+        if day in string:
+            containDay = True 
+            dayInString = day 
+    if containDay == True :
+        string = string.replace(dayInString,'')
+        result = dayInString.capitalize()+","+" "
+    else:
+        result = ''
     day , month , year = decompositDate(string)
+    print('year ', year)
     if day != '':
         d = readDay(day)
     else:
@@ -93,9 +131,15 @@ def readDate(string):
     else:
         y =''
     if string.split()[0].lower() == month.lower():
-        return m + " " +  d +"," +" " + y 
+        result += m + " " +  d +"," +" " + y 
     else:
-        return d +" "+m + " "+y
+        result += d +" "+m + " "+y
+    result = result.strip()
+    if result[-1] ==',':
+        return result[:-1]
+    else:
+        return result
+
 
 def testDate():
     with open('test_date.txt','r') as f:
@@ -919,5 +963,5 @@ def readDecimalNum(string):
     
 
 if __name__ == "__main__":
-	text = 'point two o o two'
+	text = 'minus four hundred thirty three million'
 	print(readDecimal(text))
